@@ -1851,14 +1851,14 @@ input[type="radio"]+label:before {
 input[type="checkbox"]:checked+label:before,
 input[type="radio"]:checked+label:before {
     background: #ffffff;
-    border-color: #9bf1ff;
+    border-color: #44344f;
     content: '\f00c';
     color: #242943;
 }
 
 input[type="checkbox"]:focus+label:before,
 input[type="radio"]:focus+label:before {
-    box-shadow: 0 0 0 2px #9bf1ff;
+    box-shadow: 0 0 0 2px #44344f;
 }
 
 input[type="radio"]+label:before {
@@ -2213,16 +2213,16 @@ ul.pagination li>.page {
 
 ul.pagination li>.page.active {
     background-color: #ffffff;
-    color: #242943;
+    color: #44344f;
 }
 
 ul.pagination li>.page.active:hover {
     background-color: #fffff;
-    color: #242943 !important;
+    color: #44344f !important;
 }
 
 ul.pagination li>.page.active:active {
-    background-color: #53e3fb;
+    background-color: #fff;
 }
 
 ul.pagination li:first-child {
@@ -2488,7 +2488,7 @@ button.primary,
 .button.primary {
     background-color: #ffffff;
     box-shadow: none;
-    color: #242943;
+    color: #44344f;
 }
 
 input[type="submit"].primary:hover,
@@ -2502,7 +2502,7 @@ button.primary:active,
 .button.primary:hover,
 .button.primary:active {
     background-color: #1c0221;
-    color: #242943 !important;
+    color: #44344f !important;
 }
 
 input[type="submit"].primary:active,
@@ -2749,7 +2749,7 @@ button:disabled,
     -webkit-flex-direction: row;
     -ms-flex-direction: row;
     flex-direction: row;
-    background-color: #2e3450;
+    background-color: #44344f;
 }
 
 .spotlights>section>.image {
@@ -2811,7 +2811,7 @@ button:disabled,
     -webkit-flex-direction: row-reverse;
     -ms-flex-direction: row-reverse;
     flex-direction: row-reverse;
-    background-color: #7b5e7b;
+    background-color: #44344f;
 }
 
 .spotlights>section:nth-child(2n)>.content {
@@ -2910,7 +2910,7 @@ button:disabled,
     display: -webkit-flex;
     display: -ms-flex;
     display: flex;
-    background-color: #7b5e7b;
+    background-color: #44344f;
     box-shadow: 0 0 0.25em 0 rgba(0, 0, 0, 0.15);
     cursor: default;
     font-weight: 600;
@@ -2941,7 +2941,7 @@ button:disabled,
     -ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
     transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
     background-color: #ffffff;
-    color: #1c0221;
+    color: #44344f;
     display: inline-block;
     line-height: 1.65em;
     margin-right: 0.325em;
@@ -2954,7 +2954,7 @@ button:disabled,
 }
 
 #header .logo:active strong {
-    background-color: #7b5e7b;
+    background-color: #fff;
     color: #44344f;
 }
 
