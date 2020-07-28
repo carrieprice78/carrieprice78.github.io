@@ -2949,13 +2949,13 @@ button:disabled,
 }
 
 #header .logo:hover strong {
-    background-color: #7b5e7b;
+    background-color: #44344f;
     color: #ffffff;
 }
 
 #header .logo:active strong {
     background-color: #7b5e7b;
-    color: #1c0221;
+    color: #44344f;
 }
 
 #header nav {
