@@ -259,18 +259,18 @@ a {
 
 a:hover {
     border-bottom-color: transparent;
-    color: #fffff;
+    color: #fff;
     !important;
 }
 
 a:active {
-    color: #fffff;
+    color: #fff;
     !important;
 }
 
 strong,
 b {
-    color: #ffffff;
+    color: #fff;
     font-weight: 600;
 }
 
@@ -289,7 +289,7 @@ h3,
 h4,
 h5,
 h6 {
-    color: #ffffff;
+    color: #ffff;
     font-weight: 600;
     line-height: 1.65;
     margin: 0 0 1em 0;
