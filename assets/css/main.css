@@ -1721,7 +1721,7 @@ textarea {
     -webkit-appearance: none;
     -ms-appearance: none;
     appearance: none;
-    background: rgba(212, 212, 255, 0.035);
+    background: #44344f;
     border: none;
     border-radius: 0;
     color: inherit;
@@ -1751,8 +1751,8 @@ input[type="search"]:focus,
 input[type="url"]:focus,
 select:focus,
 textarea:focus {
-    border-color: #9bf1ff;
-    box-shadow: 0 0 0 2px #9bf1ff;
+    border-color: #44344f;
+    box-shadow: 0 0 0 2px #44344f;
 }
 
 select {
@@ -1767,7 +1767,7 @@ select {
 
 select option {
     color: #ffffff;
-    background: #242943;
+    background: #44344f;
 }
 
 select:focus::-ms-value {
