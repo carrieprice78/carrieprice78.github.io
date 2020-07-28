@@ -1853,7 +1853,7 @@ input[type="radio"]:checked+label:before {
     background: #ffffff;
     border-color: #44344f;
     content: '\f00c';
-    color: #242943;
+    color: #44344f;
 }
 
 input[type="checkbox"]:focus+label:before,
@@ -1947,7 +1947,7 @@ input[type="radio"]+label:before {
 .icon.alt:before {
     background-color: #ffffff;
     border-radius: 100%;
-    color: #242943;
+    color: #44344f;
     display: inline-block;
     height: 2em;
     line-height: 2em;
@@ -1963,11 +1963,11 @@ a.icon.alt:before {
 }
 
 a.icon.alt:hover:before {
-    background-color: #87c5a4;
+    background-color: #fff;
 }
 
 a.icon.alt:active:before {
-    background-color: #87c5a4;
+    background-color: #fff;
 }
 
 
