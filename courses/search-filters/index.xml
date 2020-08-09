@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Search Filters | Carrie Price, MLS</title>
-    <link>/courses/search-filters/</link>
-      <atom:link href="/courses/search-filters/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://carrieprice78.github.io/courses/search-filters/</link>
+      <atom:link href="https://carrieprice78.github.io/courses/search-filters/index.xml" rel="self" type="application/rss+xml" />
     <description>Search Filters</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 03 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://carrieprice78.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Search Filters</title>
-      <link>/courses/search-filters/</link>
+      <link>https://carrieprice78.github.io/courses/search-filters/</link>
     </image>
     
     <item>
       <title>Aged</title>
-      <link>/courses/search-filters/aged/</link>
+      <link>https://carrieprice78.github.io/courses/search-filters/aged/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/courses/search-filters/aged/</guid>
+      <guid>https://carrieprice78.github.io/courses/search-filters/aged/</guid>
       <description>&lt;h2 id=&#34;existing-filters&#34;&gt;Existing Filters&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -39,9 +39,9 @@
     
     <item>
       <title>Children</title>
-      <link>/courses/search-filters/children/</link>
+      <link>https://carrieprice78.github.io/courses/search-filters/children/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/courses/search-filters/children/</guid>
+      <guid>https://carrieprice78.github.io/courses/search-filters/children/</guid>
       <description>&lt;h2 id=&#34;existing-filters&#34;&gt;Existing Filters&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -64,9 +64,9 @@
     
     <item>
       <title>Coronavirus</title>
-      <link>/courses/search-filters/coronavirus/</link>
+      <link>https://carrieprice78.github.io/courses/search-filters/coronavirus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/courses/search-filters/coronavirus/</guid>
+      <guid>https://carrieprice78.github.io/courses/search-filters/coronavirus/</guid>
       <description>&lt;h2 id=&#34;search-builder-for-covid-19&#34;&gt;Search Builder for COVID-19&lt;/h2&gt;
 &lt;h3 id=&#34;controlled-vocabulary&#34;&gt;Controlled Vocabulary&lt;/h3&gt;
 &lt;h4 id=&#34;pubmed&#34;&gt;PubMed&lt;/h4&gt;
@@ -87,9 +87,9 @@
     
     <item>
       <title>Critical Care</title>
-      <link>/courses/search-filters/critical-care/</link>
+      <link>https://carrieprice78.github.io/courses/search-filters/critical-care/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/courses/search-filters/critical-care/</guid>
+      <guid>https://carrieprice78.github.io/courses/search-filters/critical-care/</guid>
       <description>&lt;h2 id=&#34;controlled-vocabulary&#34;&gt;Controlled Vocabulary&lt;/h2&gt;
 &lt;h3 id=&#34;pubmed&#34;&gt;PubMed&lt;/h3&gt;
 &lt;p&gt;&amp;ldquo;burn units&amp;rdquo;[mesh] OR &amp;ldquo;coronary care units&amp;rdquo;[mesh] OR &amp;ldquo;critical care nursing&amp;rdquo;[mesh] OR &amp;ldquo;critical care&amp;rdquo;[mesh] OR &amp;ldquo;critical illness&amp;rdquo;[mesh] OR &amp;ldquo;critical care outcomes&amp;rdquo;[mesh] OR &amp;ldquo;early goal-directed therapy&amp;rdquo;[mesh] OR &amp;ldquo;intensive care units&amp;rdquo;[mesh] OR &amp;ldquo;intensive care units, neonatal&amp;rdquo;[mesh] OR &amp;ldquo;intensive care units, pediatric&amp;rdquo;[mesh] OR &amp;ldquo;intensive care, neonatal&amp;rdquo;[mesh] OR &amp;ldquo;recovery room&amp;rdquo;[mesh] OR &amp;ldquo;respiration, artificial&amp;rdquo;[mesh] OR &amp;ldquo;respiratory care units&amp;rdquo;[mesh]&lt;/p&gt;
@@ -106,9 +106,9 @@
     
     <item>
       <title>Database-Specific Searches</title>
-      <link>/courses/search-filters/database-specific/</link>
+      <link>https://carrieprice78.github.io/courses/search-filters/database-specific/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/courses/search-filters/database-specific/</guid>
+      <guid>https://carrieprice78.github.io/courses/search-filters/database-specific/</guid>
       <description>&lt;h2 id=&#34;pubmed&#34;&gt;PubMed&lt;/h2&gt;
 &lt;p&gt;PubMed has a number of subject filters built in and can be called by appending a search by typing the appropriate words and [sb].&lt;/p&gt;
 &lt;ul&gt;
@@ -156,9 +156,9 @@
     
     <item>
       <title>Early Mobility</title>
-      <link>/courses/search-filters/early-mobility/</link>
+      <link>https://carrieprice78.github.io/courses/search-filters/early-mobility/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/courses/search-filters/early-mobility/</guid>
+      <guid>https://carrieprice78.github.io/courses/search-filters/early-mobility/</guid>
       <description>&lt;h2 id=&#34;search-builder-for-early-mobility&#34;&gt;Search Builder for Early Mobility&lt;/h2&gt;
 &lt;h3 id=&#34;controlled-vocabulary&#34;&gt;Controlled Vocabulary&lt;/h3&gt;
 &lt;h4 id=&#34;pubmed&#34;&gt;PubMed&lt;/h4&gt;
@@ -170,9 +170,9 @@
     
     <item>
       <title>Emergency Medicine</title>
-      <link>/courses/search-filters/emergency-medicine/</link>
+      <link>https://carrieprice78.github.io/courses/search-filters/emergency-medicine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/courses/search-filters/emergency-medicine/</guid>
+      <guid>https://carrieprice78.github.io/courses/search-filters/emergency-medicine/</guid>
       <description>&lt;h2 id=&#34;search-builder-for-emergency-medicine-department&#34;&gt;Search Builder for Emergency Medicine (Department)&lt;/h2&gt;
 &lt;h3 id=&#34;controlled-vocabulary&#34;&gt;Controlled Vocabulary&lt;/h3&gt;
 &lt;h4 id=&#34;pubmed&#34;&gt;PubMed&lt;/h4&gt;
@@ -188,9 +188,9 @@
     
     <item>
       <title>Geography and LMICs</title>
-      <link>/courses/search-filters/geography-and-lmics/</link>
+      <link>https://carrieprice78.github.io/courses/search-filters/geography-and-lmics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/courses/search-filters/geography-and-lmics/</guid>
+      <guid>https://carrieprice78.github.io/courses/search-filters/geography-and-lmics/</guid>
       <description>&lt;h2 id=&#34;existing-filters&#34;&gt;Existing Filters&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -211,9 +211,9 @@
     
     <item>
       <title>LGBTQIA&#43;</title>
-      <link>/courses/search-filters/lgbtqia/</link>
+      <link>https://carrieprice78.github.io/courses/search-filters/lgbtqia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/courses/search-filters/lgbtqia/</guid>
+      <guid>https://carrieprice78.github.io/courses/search-filters/lgbtqia/</guid>
       <description>&lt;h2 id=&#34;search-builder-for-lgbtqia&#34;&gt;Search Builder for LGBTQIA&lt;/h2&gt;
 &lt;h3 id=&#34;controlled-vocabulary&#34;&gt;Controlled Vocabulary&lt;/h3&gt;
 &lt;h3 id=&#34;pubmed&#34;&gt;PubMed&lt;/h3&gt;
@@ -225,9 +225,9 @@
     
     <item>
       <title>Methodological Filters</title>
-      <link>/courses/search-filters/methodological-filters/</link>
+      <link>https://carrieprice78.github.io/courses/search-filters/methodological-filters/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/courses/search-filters/methodological-filters/</guid>
+      <guid>https://carrieprice78.github.io/courses/search-filters/methodological-filters/</guid>
       <description>&lt;h2 id=&#34;existing-filters&#34;&gt;Existing Filters&lt;/h2&gt;
 &lt;h3 id=&#34;guidelines&#34;&gt;Guidelines&lt;/h3&gt;
 &lt;ul&gt;
@@ -272,9 +272,9 @@
     
     <item>
       <title>Occupational Therapy</title>
-      <link>/courses/search-filters/occupational-therapy/</link>
+      <link>https://carrieprice78.github.io/courses/search-filters/occupational-therapy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/courses/search-filters/occupational-therapy/</guid>
+      <guid>https://carrieprice78.github.io/courses/search-filters/occupational-therapy/</guid>
       <description>&lt;h2 id=&#34;search-builder-for-occupational-therapy&#34;&gt;Search Builder for Occupational Therapy&lt;/h2&gt;
 &lt;h3 id=&#34;controlled-vocabulary&#34;&gt;Controlled Vocabulary&lt;/h3&gt;
 &lt;h4 id=&#34;pubmed&#34;&gt;PubMed&lt;/h4&gt;
@@ -286,9 +286,9 @@
     
     <item>
       <title>Physical Therapy</title>
-      <link>/courses/search-filters/physical-therapy/</link>
+      <link>https://carrieprice78.github.io/courses/search-filters/physical-therapy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/courses/search-filters/physical-therapy/</guid>
+      <guid>https://carrieprice78.github.io/courses/search-filters/physical-therapy/</guid>
       <description>&lt;h2 id=&#34;search-builder-for-occupational-therapy&#34;&gt;Search Builder for Occupational Therapy&lt;/h2&gt;
 &lt;h3 id=&#34;controlled-vocabulary&#34;&gt;Controlled Vocabulary&lt;/h3&gt;
 &lt;h4 id=&#34;pubmed&#34;&gt;PubMed&lt;/h4&gt;
@@ -300,9 +300,9 @@
     
     <item>
       <title>Speech-Language Pathology</title>
-      <link>/courses/search-filters/speech-language-pathology/</link>
+      <link>https://carrieprice78.github.io/courses/search-filters/speech-language-pathology/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/courses/search-filters/speech-language-pathology/</guid>
+      <guid>https://carrieprice78.github.io/courses/search-filters/speech-language-pathology/</guid>
       <description>&lt;h2 id=&#34;search-builder-for-slp&#34;&gt;Search Builder for SLP&lt;/h2&gt;
 &lt;h3 id=&#34;controlled-vocabulary&#34;&gt;Controlled Vocabulary&lt;/h3&gt;
 &lt;h4 id=&#34;pubmed&#34;&gt;PubMed&lt;/h4&gt;

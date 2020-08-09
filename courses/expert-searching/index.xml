@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Expert Searching | Carrie Price, MLS</title>
-    <link>/courses/expert-searching/</link>
-      <atom:link href="/courses/expert-searching/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://carrieprice78.github.io/courses/expert-searching/</link>
+      <atom:link href="https://carrieprice78.github.io/courses/expert-searching/index.xml" rel="self" type="application/rss+xml" />
     <description>Expert Searching</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 03 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://carrieprice78.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Expert Searching</title>
-      <link>/courses/expert-searching/</link>
+      <link>https://carrieprice78.github.io/courses/expert-searching/</link>
     </image>
     
     <item>
       <title>Formulate the Research Question</title>
-      <link>/courses/expert-searching/formulate-question/</link>
+      <link>https://carrieprice78.github.io/courses/expert-searching/formulate-question/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/courses/expert-searching/formulate-question/</guid>
+      <guid>https://carrieprice78.github.io/courses/expert-searching/formulate-question/</guid>
       <description>&lt;h2 id=&#34;getting-started&#34;&gt;Getting Started&lt;/h2&gt;
 &lt;p&gt;Gather background information. Work with a librarian, if possible, to search relevant sources to see what&amp;rsquo;s been written about your topic so far. Consider your audience. Who might be interested in this issue?&lt;/p&gt;
 &lt;h2 id=&#34;pro-tips&#34;&gt;Pro Tips&lt;/h2&gt;
@@ -104,9 +104,9 @@
     
     <item>
       <title>PubMed</title>
-      <link>/courses/expert-searching/pubmed-tips/</link>
+      <link>https://carrieprice78.github.io/courses/expert-searching/pubmed-tips/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/courses/expert-searching/pubmed-tips/</guid>
+      <guid>https://carrieprice78.github.io/courses/expert-searching/pubmed-tips/</guid>
       <description>&lt;h2 id=&#34;when-to-use-pubmed&#34;&gt;When to Use PubMed&lt;/h2&gt;
 &lt;p&gt;PubMed is a platform that indexes journal articles and more back to 1947. It covers the areas of medicine, nursing, dentistry, veterinary medicine, health care systems, preclinical sciences, and related areas. PubMed is developed and maintained by the National Library of Medicine (NLM) and the National Center for Biotechnology Information (NCBI), both at the National Institutes of Health (NIH) in Bethesda, MD. As of July, 2020, PubMed contains over 30 million records. PubMed is a platform that contains MEDLINE, PubMed Central, and additional PubMed records.&lt;/p&gt;
 &lt;h2 id=&#34;pubmed-cool-tools&#34;&gt;PubMed Cool Tools&lt;/h2&gt;
@@ -221,9 +221,9 @@
     
     <item>
       <title>Document the Searches</title>
-      <link>/courses/expert-searching/document-search/</link>
+      <link>https://carrieprice78.github.io/courses/expert-searching/document-search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/courses/expert-searching/document-search/</guid>
+      <guid>https://carrieprice78.github.io/courses/expert-searching/document-search/</guid>
       <description>&lt;h2 id=&#34;how-can-i-document-my-search&#34;&gt;How Can I Document My Search?&lt;/h2&gt;
 &lt;p&gt;Documenting and saving your search will save you time. There are two ways to save your work.&lt;/p&gt;
 &lt;ol&gt;
@@ -249,9 +249,9 @@
     
     <item>
       <title>Generate and Combine Search Terms</title>
-      <link>/courses/expert-searching/generate-terms/</link>
+      <link>https://carrieprice78.github.io/courses/expert-searching/generate-terms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/courses/expert-searching/generate-terms/</guid>
+      <guid>https://carrieprice78.github.io/courses/expert-searching/generate-terms/</guid>
       <description>&lt;h2 id=&#34;controlled-vocabulary&#34;&gt;Controlled Vocabulary&lt;/h2&gt;
 &lt;p&gt;Controlled vocabularies are a set of predetermined terms that describe specific concepts. You will find that many databases use their own controlled vocabularies (sometimes called index terms, subject headings, or a thesaurus) to enhance the findability of citations. If you have heard of MeSH, this stands for Medical Subject Headings, and is the controlled vocabulary used in PubMed.&lt;/p&gt;
 &lt;p&gt;Databases that use controlled vocabularies employ subject specialists who review individual citations and add the appropriate controlled vocabulary terms to the citation that describe all of the concepts covered in the article. Using controlled vocabulary terms in your search strategy allows you to locate citations no matter what term(s) an author does or does not use, and helps account for spelling variations and acronyms.&lt;/p&gt;
@@ -301,9 +301,9 @@
     
     <item>
       <title>Pro Tips to Become an Expert Searcher</title>
-      <link>/courses/expert-searching/pro-tips/</link>
+      <link>https://carrieprice78.github.io/courses/expert-searching/pro-tips/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/courses/expert-searching/pro-tips/</guid>
+      <guid>https://carrieprice78.github.io/courses/expert-searching/pro-tips/</guid>
       <description>&lt;h2 id=&#34;search-by-database-fields&#34;&gt;Search by Database Fields&lt;/h2&gt;
 &lt;p&gt;Use database fields to search with specific parts of a citation. Literature databases index citations provided by publishers. Some databases only index journal articles (such as PubMed) while other databases index additional items such as conference proceedings, dissertations, and book chapters.&lt;/p&gt;
 &lt;p&gt;Database publishers assign each part of a citation to a different field in the database. For example, all authors listed for an articles are assigned to the &amp;ldquo;Author&amp;rdquo; field, all words in an abstract are assigned to the &amp;ldquo;Abstract&amp;rdquo; field, etc. Many databases also add controlled vocabulary terms to describe the major concepts presented in an article which are then tagged as such. Any search terms you use are only searched across the citation information in a database, not the full text of the article.&lt;/p&gt;
@@ -322,9 +322,9 @@
     
     <item>
       <title>Which Database to Use?</title>
-      <link>/courses/expert-searching/which-database/</link>
+      <link>https://carrieprice78.github.io/courses/expert-searching/which-database/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/courses/expert-searching/which-database/</guid>
+      <guid>https://carrieprice78.github.io/courses/expert-searching/which-database/</guid>
       <description>&lt;h2 id=&#34;database-vs-platform&#34;&gt;Database vs. Platform&lt;/h2&gt;
 &lt;p&gt;It&amp;rsquo;s important to understand the difference between a database versus a search platform. You&amp;rsquo;ll know that you search the appropriate databases, and you&amp;rsquo;ll be able to document the search correctly. Searches should be documented and reproducible in the context of evidence-based medicine.&lt;/p&gt;
 &lt;h3 id=&#34;database&#34;&gt;Database&lt;/h3&gt;

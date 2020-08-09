@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Systematic Reviews | Carrie Price, MLS</title>
-    <link>/courses/systematic-reviews/</link>
-      <atom:link href="/courses/systematic-reviews/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://carrieprice78.github.io/courses/systematic-reviews/</link>
+      <atom:link href="https://carrieprice78.github.io/courses/systematic-reviews/index.xml" rel="self" type="application/rss+xml" />
     <description>Systematic Reviews</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 03 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://carrieprice78.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Systematic Reviews</title>
-      <link>/courses/systematic-reviews/</link>
+      <link>https://carrieprice78.github.io/courses/systematic-reviews/</link>
     </image>
     
     <item>
       <title>Process Guidance</title>
-      <link>/courses/systematic-reviews/standards-and-guidelines/</link>
+      <link>https://carrieprice78.github.io/courses/systematic-reviews/standards-and-guidelines/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/courses/systematic-reviews/standards-and-guidelines/</guid>
+      <guid>https://carrieprice78.github.io/courses/systematic-reviews/standards-and-guidelines/</guid>
       <description>&lt;h3 id=&#34;cochrane-collaborationhttpswwwcochraneorg&#34;&gt;
 &lt;a href=&#34;https://www.cochrane.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cochrane Collaboration&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;The Cochrane Collaboration&amp;rsquo;s tools and resources will guide your systematic review whether or not it is a Cochrane Review.&lt;/p&gt;
@@ -69,9 +69,9 @@
     
     <item>
       <title>Search Tools</title>
-      <link>/courses/systematic-reviews/search-tools/</link>
+      <link>https://carrieprice78.github.io/courses/systematic-reviews/search-tools/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/courses/systematic-reviews/search-tools/</guid>
+      <guid>https://carrieprice78.github.io/courses/systematic-reviews/search-tools/</guid>
       <description>&lt;p&gt;Keep in mind current 
 &lt;a href=&#34;https://osf.io/ygn9w/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;search reporting&lt;/a&gt; trends.&lt;/p&gt;
 &lt;p&gt;The following tools will aid in creating a sensitive search that includes the types of articles that would be relevant to your review. Use the tools for search creation, searching platforms, and search translation.&lt;/p&gt;
@@ -140,9 +140,9 @@ Publibee is a platform developed by Stanford University individuals that uses Pu
     
     <item>
       <title>Open Educational Resources</title>
-      <link>/courses/systematic-reviews/screening-tools/</link>
+      <link>https://carrieprice78.github.io/courses/systematic-reviews/screening-tools/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/courses/systematic-reviews/screening-tools/</guid>
+      <guid>https://carrieprice78.github.io/courses/systematic-reviews/screening-tools/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://covidence.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Covidence&lt;/a&gt;&lt;/li&gt;
@@ -168,9 +168,9 @@ Publibee is a platform developed by Stanford University individuals that uses Pu
     
     <item>
       <title>Evidence Grading and Appraisal</title>
-      <link>/courses/systematic-reviews/evidence-grading/</link>
+      <link>https://carrieprice78.github.io/courses/systematic-reviews/evidence-grading/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/courses/systematic-reviews/evidence-grading/</guid>
+      <guid>https://carrieprice78.github.io/courses/systematic-reviews/evidence-grading/</guid>
       <description>&lt;h2 id=&#34;checklists-and-frameworks&#34;&gt;Checklists and Frameworks&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;

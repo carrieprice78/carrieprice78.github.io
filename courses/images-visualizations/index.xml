@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Images and Visualizations | Carrie Price, MLS</title>
-    <link>/courses/images-visualizations/</link>
-      <atom:link href="/courses/images-visualizations/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://carrieprice78.github.io/courses/images-visualizations/</link>
+      <atom:link href="https://carrieprice78.github.io/courses/images-visualizations/index.xml" rel="self" type="application/rss+xml" />
     <description>Images and Visualizations</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 03 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://carrieprice78.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Images and Visualizations</title>
-      <link>/courses/images-visualizations/</link>
+      <link>https://carrieprice78.github.io/courses/images-visualizations/</link>
     </image>
     
     <item>
       <title>Stock Photos and Media Commons</title>
-      <link>/courses/images-visualizations/stock-and-commons/</link>
+      <link>https://carrieprice78.github.io/courses/images-visualizations/stock-and-commons/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/courses/images-visualizations/stock-and-commons/</guid>
+      <guid>https://carrieprice78.github.io/courses/images-visualizations/stock-and-commons/</guid>
       <description>&lt;h2 id=&#34;image-databases-and-media-commons&#34;&gt;Image Databases and Media Commons&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -70,9 +70,9 @@
     
     <item>
       <title>Visualization and Editing</title>
-      <link>/courses/images-visualizations/visualization-editing/</link>
+      <link>https://carrieprice78.github.io/courses/images-visualizations/visualization-editing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/courses/images-visualizations/visualization-editing/</guid>
+      <guid>https://carrieprice78.github.io/courses/images-visualizations/visualization-editing/</guid>
       <description>&lt;h2 id=&#34;tools&#34;&gt;Tools&lt;/h2&gt;
 &lt;p&gt;These tools are a mix of data visualization and image editing tools. Some are open source while some may have pricing plans.&lt;/p&gt;
 &lt;ul&gt;
@@ -114,9 +114,9 @@
     
     <item>
       <title>Image Resources by Subject</title>
-      <link>/courses/images-visualizations/images-by-subject/</link>
+      <link>https://carrieprice78.github.io/courses/images-visualizations/images-by-subject/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/courses/images-visualizations/images-by-subject/</guid>
+      <guid>https://carrieprice78.github.io/courses/images-visualizations/images-by-subject/</guid>
       <description>&lt;h2 id=&#34;anatomy&#34;&gt;Anatomy&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;

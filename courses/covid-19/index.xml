@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>COVID-19 | Carrie Price, MLS</title>
-    <link>/courses/covid-19/</link>
-      <atom:link href="/courses/covid-19/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://carrieprice78.github.io/courses/covid-19/</link>
+      <atom:link href="https://carrieprice78.github.io/courses/covid-19/index.xml" rel="self" type="application/rss+xml" />
     <description>COVID-19</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://carrieprice78.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>COVID-19</title>
-      <link>/courses/covid-19/</link>
+      <link>https://carrieprice78.github.io/courses/covid-19/</link>
     </image>
     
     <item>
       <title>COVID-19 State, Local, and National Resources</title>
-      <link>/courses/covid-19/general-resources/</link>
+      <link>https://carrieprice78.github.io/courses/covid-19/general-resources/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/courses/covid-19/general-resources/</guid>
+      <guid>https://carrieprice78.github.io/courses/covid-19/general-resources/</guid>
       <description>&lt;h2 id=&#34;general-resources&#34;&gt;General Resources&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -59,9 +59,9 @@
     
     <item>
       <title>Disease Tracking</title>
-      <link>/courses/covid-19/disease-tracking/</link>
+      <link>https://carrieprice78.github.io/courses/covid-19/disease-tracking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/courses/covid-19/disease-tracking/</guid>
+      <guid>https://carrieprice78.github.io/courses/covid-19/disease-tracking/</guid>
       <description>&lt;h2 id=&#34;maps-and-other-sites&#34;&gt;Maps and Other Sites&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -88,9 +88,9 @@
     
     <item>
       <title>Patient and Consumer Health</title>
-      <link>/courses/covid-19/patient-consumer-health/</link>
+      <link>https://carrieprice78.github.io/courses/covid-19/patient-consumer-health/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/courses/covid-19/patient-consumer-health/</guid>
+      <guid>https://carrieprice78.github.io/courses/covid-19/patient-consumer-health/</guid>
       <description>&lt;h2 id=&#34;consumer-health-resources&#34;&gt;Consumer Health Resources&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -140,9 +140,9 @@
     
     <item>
       <title>Point-of-Care Resources</title>
-      <link>/courses/covid-19/point-of-care/</link>
+      <link>https://carrieprice78.github.io/courses/covid-19/point-of-care/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/courses/covid-19/point-of-care/</guid>
+      <guid>https://carrieprice78.github.io/courses/covid-19/point-of-care/</guid>
       <description>&lt;h2 id=&#34;point-of-care-resources&#34;&gt;Point-of-Care Resources&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -178,9 +178,9 @@
     
     <item>
       <title>Research Resources</title>
-      <link>/courses/covid-19/research-resources/</link>
+      <link>https://carrieprice78.github.io/courses/covid-19/research-resources/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/courses/covid-19/research-resources/</guid>
+      <guid>https://carrieprice78.github.io/courses/covid-19/research-resources/</guid>
       <description>&lt;h2 id=&#34;literature-databases&#34;&gt;Literature Databases&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
