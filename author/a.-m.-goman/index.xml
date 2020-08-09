@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. M. Goman | Carrie Price, MLS</title>
+    <link>/author/a.-m.-goman/</link>
+      <atom:link href="/author/a.-m.-goman/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. M. Goman</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>A. M. Goman</title>
+      <link>/author/a.-m.-goman/</link>
+    </image>
+    
+    <item>
+      <title>Hearing loss and employment: a systematic review of the association between hearing loss and employment among adults</title>
+      <link>/publication/rn-5/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Economic Impact of Adult Hearing Loss: A Systematic Review</title>
+      <link>/publication/rn-18/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-18/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Systematic Reviews | Carrie Price, MLS</title>
+    <link>/courses/systematic-reviews/</link>
+      <atom:link href="/courses/systematic-reviews/index.xml" rel="self" type="application/rss+xml" />
+    <description>Systematic Reviews</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 03 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Systematic Reviews</title>
+      <link>/courses/systematic-reviews/</link>
+    </image>
+    
+    <item>
+      <title>Process Guidance</title>
+      <link>/courses/systematic-reviews/standards-and-guidelines/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/courses/systematic-reviews/standards-and-guidelines/</guid>
+      <description>&lt;h3 id=&#34;cochrane-collaborationhttpswwwcochraneorg&#34;&gt;
+&lt;a href=&#34;https://www.cochrane.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cochrane Collaboration&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;The Cochrane Collaboration&amp;rsquo;s tools and resources will guide your systematic review whether or not it is a Cochrane Review.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://training.cochrane.org/handbook&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cochrane Handbook for Systematic Reviews of Interventions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://community.cochrane.org/mecir-manual&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Methodological Expectatiosn of Cochrane Intervention Reviews&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://methods.cochrane.org/sdt/handbook-dta-reviews&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cochrane Handbook for Diagnostic Test Accuracy Reviews&lt;/a&gt;: in development&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;institute-of-medicine-national-academies&#34;&gt;Institute of Medicine, National Academies&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.nap.edu/read/13059/chapter/1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Finding What Works in Health Care: Standards for Systematic Reviews&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;joanna-briggs-institute&#34;&gt;Joanna Briggs Institute&lt;/h3&gt;
+&lt;p&gt;JBI is an an international evidence-based healthcare research organisation that works with 70+ Universities and Hospitals (known as the JBI Collaboration) around the world. The organisation focuses on improving health outcomes globally by producing and disseminating research evidence, software, training, resources and publications relating to evidence-based healthcare. Learn about the JBI approach to evidence-based healthcare. The Reviewer&amp;rsquo;s Manual provides guidance ofr all types of systematic and other expert reviews.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://wiki.jbi.global/display/MANUAL/JBI&amp;#43;Manual&amp;#43;for&amp;#43;Evidence&amp;#43;Synthesis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JBI Reviewer&amp;rsquo;s Manual&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;reporting&#34;&gt;Reporting&lt;/h2&gt;
+&lt;h3 id=&#34;various-guidelines&#34;&gt;Various Guidelines&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.ramesesproject.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Realist And Meta-narrative Evidence Syntheses: Evolving Standards (RAMESES)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.roses-reporting.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Reporting Standards for Systematic Evidence Syntheses in Environmental Research (ROSES)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://clok.uclan.ac.uk/12077/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Structured Approach to the Reporting in Healthcare Education of Evidence Synthesis (STORIES)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;the-prisma-statementhttpwwwprisma-statementorg&#34;&gt;
+&lt;a href=&#34;http://www.prisma-statement.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The PRISMA Statement&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;PRISMA stands for Preferred Reporting Items for Systematic Reviews and Meta-Analyses. PRISMA has several extensions, including extensions for protocols, individual patient data, network meta-analyses, and more.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1000097&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PRISMA Statement&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1000100&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PRISMA Explanation and Elaboration&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.prisma-statement.org/documents/PRISMA%202009%20checklist.doc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PRISMA Checklist&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.prisma-statement.org/documents/PRISMA%202009%20flow%20diagram.doc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PRISMA FLow Diagram&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.prisma-statement.org/Extensions/Default.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PRISMA Extensions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Search Tools</title>
+      <link>/courses/systematic-reviews/search-tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/courses/systematic-reviews/search-tools/</guid>
+      <description>&lt;p&gt;Keep in mind current 
+&lt;a href=&#34;https://osf.io/ygn9w/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;search reporting&lt;/a&gt; trends.&lt;/p&gt;
+&lt;p&gt;The following tools will aid in creating a sensitive search that includes the types of articles that would be relevant to your review. Use the tools for search creation, searching platforms, and search translation.&lt;/p&gt;
+&lt;h2 id=&#34;search-tools&#34;&gt;Search Tools&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://app.2dsearch.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2Dsearch&lt;/a&gt;
+2Dsearch is a radical alternative to conventional &amp;lsquo;advanced search&amp;rsquo;. Instead of entering Boolean strings into one-dimensional search boxes, queries are formulated by combining objects on a two-dimensional canvas. This eliminates syntax errors, makes the query semantics more transparent, and offers a more effective way to optimize, save and share search strategies.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.cbs.dtu.dk/services/BioReader/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BioReader&lt;/a&gt;
+BioReader can help you distill your reading list by ranking articles by relevance. Simply collect the PubMed IDs of a number of articles you found relevant and a similar number of articles not relevant to you. BioReader will provide you with a ranked reading list to limit the time wasted on reading irrelevant literature.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://meshb.nlm.nih.gov/MeSHonDemand&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MeSH on Demand&lt;/a&gt;
+MeSH on Demand identifies MeSH® terms in your submitted text (abstract or manuscript). MeSH on Demand also lists PubMed similar articles relevant to your submitted text.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://hgserver2.amc.nl/cgi-bin/miner/miner2.cgi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PubReMiner&lt;/a&gt;
+PubReMiner will query PubMed with your specified search query, get all abstracts and generate frequency tables.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://pubvenn.appspot.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PubVenn&lt;/a&gt;
+PubVenn enables you to explore PubMed using venn diagrams.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://mesh.med.yale.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yale MeSH Analyzer&lt;/a&gt;
+Librarians have long analyzed Medical Subject Headings to design and refine searches. A MeSH analysis grid can help identify the problems in your search strategy by presenting the ways articles are indexed in the MEDLINE database in an easy-to-scan tabular format.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;search-translation&#34;&gt;Search Translation&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://medlinetranspose.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MEDLINE Transpose&lt;/a&gt;
+MEDLINE Transpose was developed to mitigate a common problem among information specialists: converting search syntax between PubMed and Ovid MEDLINE interfaces.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://sr-accelerator.com/#/polyglot&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Polyglot Search via SR Accelerator&lt;/a&gt;
+The IEBH SR-Accelerator is a suite of tools to speed up steps in the Systematic Review (SR) process. It is freely available for anyone in the world to use. Simply register below with your name and email address. The SRA is a modular design which means the tools can be incorporated into existing SR workflows and combined with other automation tools.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;search-platforms&#34;&gt;Search Platforms&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://mcguinlu.shinyapps.io/medrxivr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Medxrivr&lt;/a&gt;
+Medxrivr allows you to perform advanced search and batch export in Medrxiv. Documentation is available on 
+&lt;a href=&#34;https://mcguinlu.github.io/medrxivr/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.publibee.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Publibee&lt;/a&gt;
+Publibee is a platform developed by Stanford University individuals that uses PubMed data and maintains Legacy PubMed functionality.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Open Educational Resources</title>
+      <link>/courses/systematic-reviews/screening-tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/courses/systematic-reviews/screening-tools/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://covidence.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Covidence&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.brown.edu/academics/public-health/research/evidence-synthesis-in-health/index.php?q=research-initiatives/software-0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;abstrackr&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.evidencepartners.com/products/distillersr-systematic-review-software/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DistillerSR&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://eppi.ioe.ac.uk/CMS/Default.aspx?alias=eppi.ioe.ac.uk/cms/er4&amp;amp;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EPPI-Reviewer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://rayyan.qcri.org/welcome&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rayyan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.sciome.com/swift-activescreener/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SWIFT-Active Screener&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://sysrev.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;sysrev&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://syrf.org.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Systematic Review Facility&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Some tools are open source and some are fee-based. Be sure to check out the 
+&lt;a href=&#34;http://systematicreviewtools.com/index.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Systematic Review Toolbox&lt;/a&gt; for other tool suggestions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Evidence Grading and Appraisal</title>
+      <link>/courses/systematic-reviews/evidence-grading/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/courses/systematic-reviews/evidence-grading/</guid>
+      <description>&lt;h2 id=&#34;checklists-and-frameworks&#34;&gt;Checklists and Frameworks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://casp-uk.net/casp-tools-checklists/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CASP Checklists&lt;/a&gt;: This set of eight critical appraisal tools are designed to be used when reading research, these include tools for Systematic Reviews, Randomised Controlled Trials, Cohort Studies, Case Control Studies, Economic Evaluations, Diagnostic Studies, Qualitative studies and Clinical Prediction Rule.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://handbook-5-1.cochrane.org/chapter_8/8_5_the_cochrane_collaborations_tool_for_assessing_risk_of_bias.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cochrane Collaboration&amp;rsquo;s Risk of Bias Tool&lt;/a&gt;: This set of eight critical appraisal tools are designed to be used when reading research, these include tools for Systematic Reviews, Randomised Controlled Trials, Cohort Studies, Case Control Studies, Economic Evaluations, Diagnostic Studies, Qualitative studies and Clinical Prediction Rule.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.dartmouth.edu/~library/biomed/guides/research/ebm-resources-materials.html?mswitch-redir=classic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dartmouth Biomedical Libraries&lt;/a&gt;: Dartmouth provides a series of worksheets designed to aid you in formulating clinical questions, appraising the evidence, and applying the evidence to practice.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://onlinelibrary.wiley.com/doi/pdf/10.1002/9780470988343.app1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The JADAD Scale for Reporting Randomized Controlled Trials&lt;/a&gt;: Jadad, A. R., Moore, R. A., Carroll, D., Jenkinson, C., Reynolds, D. J., Gavaghan, D. J., &amp;amp; McQuay, H. J. (1996). Assessing the quality of reports of randomized clinical trials: is blinding necessary? Controlled clinical trials, 17(1), 1–12. &lt;a href=&#34;https://doi.org/10.1016/0197-2456(95)00134-4&#34;&gt;https://doi.org/10.1016/0197-2456(95)00134-4&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.gradeworkinggroup.org/index.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GRADE Working Group&lt;/a&gt;: The Grading of Recommendations Assessment, Development and Evaluation (short GRADE) working group began in the year 2000 as an informal collaboration of people with an interest in addressing the shortcomings of grading systems in health care. The working group has developed a common, sensible and transparent approach to grading quality (or certainty) of evidence and strength of recommendations.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.hopkinsmedicine.org/gim/training/Osler/osler_JAMA_Steps.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JAMA Series on Step-by-Step Critical Appraisal&lt;/a&gt;: Links to the &amp;lsquo;User&amp;rsquo;s Guides to the Medical Literature&amp;rsquo; series of articles designed to promote incorporation of evidence into practice.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://joannabriggs.org/critical-appraisal-tools&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Joanna Briggs Critical Appraisal Tools&lt;/a&gt;: JBI&amp;rsquo;s critical appraisal tools assist in assessing the trustworthiness, relevance, and results of published papers.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.ohri.ca/programs/clinical_epidemiology/oxford.asp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Newcastle-Ottawa Scale&lt;/a&gt;: The Newcastle-Ottawa Scale (NOS) is an ongoing collaboration between the Universities of Newcastle, Australia and Ottawa, Canada. It was developed to assess the quality of nonrandomised studies with its design, content and ease of use directed to the task of incorporating the quality assessments in the interpretation of meta-analytic results.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://ntp.niehs.nih.gov/ntp/ohat/pubs/riskofbiastool_508.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OHAT Risk of Bias Rating Tool&lt;/a&gt;: The OHAT Risk of Bias Rating Tool can be used for human and animal studies.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.cebm.net/2016/05/ocebm-levels-of-evidence/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Oxford Centre for Evidence-Based Medicine Levels of Evidence&lt;/a&gt;: The CEBM Levels of Evidence framework sets out one approach to systematizing this grading process for different question types.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/1471-2288-14-43&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SYRCLE&amp;rsquo;s Risk of Bias Tool&lt;/a&gt;: This tool is based on the Cochrane RoB tool and has been adjusted for aspects of bias that play a specific role in animal intervention studies.&lt;/li&gt;
+&lt;li&gt;9U.S. Preventive Services Task Force](&lt;a href=&#34;https://www.uspreventiveservicestaskforce.org/uspstf/grade-definitions):&#34;&gt;https://www.uspreventiveservicestaskforce.org/uspstf/grade-definitions):&lt;/a&gt; he U.S. Preventive Services Task Force (USPSTF) assigns one of five letter grades (A, B, C, D, or I). The USPSTF changed its grade definitions based on a change in methods in May 2007 and again in July 2012, when it updated the definition of and suggestions for practice for the grade C recommendation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;evidence-synthesis&#34;&gt;Evidence Synthesis&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.metafor-project.org/doku.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The metafor package: a meta-analysis package for R&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.cebm.brown.edu/openmeta/#&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OpenMetaAnalyst&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://community.cochrane.org/tools/review-production-tools/revman-5/revman-5-download&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RevMan&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
