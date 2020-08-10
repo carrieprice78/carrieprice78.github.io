@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Search Filters | Carrie Price, MLS</title>
+    <link>https://carrieprice78.github.io/guides/search-filters/</link>
+      <atom:link href="https://carrieprice78.github.io/guides/search-filters/index.xml" rel="self" type="application/rss+xml" />
+    <description>Search Filters</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 03 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://carrieprice78.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Search Filters</title>
+      <link>https://carrieprice78.github.io/guides/search-filters/</link>
+    </image>
+    
+    <item>
+      <title>Aged</title>
+      <link>https://carrieprice78.github.io/guides/search-filters/aged/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://carrieprice78.github.io/guides/search-filters/aged/</guid>
+      <description>&lt;h2 id=&#34;existing-filters&#34;&gt;Existing Filters&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://sites.google.com/a/york.ac.uk/issg-search-filters-resource/other-filters/age-filters-1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISSG Filters to Find Age-Specific Studies&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;search-builder-for-aged&#34;&gt;Search Builder for Aged&lt;/h2&gt;
+&lt;h3 id=&#34;controlled-vocabulary&#34;&gt;Controlled Vocabulary&lt;/h3&gt;
+&lt;h4 id=&#34;pubmed&#34;&gt;PubMed&lt;/h4&gt;
+&lt;p&gt;&amp;ldquo;aged&amp;rdquo;[mesh] OR &amp;ldquo;aged, 80 and over&amp;rdquo;[mesh] OR &amp;ldquo;aging&amp;rdquo;[mesh:noexp] OR &amp;ldquo;frail elderly&amp;rdquo;[mesh]&lt;/p&gt;
+&lt;h4 id=&#34;embase&#34;&gt;Embase&lt;/h4&gt;
+&lt;p&gt;&amp;lsquo;aged&amp;rsquo;/de or &amp;lsquo;aged hospital patient&amp;rsquo;/de or &amp;lsquo;frail elderly&amp;rsquo;/de or &amp;lsquo;very elderly&amp;rsquo;/de&lt;/p&gt;
+&lt;h4 id=&#34;the-cochrane-library&#34;&gt;The Cochrane Library&lt;/h4&gt;
+&lt;p&gt;[mh &amp;ldquo;aged&amp;rdquo;] OR [mh &amp;ldquo;aged, 80 and over&amp;rdquo;] OR [mh &amp;ldquo;frail elderly&amp;rdquo;]&lt;/p&gt;
+&lt;h4 id=&#34;cinahl&#34;&gt;CINAHL&lt;/h4&gt;
+&lt;p&gt;MH &amp;ldquo;aged&amp;rdquo; OR MH &amp;ldquo;aged, 80 and over&amp;rdquo; OR MH &amp;ldquo;centenarians&amp;rdquo; OR MH &amp;ldquo;frail elderly&amp;rdquo;&lt;/p&gt;
+&lt;h2 id=&#34;keywords&#34;&gt;Keywords&lt;/h2&gt;
+&lt;p&gt;aged OR aging OR ageing OR advanced age OR advanced ages OR centenarian OR centenarians OR elderly OR elder OR elders OR geriatric OR nonagenarian OR nonagenarians OR octogenarian OR octogenarians OR old OR oldest OR older OR senior citizen OR senior citizens OR septagenarian OR septagenarians OR sexagenarian OR sexagenarians&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Children</title>
+      <link>https://carrieprice78.github.io/guides/search-filters/children/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://carrieprice78.github.io/guides/search-filters/children/</guid>
+      <description>&lt;h2 id=&#34;existing-filters&#34;&gt;Existing Filters&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://sites.google.com/a/york.ac.uk/issg-search-filters-resource/other-filters/age-filters-1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISSG Filters to find age-specific studies&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;search-builder-for-children&#34;&gt;Search Builder for Children&lt;/h1&gt;
+&lt;h3 id=&#34;controlled-vocabulary&#34;&gt;Controlled Vocabulary&lt;/h3&gt;
+&lt;h4 id=&#34;pubmed&#34;&gt;PubMed&lt;/h4&gt;
+&lt;p&gt;&amp;ldquo;adolescent&amp;rdquo;[mesh] OR &amp;ldquo;child&amp;rdquo;[mesh] OR &amp;ldquo;child behavior&amp;rdquo;[mesh] OR &amp;ldquo;child, preschool&amp;rdquo;[mesh] OR &amp;ldquo;infant&amp;rdquo;[mesh] OR &amp;ldquo;infant, newborn&amp;rdquo;[mesh] OR &amp;ldquo;neonatalogy&amp;rdquo;[mesh] OR &amp;ldquo;pediatrics&amp;rdquo;[mesh] OR &amp;ldquo;puberty&amp;rdquo;[mesh]  OR &amp;ldquo;perinatology&amp;rdquo;[mesh]&lt;/p&gt;
+&lt;h4 id=&#34;embase&#34;&gt;Embase&lt;/h4&gt;
+&lt;p&gt;&amp;lsquo;adolescent&amp;rsquo;/de or &amp;lsquo;baby&amp;rsquo;/de or &amp;lsquo;boy&amp;rsquo;/de or &amp;lsquo;child&amp;rsquo;/de or &amp;lsquo;girl&amp;rsquo;/de or &amp;lsquo;infant&amp;rsquo;/de or &amp;lsquo;preschool child&amp;rsquo;/de or &amp;lsquo;school child&amp;rsquo;/de or &amp;lsquo;neonatalogy&amp;rsquo;/de or &amp;lsquo;newborn&amp;rsquo;/de or &amp;lsquo;pediatrics&amp;rsquo;/exp or &amp;lsquo;perinatology&amp;rsquo;/exp  or &amp;lsquo;puberty/de or &amp;lsquo;toddler&amp;rsquo;/de&lt;/p&gt;
+&lt;h4 id=&#34;the-cochrane-library&#34;&gt;The Cochrane Library&lt;/h4&gt;
+&lt;p&gt;[mh &amp;ldquo;adolescent&amp;rdquo;] OR [mh &amp;ldquo;child] OR [mh &amp;ldquo;child behavior&amp;rdquo;] OR [mh &amp;ldquo;child, preschool&amp;rdquo;] OR [mh &amp;ldquo;infant&amp;rdquo;] OR [mh &amp;ldquo;infant, newborn&amp;rdquo;] OR [mh &amp;ldquo;neonatology&amp;rdquo;] OR [mh &amp;ldquo;pediatrics&amp;rdquo;] OR [mh &amp;ldquo;puberty&amp;rdquo;] OR [mh &amp;ldquo;perinatology&amp;rdquo;]&lt;/p&gt;
+&lt;h4 id=&#34;cinahl&#34;&gt;CINAHL&lt;/h4&gt;
+&lt;p&gt;MH &amp;ldquo;adolescence&amp;rdquo; OR MH &amp;ldquo;child&amp;rdquo; OR MH &amp;ldquo;infant&amp;rdquo; OR MH &amp;ldquo;neonatology&amp;rdquo; OR MH &amp;ldquo;pediatrics&amp;rdquo; OR MH &amp;ldquo;perinatology&amp;rdquo; OR MH &amp;ldquo;puberty&amp;rdquo;&lt;/p&gt;
+&lt;h3 id=&#34;keywords&#34;&gt;Keywords&lt;/h3&gt;
+&lt;p&gt;adolescent OR adolescents OR adolescence OR baby OR babies OR boy OR boys OR girl OR girls OR OR boyhood OR girlhood OR child OR childhood OR children OR infant OR infants OR infantile OR juvenile OR juveniles OR kid OR kids OR kindergarten* OR K12 OR K-12 OR K 12 OR neonatal* OR neonate OR neonates OR newborn OR newborns OR pediatric OR paediatric OR pediatrics OR paediatrics OR perinatal* OR preteen OR preteens OR primary school OR pubescent OR pubescents OR pubescence OR puberty OR puberties OR school aged OR school age OR secondary school OR teen OR teens OR teenager OR teenagers OR toddler OR toddlers OR tween OR tweens OR young OR youth&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Coronavirus</title>
+      <link>https://carrieprice78.github.io/guides/search-filters/coronavirus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://carrieprice78.github.io/guides/search-filters/coronavirus/</guid>
+      <description>&lt;h2 id=&#34;search-builder-for-covid-19&#34;&gt;Search Builder for COVID-19&lt;/h2&gt;
+&lt;h3 id=&#34;controlled-vocabulary&#34;&gt;Controlled Vocabulary&lt;/h3&gt;
+&lt;h4 id=&#34;pubmed&#34;&gt;PubMed&lt;/h4&gt;
+&lt;p&gt;&amp;ldquo;coronavirus&amp;rdquo;[mesh:noexp] OR &amp;ldquo;coronavirus infections&amp;rdquo;[mesh] OR &amp;ldquo;coronaviridae infections&amp;rdquo;[mesh:noexp] OR &amp;ldquo;coronaviridae&amp;rdquo;[mesh] OR &amp;ldquo;COVID-19&amp;rdquo; [Supplementary Concept] OR &amp;ldquo;COVID-19 vaccine&amp;rdquo;[supplementary concept] OR &amp;ldquo;COVID-19 serotherapy&amp;rdquo;[supplementary concept] OR &amp;ldquo;COVID-19 diagnostic testing&amp;rdquo;[supplementary concept] OR &amp;ldquo;spike glycoprotein, coronavirus&amp;rdquo;[supplementary concept] OR &amp;ldquo;COVID-19 drug treatment&amp;rdquo;[supplementary concept] OR &amp;ldquo;LAMP assay&amp;rdquo;[supplementary concept] OR &amp;ldquo;severe acute respiratory syndrome coronavirus 2&amp;rdquo;[supplementary concept]&lt;/p&gt;
+&lt;p&gt;Note: If using coronavirus MeSH, consider limiting the search to 2019 through the present.&lt;/p&gt;
+&lt;h2 id=&#34;keywords&#34;&gt;Keywords&lt;/h2&gt;
+&lt;p&gt;COVID-19 OR COVID OR COVID19 OR COVID2019 OR coronavirus OR corona virus OR coronaviruses OR corona viruses OR corona viral OR coronaviral OR SARS-CoV-2 OR SARSCoV2 OR 2019nCoV OR 2019-nCoV OR SARS-nCoV OR SARS nCoV OR SARSNCoV OR nCoV OR cov 2 OR cov2 OR cov-2 OR sarscov OR sars cov&lt;/p&gt;
+&lt;h2 id=&#34;search-builder-for-coronavirus&#34;&gt;Search Builder for Coronavirus&lt;/h2&gt;
+&lt;h3 id=&#34;controlled-vocabulary-1&#34;&gt;Controlled Vocabulary&lt;/h3&gt;
+&lt;h4 id=&#34;pubmed-1&#34;&gt;PubMed&lt;/h4&gt;
+&lt;p&gt;&amp;ldquo;alphacoronavirus&amp;rdquo;[mesh] OR &amp;ldquo;alphacoronavirus 1&amp;rdquo;[mesh] OR &amp;ldquo;betacoronavirus&amp;rdquo;[mesh] OR &amp;ldquo;coronaviridae&amp;rdquo;[mesh] OR &amp;ldquo;coronavirus 229e, human&amp;rdquo;[mesh] OR &amp;ldquo;coronavirus infections&amp;rdquo;[mesh] OR &amp;ldquo;coronavirus, turkey&amp;rdquo;[mesh] OR &amp;ldquo;coronavirus nl63, human&amp;rdquo;[mesh] OR &amp;ldquo;coronavirus&amp;rdquo;[mesh] OR &amp;ldquo;covid-19&amp;rdquo;[supplementary concept] OR &amp;ldquo;gammacoronavirus&amp;rdquo;[mesh] OR &amp;ldquo;infectious bronchitis virus&amp;rdquo;[mesh] OR &amp;ldquo;middle east respiratory syndrome coronavirus&amp;rdquo;[mesh] OR &amp;ldquo;porcine epidemic diarrhea virus&amp;rdquo;[mesh] OR &amp;ldquo;porcine respiratory coronavirus&amp;rdquo;[mesh] OR &amp;ldquo;sars virus&amp;rdquo;[mesh]&lt;/p&gt;
+&lt;h4 id=&#34;embase&#34;&gt;Embase&lt;/h4&gt;
+&lt;p&gt;&amp;lsquo;adult respiratory distress syndrome&amp;rsquo;/exp OR &amp;lsquo;alpahcoronavirus 1&amp;rsquo;/exp OR &amp;lsquo;alphacoronavirus&amp;rsquo;/exp OR &amp;lsquo;avian coronavirus&amp;rsquo;/exp OR &amp;lsquo;betacoronavirus 1&amp;rsquo;/exp OR &amp;lsquo;betacoronavirus&amp;rsquo;/exp OR &amp;lsquo;bovine coronavirus&amp;rsquo;/exp OR &amp;lsquo;canine coronavirus&amp;rsquo;/exp OR &amp;lsquo;coronaviridae&amp;rsquo;/exp OR &amp;lsquo;coronavirinae&amp;rsquo;/exp OR &amp;lsquo;feline coronavirus&amp;rsquo;/exp OR &amp;lsquo;gammacoronavirus&amp;rsquo;/exp OR &amp;lsquo;human coronavirus 229e&amp;rsquo;/exp OR &amp;lsquo;human coronavirus nl63&amp;rsquo;/exp OR &amp;lsquo;human coronavirus oc43&amp;rsquo;/exp OR &amp;lsquo;middle east respiratory syndrome coronavirus&amp;rsquo;/exp OR &amp;lsquo;murine coronavirus&amp;rsquo;/exp OR &amp;lsquo;porcine epidemic diarrhea virus&amp;rsquo;/exp OR &amp;lsquo;SARS coronavirus&amp;rsquo;/exp OR &amp;lsquo;SARS -related coronavirus&amp;rsquo;/exp OR &amp;lsquo;SARS-related coronavirus&amp;rsquo;/exp&lt;/p&gt;
+&lt;h2 id=&#34;keywords-1&#34;&gt;Keywords&lt;/h2&gt;
+&lt;p&gt;2019 ncov OR 2019ncov OR 2019-ncov OR alphacoronaviridae OR alphacoronavirinae OR alphacoronavirus OR alphacoronaviruses OR alphacoronovirus OR alphacoronoviruses OR alphacoronovirinae OR alphacoronoviridae OR betacoronaviridae OR betacoronavirinae OR betacoronavirus OR betacoronaviruses OR betacoronovirus OR betacoronoviruses OR betacoronovirinae OR betacoronoviridae OR corona viridae OR corona virinae OR corona virus OR corona viruses OR coronaviridae OR coronavirinae OR coronavirus OR coronaviruses OR corono viridae OR corono virinae OR coronoviridae OR coronovirinae OR coronovirus OR coronoviruses OR covid 19 OR covid 2019 OR covid19 OR covid-19 OR covid2019 OR covid-2019 OR deltacoronavirus OR deltacoronaviruses OR deltacoronaviridae OR deltacoronavirinae OR deltacoronovirus OR deltacoronoviruses OR deltacoronovirinae OR deltacoronoviradae OR gammacoronaviridae OR gammacoronavirinae OR gammacoronavirus OR gammacoronaviruses OR gammacoronovirus OR gammacoronoviruses OR gammacoronovirinae OR gammacoronovirdae OR hcov 229e OR hcov nl63 OR hcov229e OR hcov-229e OR hcovnl63 OR hcov-nl63 OR mers OR middle east respiratory syndrome OR middle east respiratory syndromes OR nCoV OR porcine epidemic diarrhea virus OR sars OR sarscov2 OR sars-cov-2 OR sars cov 2 OR severe acute respiratory syndrome OR severe acute respiratory syndromes&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Critical Care</title>
+      <link>https://carrieprice78.github.io/guides/search-filters/critical-care/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://carrieprice78.github.io/guides/search-filters/critical-care/</guid>
+      <description>&lt;h2 id=&#34;controlled-vocabulary&#34;&gt;Controlled Vocabulary&lt;/h2&gt;
+&lt;h3 id=&#34;pubmed&#34;&gt;PubMed&lt;/h3&gt;
+&lt;p&gt;&amp;ldquo;burn units&amp;rdquo;[mesh] OR &amp;ldquo;coronary care units&amp;rdquo;[mesh] OR &amp;ldquo;critical care nursing&amp;rdquo;[mesh] OR &amp;ldquo;critical care&amp;rdquo;[mesh] OR &amp;ldquo;critical illness&amp;rdquo;[mesh] OR &amp;ldquo;critical care outcomes&amp;rdquo;[mesh] OR &amp;ldquo;early goal-directed therapy&amp;rdquo;[mesh] OR &amp;ldquo;intensive care units&amp;rdquo;[mesh] OR &amp;ldquo;intensive care units, neonatal&amp;rdquo;[mesh] OR &amp;ldquo;intensive care units, pediatric&amp;rdquo;[mesh] OR &amp;ldquo;intensive care, neonatal&amp;rdquo;[mesh] OR &amp;ldquo;recovery room&amp;rdquo;[mesh] OR &amp;ldquo;respiration, artificial&amp;rdquo;[mesh] OR &amp;ldquo;respiratory care units&amp;rdquo;[mesh]&lt;/p&gt;
+&lt;h3 id=&#34;embase&#34;&gt;Embase&lt;/h3&gt;
+&lt;p&gt;&amp;lsquo;artificial feeding&amp;rsquo;/de OR &amp;lsquo;artificial ventilation&amp;rsquo;/de OR &amp;lsquo;burn unit&amp;rsquo;/exp OR &amp;lsquo;coronary care unit&amp;rsquo;/exp OR &amp;lsquo;critical care outcome&amp;rsquo;/exp OR &amp;lsquo;critically ill patient&amp;rsquo;/exp OR &amp;lsquo;early goal-directed therapy&amp;rsquo;/exp OR &amp;lsquo;intensive care nursing&amp;rsquo;/exp OR &amp;lsquo;intensive care unit&amp;rsquo;/exp OR &amp;lsquo;intensive care&amp;rsquo;/de OR &amp;lsquo;medical intensive care unit&amp;rsquo;/exp OR &amp;lsquo;neonatal intensive care unit&amp;rsquo;/exp OR &amp;lsquo;neurological intensive care unit&amp;rsquo;/exp OR &amp;lsquo;newborn intensive care&amp;rsquo;/exp OR &amp;lsquo;pediatric advanced life support&amp;rsquo;/exp OR &amp;lsquo;pediatric intensive care unit&amp;rsquo;/exp OR &amp;lsquo;psychiatric intensive care unit&amp;rsquo;/exp OR &amp;lsquo;resuscitation&amp;rsquo;/exp OR &amp;lsquo;stroke unit&amp;rsquo;/exp OR &amp;lsquo;surgical intensive care unit&amp;rsquo;/exp&lt;/p&gt;
+&lt;h3 id=&#34;the-cochrane-library&#34;&gt;The Cochrane Library&lt;/h3&gt;
+&lt;p&gt;[mh &amp;ldquo;burn units&amp;rdquo;] OR [mh &amp;ldquo;coronary care units&amp;rdquo;] OR [mh &amp;ldquo;critical care nursing&amp;rdquo;] OR [mh &amp;ldquo;critical care&amp;rdquo;] OR [mh &amp;ldquo;critical illness&amp;rdquo;] OR [mh &amp;ldquo;critical care outcomes&amp;rdquo;] OR [mh &amp;ldquo;early goal-directed therapy&amp;rdquo;] OR [mh &amp;ldquo;intensive care units&amp;rdquo;] OR [mh &amp;ldquo;intensive care units, neonatal&amp;rdquo;] OR [mh &amp;ldquo;intensive care units, pediatric&amp;rdquo;] OR [mh &amp;ldquo;intensive care, neonatal&amp;rdquo;] OR [mh &amp;ldquo;recovery room&amp;rdquo;] OR [mh &amp;ldquo;respiration, artificial&amp;rdquo;] OR [mh &amp;ldquo;respiratory care units&amp;rdquo;]&lt;/p&gt;
+&lt;h3 id=&#34;cinahl&#34;&gt;CINAHL&lt;/h3&gt;
+&lt;p&gt;MH &amp;ldquo;burn units&amp;rdquo; OR MH &amp;ldquo;coronary care units&amp;rdquo; OR MH &amp;ldquo;critically ill patients&amp;rdquo; OR MH &amp;ldquo;critical care nursing&amp;rdquo; OR MH &amp;ldquo;critical care&amp;rdquo; OR MH &amp;ldquo;intensive care units&amp;rdquo; OR MH &amp;ldquo;intensive care units, neonatal&amp;rdquo; OR MH &amp;ldquo;intensive care units, pediatric&amp;rdquo; OR MH &amp;ldquo;intensive care, neonatal&amp;rdquo; OR MH &amp;ldquo;neonatal intensive care nursing&amp;rdquo; OR MH &amp;ldquo;post anesthesia care units&amp;rdquo; OR MH &amp;ldquo;respiratory care units&amp;rdquo; OR MH &amp;ldquo;stroke units&amp;rdquo;&lt;/p&gt;
+&lt;h2 id=&#34;keywords&#34;&gt;Keywords&lt;/h2&gt;
+&lt;p&gt;artificial feeding OR artificial respiration OR b i c u OR bicu OR burn center OR burn centers OR burn unit OR burn units OR close attention unit OR close attention units OR coronary care unit OR coronary care units OR coronary resuscitation unit OR coronary resuscitation units OR critical care OR critical illness OR critical illnesses OR critically ill OR g i c u OR gicu OR h d u OR hdu OR high dependency unit OR high dependency units OR i c u OR i t u OR icu OR intensive care OR intensive therapy unit OR intensive therapy units OR itu OR mechanical ventilation OR mechanically vented OR mechanical vent OR mechanical vents OR mechanical ventilator OR micu OR p i c u OR m i c u OR picu OR recovery room OR recovery rooms OR respiratory care unit OR respiratory care units OR stroke unit OR stroke units&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Database-Specific Searches</title>
+      <link>https://carrieprice78.github.io/guides/search-filters/database-specific/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://carrieprice78.github.io/guides/search-filters/database-specific/</guid>
+      <description>&lt;h2 id=&#34;pubmed&#34;&gt;PubMed&lt;/h2&gt;
+&lt;p&gt;PubMed has a number of subject filters built in and can be called by appending a search by typing the appropriate words and [sb].&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.nlm.nih.gov/bsd/pubmed_subsets/aids_strategy.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AIDS&lt;/a&gt;: use aids [sb]&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.nlm.nih.gov/bsd/pubmed_subsets/bioethics_strategy.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bioethics&lt;/a&gt;: use bioethics [sb]&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.nlm.nih.gov/bsd/pubmed_subsets/cancer_strategy.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cancer&lt;/a&gt;: use cancer [sb]&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.nlm.nih.gov/bsd/pubmed_subsets/comp_med_strategy.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Complementary Medicine&lt;/a&gt;: use cam [sb]&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.nlm.nih.gov/bsd/pubmed_subsets/dart_strategy.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Developmental and Reproductive Toxicology&lt;/a&gt;: use dart [sb]&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.nlm.nih.gov/bsd/pubmed_subsets/diet_strategy.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dietary Supplements&lt;/a&gt;: use dietsuppl [sb]&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.nlm.nih.gov/bsd/pubmed_subsets/history_strategy.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;History of Medicine&lt;/a&gt;: use history [sb]&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.nlm.nih.gov/bsd/pubmed_subsets/space_strategy.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Space Life Sciences&lt;/a&gt;: use space [sb]&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.nlm.nih.gov/bsd/pubmed_subsets/sysreviews_strategy.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Systematic Reviews&lt;/a&gt;: use systematic [sb]&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.nlm.nih.gov/bsd/pubmed_subsets/tox_strategy.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Toxicology&lt;/a&gt;: use tox [sbu]&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.nlm.nih.gov/services/queries/veterinarymed_details.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Veterinary Science&lt;/a&gt;: use veterinary [sb]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;miscellaneous&#34;&gt;Miscellaneous&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.flinders.edu.au/flinders-digital-health-research-centre/flinders-filters&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Flinders Filters and CareSearch Filters&lt;/a&gt; follow an established methodology designed to be objective and minimize bias&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://hiru.mcmaster.ca/hiru/HIRU_Hedges_home.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Health Information Research Unit at McMaster University&lt;/a&gt; has written various database filters for therapy, diagnosis, review, prognosis, causation, etiology, economics, cost, clinical prediction guides, qualitative, and more for MEDLINE, Embase, and PsycINFO&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://sites.google.com/a/york.ac.uk/issg-search-filters-resource/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISSG at InterTASC Search Filter Resource&lt;/a&gt; has a number of searches for different databases&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://browse.welch.jhmi.edu/search-filters/ibguides.sph.uth.tmc.edu/c.php?g=543319&amp;amp;p=3723017&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Search Filters for Various Databases&lt;/a&gt; from the University of Texas School of Public Health&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;ovid-platform-expert-searches&#34;&gt;Ovid Platform Expert Searches&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://resourcecenter.ovid.com/site/resources/expert_search/healthexp.html#OvidFilters&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Various search filters built by Ovid for Ovid&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Early Mobility</title>
+      <link>https://carrieprice78.github.io/guides/search-filters/early-mobility/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://carrieprice78.github.io/guides/search-filters/early-mobility/</guid>
+      <description>&lt;h2 id=&#34;search-builder-for-early-mobility&#34;&gt;Search Builder for Early Mobility&lt;/h2&gt;
+&lt;h3 id=&#34;controlled-vocabulary&#34;&gt;Controlled Vocabulary&lt;/h3&gt;
+&lt;h4 id=&#34;pubmed&#34;&gt;PubMed&lt;/h4&gt;
+&lt;p&gt;&amp;ldquo;bicycling&amp;rdquo;[mesh] OR &amp;ldquo;critical care outcomes&amp;rdquo;[mesh] OR &amp;ldquo;dependent ambulation&amp;rdquo;[mesh] OR &amp;ldquo;early ambulation&amp;rdquo;[mesh] OR &amp;ldquo;early goal-directed therapy&amp;rdquo;[mesh] OR &amp;ldquo;exercise therapy&amp;rdquo;[mesh] OR &amp;ldquo;exercise&amp;rdquo;[mesh] OR &amp;ldquo;locomotion&amp;rdquo;[mesh] OR &amp;ldquo;motor activity&amp;rdquo;[mesh] OR &amp;ldquo;occupational therapy department, hospital&amp;rdquo;[mesh] OR &amp;ldquo;occupational therapy&amp;rdquo;[mesh] OR &amp;ldquo;physical and rehabilitation medicine&amp;rdquo;[mesh] OR &amp;ldquo;physical therapy department, hospital&amp;rdquo;[mesh] OR &amp;ldquo;rehabilitation nursing&amp;rdquo;[mesh] OR &amp;ldquo;rehabilitation of speech and language disorders&amp;rdquo;[mesh] OR &amp;ldquo;rehabilitation&amp;rdquo;[mesh] OR &amp;ldquo;rehabilitation&amp;rdquo;[sh] OR &amp;ldquo;speech-language pathology&amp;rdquo;[mesh] OR &amp;ldquo;stair climbing&amp;rdquo;[mesh] OR &amp;ldquo;walking&amp;rdquo;[mesh]&lt;/p&gt;
+&lt;h3 id=&#34;keywords&#34;&gt;Keywords&lt;/h3&gt;
+&lt;p&gt;AAC OR accelerated ambulation OR activities of daily living OR ADL OR ADLs OR alternative communication OR ambulate OR ambulation OR augmentative communication OR bicycl* OR bicycling OR bike OR biking OR communication aid OR communication aids OR communication board OR communication boards OR cycle OR cycling OR diaries OR diary OR early goal directed therapies OR early goal directed therapy OR ergometer OR ergometers OR ergometries OR ergometry OR exercise OR exercising OR functional recovery OR functional status OR mobilisation OR mobilise OR mobility OR mobilization OR mobilize OR motor activity OR occupational therapies OR occupational therapist OR occupational therapists OR occupational therapy OR physical activity OR physical therapies OR physical therapist OR physical therapists OR physical therapy OR physiotherap* OR PICS OR post intensive care syndrome OR rehab OR rehabilitation OR rehabilitative OR speech language OR speech pathologist OR speech pathologists OR speech pathology OR speech therapy OR stair climbing OR strength OR treadmill OR treadmills OR walking&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Emergency Medicine</title>
+      <link>https://carrieprice78.github.io/guides/search-filters/emergency-medicine/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://carrieprice78.github.io/guides/search-filters/emergency-medicine/</guid>
+      <description>&lt;h2 id=&#34;search-builder-for-emergency-medicine-department&#34;&gt;Search Builder for Emergency Medicine (Department)&lt;/h2&gt;
+&lt;h3 id=&#34;controlled-vocabulary&#34;&gt;Controlled Vocabulary&lt;/h3&gt;
+&lt;h4 id=&#34;pubmed&#34;&gt;PubMed&lt;/h4&gt;
+&lt;p&gt;&amp;ldquo;Emergency Service, Hospital&amp;rdquo;[mesh] OR &amp;ldquo;Emergency Medicine&amp;rdquo;[mesh] OR &amp;ldquo;Trauma Centers&amp;rdquo;[mesh]&lt;/p&gt;
+&lt;h4 id=&#34;embase&#34;&gt;Embase&lt;/h4&gt;
+&lt;p&gt;&amp;lsquo;emergency health service&amp;rsquo;/de OR &amp;lsquo;emergency medicine&amp;rsquo;/de&lt;/p&gt;
+&lt;h4 id=&#34;the-cochrane-library&#34;&gt;The Cochrane Library&lt;/h4&gt;
+&lt;p&gt;[mh &amp;ldquo;emergency service, hospital&amp;rdquo;] OR [mh &amp;ldquo;emergency medicine&amp;rdquo;] OR [mh &amp;ldquo;trauma centers&amp;rdquo;]&lt;/p&gt;
+&lt;h2 id=&#34;keywords&#34;&gt;Keywords&lt;/h2&gt;
+&lt;p&gt;a &amp;amp; e OR a&amp;amp;e OR accident &amp;amp; emergency OR accident and emergency OR ed OR emergency department OR emergency departments OR emergency health service OR emergency health services OR emergency medical service OR emergency medical services OR emergency medicine OR emergency room OR emergency rooms OR emergency service OR emergency services OR emergency unit OR emergency units OR emergency ward OR emergency wards OR er OR trauma center OR trauma centers&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Geography and LMICs</title>
+      <link>https://carrieprice78.github.io/guides/search-filters/geography-and-lmics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://carrieprice78.github.io/guides/search-filters/geography-and-lmics/</guid>
+      <description>&lt;h2 id=&#34;existing-filters&#34;&gt;Existing Filters&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://sites.google.com/a/york.ac.uk/issg-search-filters-resource/other-filters/filters-to-find-studies-of-geographic-locations&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISSG Search Filters to find studies of geographic locations&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;3# Cochrane Low- and Middle-Income Countries (LMICS)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://epoc.cochrane.org/lmic-filters&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cochrane Low and Middle Income Country Filters&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;based on 
+&lt;a href=&#34;http://data.worldbank.org/about/country-classifications&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2019 World Bank list of countries&lt;/a&gt; classified as low-income, lower-middle-income or upper-middle-income economies&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LGBTQIA&#43;</title>
+      <link>https://carrieprice78.github.io/guides/search-filters/lgbtqia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://carrieprice78.github.io/guides/search-filters/lgbtqia/</guid>
+      <description>&lt;h2 id=&#34;search-builder-for-lgbtqia&#34;&gt;Search Builder for LGBTQIA&lt;/h2&gt;
+&lt;h3 id=&#34;controlled-vocabulary&#34;&gt;Controlled Vocabulary&lt;/h3&gt;
+&lt;h3 id=&#34;pubmed&#34;&gt;PubMed&lt;/h3&gt;
+&lt;p&gt;&amp;ldquo;bisexuality&amp;rdquo;[mesh] OR &amp;ldquo;health services for transgender persons&amp;rdquo;[mesh] OR &amp;ldquo;homosexuality&amp;rdquo;[mesh] OR &amp;ldquo;homosexuality, male&amp;rdquo;[mesh] OR &amp;ldquo;homosexuality, female&amp;rdquo;[mesh] OR &amp;ldquo;intersex persons&amp;rdquo;[mesh] OR &amp;ldquo;sexual and gender minorities&amp;rdquo;[mesh] OR &amp;ldquo;transgender persons&amp;rdquo;[mesh] OR &amp;ldquo;transsexualism&amp;rdquo;[mesh]&lt;/p&gt;
+&lt;h3 id=&#34;keywords&#34;&gt;Keywords&lt;/h3&gt;
+&lt;p&gt;agender* OR allosexual* OR androgyn* OR androsexual* OR asexual* OR bigender* OR bisexual* OR cis OR cisgender* OR cismale OR cisfemale OR demisexual* OR f2m OR FTM OR f to m OR female to male OR gay OR gender minorit* OR gender nonconforming OR gender minority OR gynosexual* OR hermaphrod* OR homosexual* OR intergender* OR inter gender* OR intersex* OR LBG OR LBGT OR LBGTQ OR LBGTQIA OR LGB OR LGBT OR LBGTQ OR LBGTQIA OR lesbian* OR m2f OR MTF OR M to F OR male to female OR monoamorous OR monosexual* OR nonbinary OR non binary OR pangender* OR pansexual* OR polyamorous OR polysexual* OR queer* OR sexual minorit* OR trans OR transgender* OR transsexual* OR trans gender OR transmasculin* OR transfeminin* OR trans sexual* OR trans masculin* OR trans feminin*&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Methodological Filters</title>
+      <link>https://carrieprice78.github.io/guides/search-filters/methodological-filters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://carrieprice78.github.io/guides/search-filters/methodological-filters/</guid>
+      <description>&lt;h2 id=&#34;existing-filters&#34;&gt;Existing Filters&lt;/h2&gt;
+&lt;h3 id=&#34;guidelines&#34;&gt;Guidelines&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://sites.google.com/a/york.ac.uk/issg-search-filters-resource/filters-to-identify-guidelines&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISSG Filters to Identify Guidelines&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;miscellaneous&#34;&gt;Miscellaneous&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://bestpractice.bmj.com/info/us/toolkit/learn-ebm/study-design-search-filters/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BMJ Study Design Search Filters&lt;/a&gt;: includes SR, RCT, cohort, case-control, case series, case study, adverse effects&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.cadth.ca/resources/finding-evidence/strings-attached-cadths-database-search-filters&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CADTH Database Search Filters&lt;/a&gt;: includes SR, RCT, guidelines, economics, quality of life&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;randomized-controlled-trials&#34;&gt;Randomized Controlled Trials&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://handbook-5-1.cochrane.org/chapter_6/6_4_11_1_the_cochrane_highly_sensitive_search_strategies_for.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cochrane Highly Sensitive Search Strategies for PubMed from the 2008 version Cochrane Handbook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://work.cochrane.org/embase&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Embase Search Strategy for finding RCTs from the Cochrane Work group&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://browse.welch.jhmi.edu/search-filters/%3Cli%3E%3Ca%20href=&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PsycINFO Search Strategy for finding RCTs from the Cochrane Work group&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://sites.google.com/a/york.ac.uk/issg-search-filters-resource/filters-to-identify-randomized-controlled-trials-and&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISSG Filters to Identify RCTs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;systematic-reviews&#34;&gt;Systematic Reviews&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://sites.google.com/a/york.ac.uk/issg-search-filters-resource/filters-to-identify-systematic-reviews&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISSG Filters to IDentify Systematic Reviews&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;search-builder-for-guidelines&#34;&gt;Search Builder for Guidelines&lt;/h2&gt;
+&lt;h3 id=&#34;controlled-vocabulary&#34;&gt;Controlled Vocabulary&lt;/h3&gt;
+&lt;h4 id=&#34;pubmed&#34;&gt;PubMed&lt;/h4&gt;
+&lt;p&gt;&amp;ldquo;guideline&amp;rdquo;[pt] OR &amp;ldquo;practice guideline&amp;rdquo;[pt] OR &amp;ldquo;consensus&amp;rdquo;[mesh] OR &amp;ldquo;consensus development conference, nih&amp;rdquo;[mesh] OR &amp;ldquo;consensus development conference&amp;rdquo;[pt] OR &amp;ldquo;delphi technique&amp;rdquo;[mesh]&lt;/p&gt;
+&lt;h4 id=&#34;embase&#34;&gt;Embase&lt;/h4&gt;
+&lt;p&gt;&amp;lsquo;practice guideline&amp;rsquo;/de OR &amp;lsquo;clinical pathway&amp;rsquo;/exp OR &amp;lsquo;clinical protocol&amp;rsquo;/exp OR &amp;lsquo;consensus development&amp;rsquo;/exp OR &amp;lsquo;delphi study&amp;rsquo;/exp OR &amp;lsquo;good clinical practice&amp;rsquo;/exp OR &amp;lsquo;nursing care plan&amp;rsquo;/exp OR &amp;lsquo;nursing protocol&amp;rsquo;/exp&lt;/p&gt;
+&lt;h4 id=&#34;cinahl&#34;&gt;CINAHL&lt;/h4&gt;
+&lt;p&gt;MH &amp;ldquo;practice guidelines&amp;rdquo; OR MH &amp;ldquo;delphi technique&amp;rdquo;&lt;/p&gt;
+&lt;h2 id=&#34;keywords&#34;&gt;Keywords&lt;/h2&gt;
+&lt;p&gt;appropriate use OR appropriateness OR care plan OR care plans OR consensus OR delphi method OR delphi methods OR delphi methodology OR delphi methodologies OR delphi technique OR delphi techniques OR delphi study OR delphi studies OR guidance OR guideline* OR guide line OR guide lines OR pathway OR position statement OR position statements OR protocol OR standard of care OR standards of care&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Occupational Therapy</title>
+      <link>https://carrieprice78.github.io/guides/search-filters/occupational-therapy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://carrieprice78.github.io/guides/search-filters/occupational-therapy/</guid>
+      <description>&lt;h2 id=&#34;search-builder-for-occupational-therapy&#34;&gt;Search Builder for Occupational Therapy&lt;/h2&gt;
+&lt;h3 id=&#34;controlled-vocabulary&#34;&gt;Controlled Vocabulary&lt;/h3&gt;
+&lt;h4 id=&#34;pubmed&#34;&gt;PubMed&lt;/h4&gt;
+&lt;p&gt;&amp;ldquo;activities of daily living&amp;rdquo;[mesh] OR &amp;ldquo;occupational therapists&amp;rdquo;[mesh] OR &amp;ldquo;occupational therapy&amp;rdquo;[mesh] OR &amp;ldquo;occupational therapy department, hospital&amp;rdquo;[mesh] OR &amp;ldquo;rehabilitation, vocational&amp;rdquo;[mesh]&lt;/p&gt;
+&lt;h3 id=&#34;keywords&#34;&gt;Keywords&lt;/h3&gt;
+&lt;p&gt;activities of daily living OR activities of daily life OR ADL OR ADLs OR IADL OR IADLS OR BADL OR BADLS OR occupational rehab OR occupational rehabilitation OR occupational therapist OR occupational therapists OR occupational therapy OR occupational therapies OR vocational rehab OR vocational rehabilitation OR vocational therapy OR vocational therapies&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Physical Therapy</title>
+      <link>https://carrieprice78.github.io/guides/search-filters/physical-therapy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://carrieprice78.github.io/guides/search-filters/physical-therapy/</guid>
+      <description>&lt;h2 id=&#34;search-builder-for-occupational-therapy&#34;&gt;Search Builder for Occupational Therapy&lt;/h2&gt;
+&lt;h3 id=&#34;controlled-vocabulary&#34;&gt;Controlled Vocabulary&lt;/h3&gt;
+&lt;h4 id=&#34;pubmed&#34;&gt;PubMed&lt;/h4&gt;
+&lt;p&gt;&amp;ldquo;exercise therapy&amp;rdquo;[mesh] OR &amp;ldquo;exercise movement techniques&amp;rdquo;[mesh] OR &amp;ldquo;musculoskeletal manipulations&amp;rdquo;[mesh] OR &amp;ldquo;myofunctional therapy&amp;rdquo;[mesh]OR &amp;ldquo;physical therapy modalities&amp;rdquo;[mesh] OR &amp;ldquo;physical therapy specialty&amp;rdquo;[mesh] OR &amp;ldquo;physical therapy department, hospital&amp;rdquo;[mesh] OR &amp;ldquo;physical therapists&amp;rdquo;[mesh] OR &amp;ldquo;physical therapist assistants&amp;rdquo;[mesh] OR &amp;ldquo;rehabilitation&amp;rdquo;[sh] OR &amp;ldquo;rehabilitation&amp;rdquo;[mesh:noexp]&lt;/p&gt;
+&lt;h3 id=&#34;keywords&#34;&gt;Keywords&lt;/h3&gt;
+&lt;p&gt;exercise therapy OR exercise therapies OR physical therapy OR physical therapies OR physical therapist OR physical therapists OR exercise OR exercises OR exercising OR musculoskeletal manipulation OR musculoskeletal manipulations OR myofunctional therapy OR myofunctional therapies&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Speech-Language Pathology</title>
+      <link>https://carrieprice78.github.io/guides/search-filters/speech-language-pathology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://carrieprice78.github.io/guides/search-filters/speech-language-pathology/</guid>
+      <description>&lt;h2 id=&#34;search-builder-for-slp&#34;&gt;Search Builder for SLP&lt;/h2&gt;
+&lt;h3 id=&#34;controlled-vocabulary&#34;&gt;Controlled Vocabulary&lt;/h3&gt;
+&lt;h4 id=&#34;pubmed&#34;&gt;PubMed&lt;/h4&gt;
+&lt;p&gt;&amp;ldquo;deglutition disorders&amp;rdquo;[mesh:noexp] OR &amp;ldquo;language therapy&amp;rdquo;[mesh] OR &amp;ldquo;myofunctional therapy&amp;rdquo;[mesh] OR &amp;ldquo;rehabilitation of speech and language disorders&amp;rdquo;[mesh] OR &amp;ldquo;speech-language pathology&amp;rdquo;[mesh] OR &amp;ldquo;speech therapy&amp;rdquo;[mesh] OR &amp;ldquo;speech, alaryngeal&amp;rdquo;[mesh] OR &amp;ldquo;speech, esophageal&amp;rdquo;[mesh] OR &amp;ldquo;voice training&amp;rdquo;[mesh]&lt;/p&gt;
+&lt;h3 id=&#34;keywords&#34;&gt;Keywords&lt;/h3&gt;
+&lt;p&gt;deglutition OR deglutitive OR dysphagia OR dysphagic OR dysphagics OR language rehab OR language rehabilitation OR language therapy OR language therapies OR odynophagia OR odynophagias OR odynophagic OR odynophagics OR presbyphagia OR presbyphagias OR presbyphagic OR presbyphagics OR speech language pathology OR speech language pathologies OR speech language pathologist OR speech language pathologists OR speech pathology OR speech pathologies OR language pathology OR language pathologies OR speech therapy OR speech therapies OR speech rehab OR speech rehabilitation OR swallow OR swallows OR swallowing OR vocal training OR vocal therapy OR vocal therapies OR vocal rehabilitation OR voice training OR voice therapy OR voice therapies OR voice rehabilitation&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tests and Measures</title>
+      <link>https://carrieprice78.github.io/guides/search-filters/tests-measures/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://carrieprice78.github.io/guides/search-filters/tests-measures/</guid>
+      <description>&lt;h2 id=&#34;search-builder-for-slp&#34;&gt;Search Builder for SLP&lt;/h2&gt;
+&lt;h3 id=&#34;controlled-vocabulary&#34;&gt;Controlled Vocabulary&lt;/h3&gt;
+&lt;h4 id=&#34;pubmed&#34;&gt;PubMed&lt;/h4&gt;
+&lt;p&gt;&amp;ldquo;data collection&amp;rdquo;[mesh] OR &amp;ldquo;surveys and questionnaires&amp;rdquo;[mesh]&lt;/p&gt;
+&lt;h3 id=&#34;keywords&#34;&gt;Keywords&lt;/h3&gt;
+&lt;p&gt;index OR measure* OR questionnaire* OR scale* OR score* OR survey* OR test OR tests OR tool OR tools&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
