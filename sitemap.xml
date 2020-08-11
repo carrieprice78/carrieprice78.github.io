@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://carrieprice78.github.io/guides/research-impact/</loc>
-    <lastmod>2020-08-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://carrieprice78.github.io/guides/covid-19/</loc>
   </url>
   
@@ -124,6 +119,10 @@
   </url>
   
   <url>
+    <loc>https://carrieprice78.github.io/guides/open-educational-resources/digital-literacy/</loc>
+  </url>
+  
+  <url>
     <loc>https://carrieprice78.github.io/guides/covid-19/disease-tracking/</loc>
   </url>
   
@@ -177,10 +176,6 @@
   </url>
   
   <url>
-    <loc>https://carrieprice78.github.io/guides/open-educational-resources/digital-literacy/</loc>
-  </url>
-  
-  <url>
     <loc>https://carrieprice78.github.io/guides/images-visualizations/images-by-subject/</loc>
   </url>
   
@@ -194,6 +189,11 @@
   
   <url>
     <loc>https://carrieprice78.github.io/guides/health-sciences-librarianship/</loc>
+    <lastmod>2020-08-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://carrieprice78.github.io/guides/libguides/</loc>
     <lastmod>2020-08-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -214,12 +214,12 @@
   </url>
   
   <url>
-    <loc>https://carrieprice78.github.io/guides/open-educational-resources/instructional-design/</loc>
+    <loc>https://carrieprice78.github.io/guides/images-visualizations/</loc>
+    <lastmod>2020-08-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://carrieprice78.github.io/guides/images-visualizations/</loc>
-    <lastmod>2020-08-03T00:00:00+00:00</lastmod>
+    <loc>https://carrieprice78.github.io/guides/open-educational-resources/instructional-design/</loc>
   </url>
   
   <url>
@@ -266,6 +266,11 @@
   
   <url>
     <loc>https://carrieprice78.github.io/guides/early-mobility/</loc>
+    <lastmod>2020-08-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://carrieprice78.github.io/guides/research-impact/</loc>
     <lastmod>2020-08-03T00:00:00+00:00</lastmod>
   </url>
   
