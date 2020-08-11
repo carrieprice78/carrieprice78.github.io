@@ -12,5 +12,372 @@
       <link>https://carrieprice78.github.io/guides/open-educational-resources/</link>
     </image>
     
+    <item>
+      <title>Accessible Education</title>
+      <link>https://carrieprice78.github.io/guides/open-educational-resources/accessible-education/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://carrieprice78.github.io/guides/open-educational-resources/accessible-education/</guid>
+      <description>&lt;h2 id=&#34;characteristics-of-accessible-education&#34;&gt;Characteristics of Accessible Education&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Takes into consideration a variety of student characteristics, including ethnicity, race, abilities, disabilities, age, gender, language abilities, and preferred learning style&lt;/li&gt;
+&lt;li&gt;Does not compromise academic rigor&lt;/li&gt;
+&lt;li&gt;Is a proactive and inclusive way of teaching and designing courses and curricula&lt;/li&gt;
+&lt;li&gt;Removes barriers to learning before the barriers can have an effect&lt;/li&gt;
+&lt;li&gt;Reduces the need for specialized accommodations&lt;/li&gt;
+&lt;li&gt;Identifies and clearly expresses essential course content&lt;/li&gt;
+&lt;li&gt;Is consistent with universally-recognized principles of good teaching&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;From 
+&lt;a href=&#34;https://accessiblecampus.ca/tools-resources/educators-tool-kit/introduction-accessible-education/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Introduction to Accessible Education from the Council of Ontario Universities&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;resources-for-accessible-education&#34;&gt;Resources for Accessible Education&lt;/h2&gt;
+&lt;h3 id=&#34;academic-institutions&#34;&gt;Academic Institutions&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.csun.edu/universal-design-center/basic-accessibility-evaluations-4-questions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Accessible Teaching form University of Maryland&amp;rsquo;s Teaching and Learning Transformation Center&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://accessiblecampus.ca/tools-resources/educators-tool-kit/introduction-accessible-education/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Accessible Education from Council of Ontario Universities&amp;rsquo; Accessible Campus&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;[Includes the 
+&lt;a href=&#34;https://accessiblecampus.ca/tools-resources/educators-tool-kit/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Educator&amp;rsquo;s Accessibility Toolkit&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.csun.edu/universal-design-center/basic-accessibility-evaluations-4-questions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Four-Point Accessibility Evaluation from California State University Northbridge Universal Design Center&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.csun.edu/universal-design-center/web-accessibility-criteria-color-contrast&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Web Accessibility Criteria for Color Contrast from California State University Northbridge Universal Design Center&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://cft.vanderbilt.edu/guides-sub-pages/creating-accessible-learning-environments/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Creating Accessible Learning Environments from Vanderbilt University&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;government-resources&#34;&gt;Government Resources&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.section508.gov/create&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Create Accessible Digital Products from Section508.gov&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.ada.gov/2010ADAstandards_index.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ADA Standards for Accessible Design from ADA.gov&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;other-resources&#34;&gt;Other Resources&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.w3.org/WAI/standards-guidelines/wcag/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Web Accessibility Initiative from W3C&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://webaim.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WebAIM: Web Accessiblity in Mind&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://webaim.org/resources/contrastchecker/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Includes Color Contrast Checker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://wave.webaim.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WAVE Web Accessibility Checker&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;guidance-for-accessible-education&#34;&gt;Guidance for Accessible Education&lt;/h2&gt;
+&lt;h3 id=&#34;accessible-documents&#34;&gt;Accessible Documents&lt;/h3&gt;
+&lt;p&gt;Accessible documents have:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;readable text that is not an image,&lt;/li&gt;
+&lt;li&gt;tags to indicate a heading structure,&lt;/li&gt;
+&lt;li&gt;alternate text for images,&lt;/li&gt;
+&lt;li&gt;a set reading order,&lt;/li&gt;
+&lt;li&gt;a set language,&lt;/li&gt;
+&lt;li&gt;and use lists, tables, and hyperlinks wisely.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;what-is-alternative-text&#34;&gt;What is Alternative Text?&lt;/h3&gt;
+&lt;p&gt;Alternative text helps screen readers recognize and describe images used on websites. An image without alternative text cannot be described in context.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Use alternative text when including an image in your guide.&lt;/li&gt;
+&lt;li&gt;Alternative text is read by screen readers in place of images.&lt;/li&gt;
+&lt;li&gt;Enter accurate text that avoids terminology such as &amp;ldquo;image of&amp;hellip;&amp;rdquo; or &amp;ldquo;link to&amp;hellip;&amp;rdquo;.*&lt;/li&gt;
+&lt;li&gt;See 
+&lt;a href=&#34;https://webaim.org/techniques/alttext/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WebAIM&amp;rsquo;s section on alternative text&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;See more from the 
+&lt;a href=&#34;https://www.washington.edu/accessibility/documents/overview/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Washington&amp;rsquo;s Overview of Accessible Documents&lt;/a&gt; page.&lt;/p&gt;
+&lt;h3 id=&#34;word-documents&#34;&gt;Word Documents&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://support.microsoft.com/en-us/office/make-your-word-documents-accessible-to-people-with-disabilities-d9bf3683-87ac-47ea-b91a-78dcacb3c66d?redirectsourcepath=%252fen-us%252farticle%252fcreate-accessible-word-documents-4fbb34d6-264f-4315-98d1-e431019e6137&amp;amp;ui=en-us&amp;amp;rs=en-us&amp;amp;ad=us&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Make your Word documents accessible to people with disabilities from Microsoft&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.section508.gov/create/documents&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Create Accessible Documents from Section508.gov&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.washington.edu/accessibility/documents/word/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Creating Accessible Documents in MS Word from University of Washington&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;pdfs&#34;&gt;PDFs&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.adobe.com/accessibility/pdf/pdf-accessibility-overview.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Accessibility Overview from Adobe&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.section508.gov/create/pdfs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Create Accessible PDFs from Section508.gov&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.washington.edu/accessibility/documents/pdf-forms/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Creating Accessible PDF Forms Using Adobe Acrobat Pro from University of Washington&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.washington.edu/accessibility/documents/pdf-word/0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Creating Accessible PDF from MS Word from University of Washington&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;presentations&#34;&gt;Presentations&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://support.microsoft.com/en-ie/office/make-your-powerpoint-presentations-accessible-to-people-with-disabilities-6f7772b2-2f33-4bd2-8ca7-dae3b2b3ef25&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Make your PowerPoint presentations accessible to people with disabilities from Microsoft&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.section508.gov/create/presentations&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Create Accessible Presentations from Section508.gov&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.washington.edu/accessibility/documents/creating-accessible-presentations-in-microsoft-powerpoint/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Creating Accessible Presentations in MS PowerPoint from University of Washington&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;apps-for-assistive-education&#34;&gt;Apps for Assistive Education&lt;/h2&gt;
+&lt;h3 id=&#34;apps-for-reading&#34;&gt;Apps for Reading&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.changedyslexia.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Change Dyslexia - for Spanish speakers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.apple.com/ibooks/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;iBooks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.onenote.com/learningtools&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Immersive Reader&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://app.overdrive.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Overdrive&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://read2go.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Read2Go&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.vbookz.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;vBookz&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.voicedream.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Voice Dream Reader&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;apps-for-low-vision-or-blindness&#34;&gt;Apps for Low Vision or Blindness&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://itunes.apple.com/us/app/braille-tutor-free/id878463116?mt=80&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Braille Tutor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.bemyeyes.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Be My Eyes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.knfbreader.com/products-mobile.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;KNFB Reader&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://itunes.apple.com/us/app/supervision&amp;#43;-magnifier/id691435681?mt=8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SuperVision + Magnifier&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://itunes.apple.com/us/app/vo-starter/id586844936?mt=8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;VO Starter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;apps-for-hearing&#34;&gt;Apps for Hearing&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://play.google.com/store/apps/details?id=com.itechsa.ear.agent.tool.aid.hearing.amplifier&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ear Agent&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://itunes.apple.com/us/app/id569522474&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HearYouNow&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://play.google.com/store/apps/details?id=us.porrassoft.volumebooster&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ultimate Volume Booster&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;more-tools-for-accessible-instruction&#34;&gt;More Tools for Accessible Instruction&lt;/h2&gt;
+&lt;h3 id=&#34;ada-website-accessibility-toolkithttpswwwadagovpcatoolkitchap5toolkithtm&#34;&gt;
+&lt;a href=&#34;https://www.ada.gov/pcatoolkit/chap5toolkit.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ADA Website Accessibility Toolkit&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;The Americans with Disabilities Act (ADA) and, if the government entities receive federal funding, the Rehabilitation Act of 1973 generally require that state and local governments provide qualified individuals with disabilities equal access to their programs, services, or activities unless doing so would fundamentally alter the nature of their programs, services, or activities or would impose an undue burden&lt;/p&gt;
+&lt;h3 id=&#34;mozilla-developer-network-accessibility-guidehttpsdevelopermozillaorgen-usdocswebaccessibility&#34;&gt;
+&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/Accessibility&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mozilla Developer Network Accessibility Guide&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;MDN Web Docs (previously known as MDN — the Mozilla Developer Network) is an evolving learning platform for Web technologies and the software that powers the Web, including standards and guidelines.&lt;/p&gt;
+&lt;h3 id=&#34;section-508-compliancehttpswwwsection508gov&#34;&gt;
+&lt;a href=&#34;https://www.section508.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Section 508 Compliance&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;On January 18, 2017, the U.S. Access Board published a final rule updating accessibility requirements for information and communication technology (ICT) covered by Section 508 of the Rehabilitation Act and Section 255 of the Communications Act.&lt;/p&gt;
+&lt;h3 id=&#34;wcag-21httpswwww3orgwaistandards-guidelineswcagglance&#34;&gt;
+&lt;a href=&#34;https://www.w3.org/WAI/standards-guidelines/wcag/glance/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WCAG 2.1&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;This page provides a paraphrased summary of Web Content Accessibility Guidelines (WCAG) 2.1.&lt;/p&gt;
+&lt;h3 id=&#34;webaims-alternative-text-guidehttpswebaimorgtechniquesalttext&#34;&gt;
+&lt;a href=&#34;https://webaim.org/techniques/alttext/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WebAIM&amp;rsquo;s Alternative Text Guide&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Alternative text provides a textual alternative to non-text content in web pages.&lt;/p&gt;
+&lt;h3 id=&#34;webaim-contrast-checkerhttpswebaimorgresourcescontrastchecker&#34;&gt;
+&lt;a href=&#34;https://webaim.org/resources/contrastchecker/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WebAIM: Contrast Checker&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Use this color contrast checker to ensure that your digital or printable materials have enough contrast to be read by a vision-impaired individual.&lt;/p&gt;
+&lt;p&gt;For more web-based tools, see the 
+&lt;a href=&#34;https://library.educause.edu/resources/2020/4/typology-of-free-web-based-learning-technologies&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Typology of Free Web-based Learning Technologies from Educause&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Digital Literacy</title>
+      <link>https://carrieprice78.github.io/guides/open-educational-resources/digital-literacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://carrieprice78.github.io/guides/open-educational-resources/digital-literacy/</guid>
+      <description>&lt;h2 id=&#34;digital-literacy-resources&#34;&gt;Digital Literacy Resources&lt;/h2&gt;
+&lt;h3 id=&#34;digital-literacy-framework-toolkit-from-virginia-techhttpodysseylibvtedushomeitem256&#34;&gt;
+&lt;a href=&#34;http://odyssey.lib.vt.edu/s/home/item/256&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Digital Literacy Framework Toolkit from Virginia Tech&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;This toolkit is intended to help you put the digital literacy framework from the University Libraries at Virginia Tech into action. Use this toolkit to align your work with digital literacy learning outcomes, get inspired when revising or creating a workshop, curriculum, program, or other learning experience, and learn more about the digital literacy framework. CC-BY Julia Feerrar and Kelsey Hammer.&lt;/p&gt;
+&lt;h3 id=&#34;digital-literacy-topics-from-educausehttpslibraryeducauseedutopicsteaching-and-learningdigital-literacy&#34;&gt;
+&lt;a href=&#34;https://library.educause.edu/topics/teaching-and-learning/digital-literacy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Digital Literacy Topics from EDUCAUSE&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Explore digital literacy articles and resources from EDUCAUSE, a community of information technology professionals that aims to support higher education.&lt;/p&gt;
+&lt;h3 id=&#34;digital-tattoo-from-the-university-of-british-columbiahttpsdigitaltattooubcca&#34;&gt;
+&lt;a href=&#34;https://digitaltattoo.ubc.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Digital Tattoo from the University of British Columbia&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;The Digital Tattoo project is a student-led project creating cross-institutional resources and communities to explore digital identity. From the University of British Columbia.&lt;/p&gt;
+&lt;h3 id=&#34;observatory-on-social-media-osm-from-indiana-universityhttposomeiuniiuedu&#34;&gt;
+&lt;a href=&#34;http://osome.iuni.iu.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Observatory on Social Media (OSM) from Indiana University&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;OSoME unites data scientists and journalists studying the role of media and technology in society, and curbing the spread of misinformation online and the manipulation of social media. They highlight tools, findings, publications, and resources.&lt;/p&gt;
+&lt;h2 id=&#34;information-literacy-resources&#34;&gt;Information Literacy Resources&lt;/h2&gt;
+&lt;h3 id=&#34;aahsl-health-information-literacy-competency-maphttpswwwaahslorgassetsdocshealth20information20literacy20competencies20map2028excel29pdf&#34;&gt;
+&lt;a href=&#34;https://www.aahsl.org/assets/docs/Health%20Information%20Literacy%20Competencies%20Map%20%28excel%29.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AAHSL Health Information Literacy Competency Map&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;This resource is developed by the Association of Academic Health Sciences Libraries (AAHSL) Competency-Based Medical Education Task Force (2018). It maps the ACRL Information Literacy Frames to the AAMC Core Entrustable Professional Activities for Entering Residency and the ACGME Core Competency requirements.&lt;/p&gt;
+&lt;h3 id=&#34;acrl-framework-for-information-literacy-for-higher-education-sandboxhttpsandboxacrlorg&#34;&gt;
+&lt;a href=&#34;http://sandbox.acrl.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACRL Framework for Information Literacy for Higher Education Sandbox&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Find open lesson plans to incorporate information literacy into your curriculum. From the Association of College and Research Libraries, a division of the American Library Association.&lt;/p&gt;
+&lt;h3 id=&#34;acrl-information-literacy-competency-standards-for-nursinghttpwwwalaorgacrlstandardsnursing&#34;&gt;
+&lt;a href=&#34;http://www.ala.org/acrl/standards/nursing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACRL Information Literacy Competency Standards for Nursing&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;These standards directly address the information skills needed by nursing students at the associate, baccalaureate, master’s and doctoral levels and are written for nursing faculty and librarians who support nursing programs and nursing students in academic settings. However, because many nursing students are also practicing nurses, the skills described in the standards can be used for continuing education in the nursing profession.&lt;/p&gt;
+&lt;h3 id=&#34;information-literacy-resources-from-educausehttpslibraryeducauseedutopicslibraries-and-technologyinformation-literacy&#34;&gt;
+&lt;a href=&#34;https://library.educause.edu/topics/libraries-and-technology/information-literacy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Information Literacy Resources from EDUCAUSE&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Explore information literacy articles and resources from EDUCAUSE, a community of information technology professionals that aims to support higher education.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Instructional Design</title>
+      <link>https://carrieprice78.github.io/guides/open-educational-resources/instructional-design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://carrieprice78.github.io/guides/open-educational-resources/instructional-design/</guid>
+      <description>&lt;h2 id=&#34;free-instructional-design-courses&#34;&gt;Free Instructional Design Courses&lt;/h2&gt;
+&lt;p&gt;The resources listed here largely come from 
+&lt;a href=&#34;https://www.eduflow.com/blog/the-ultimate-list-of-41-instructional-design-courses&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this post from Eduflow.org&lt;/a&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://alison.com/course/introduction-to-instructional-systems-design&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Introduction to Instructional Systems Design&lt;/a&gt; is a 3-4 hour course providing the fundamentals of designing and developing course materials&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.coursera.org/learn/teach-online&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Learning to Teach Online&lt;/a&gt; from Coursera pushes you to make better use of educational technology in fully online or blended classrooms&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.coursera.org/learn/instructional-design-foundations-applications&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Instructional Design Foundations and Applications&lt;/a&gt; from Coursera is a 4-week course addressing the major concepts of instructional systems design, major theories of learning, and instructional design models&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.coursera.org/learn/elearning&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;e-Learning Ecologies: Innovative Approaches to Teaching and Learning for the Digital Age&lt;/a&gt; is a Coursera course focusing on educational technology&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.openlearning.com/education/courses/instructional-design-effective-learning/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Learning Design Basics: Pedagogy into Practice&lt;/a&gt; from OpenLearning is an interactive course on how to design and develop programs using the constructivist theory of education&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.coursearc.com/free-course-principles-of-instructional-design/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Principles of Instructional Design&lt;/a&gt; from CourseArc covering theories, systems, and the basics of instructional design&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.coursera.org/learn/gamification&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gamification&lt;/a&gt; from Coursera examines applying game principles to learning&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://alison.com/course/motivating-students-to-learn-revised&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Motivating Students to Learn&lt;/a&gt; from Global Text Project focuses on factors that contribute to student motivation and inspiration&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.youtube.com/playlist?list=PLA_DBSakKGAM49X_ZhYngTC3PfRelt5Pz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Instructional Design Video Series&lt;/a&gt; is a series of 39 YouTube videos from Dr. Ray Pastore, covering a host of ID theories and concepts&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;paid-instructional-design-courses&#34;&gt;Paid Instructional Design Courses&lt;/h2&gt;
+&lt;p&gt;The resources listed here largely come from 
+&lt;a href=&#34;https://www.eduflow.com/blog/the-ultimate-list-of-41-instructional-design-courses&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this post from Eduflow.org&lt;/a&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.udemy.com/course/instructional-design-for-elearning/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Instructional Design for e-Learning&lt;/a&gt; provides an introduction and overview of ID&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.udemy.com/course/introduction-to-instructional-design-and-creating-e-learning/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Introduction to Instructional Design: Online Course Creation&lt;/a&gt; introduces you to pedagogy and subject matter experts&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.linkedin.com/learning/instructional-design-essentials-models-of-id-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Instructional Design Essentials: Models of ID&lt;/a&gt; is a LinkedIn Learning course directed at the business world&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://my.onlinelearningconsortium.org/s/community-event?id=a1Y1U000001DMBYUA4#Program_Details&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Instructional Design Mastery Series&lt;/a&gt; from the Online Learning Consortium presents a workshop focused on course design&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.idolcourses.com/academy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The IDOLS Courses Academy&lt;/a&gt; is a full training program built for instructional designers and online learning&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://online-learning.harvard.edu/course/introduction-instructional-design&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Introduction to Instructional Design&lt;/a&gt; from the Harvard Extension School gives a broad overview to instructional design&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://my.onlinelearningconsortium.org/s/community-event?id=a1Y1U000001DMCAUA4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Instructional Designer Certificate Program&lt;/a&gt; from the Online Learning Consortium provides a certificate for anyone participating in online learning&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.isfet.org/courses/instructional-design-certificate&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Instructional Design Certificate&lt;/a&gt; from the International Society for Educational Technology provides best practices along with templates and other helpful guides for course design&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://libraryjuiceacademy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Library Juice Academy&lt;/a&gt; offers a number of classes in instructional design, assessment, and user experience&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tools for Teaching</title>
+      <link>https://carrieprice78.github.io/guides/open-educational-resources/teaching-resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://carrieprice78.github.io/guides/open-educational-resources/teaching-resources/</guid>
+      <description>&lt;h2 id=&#34;presentations-and-design&#34;&gt;Presentations and Design&lt;/h2&gt;
+&lt;h3 id=&#34;design-toolkit-thinking-for-educatorshttpsdesignthinkingforeducatorscomtoolkit&#34;&gt;
+&lt;a href=&#34;https://designthinkingforeducators.com/toolkit/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Design Toolkit Thinking for Educators&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;This toolkit contains the process and methods of design along with the Designer’s Workbook, adapted specifically for the context of K-12 education. It offers new ways to be intentional and collaborative when designing, and empowers educators to create impactful solutions.&lt;/p&gt;
+&lt;h3 id=&#34;google-fontshttpsfontsgooglecom&#34;&gt;
+&lt;a href=&#34;https://fonts.google.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Fonts&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Google&amp;rsquo;s font catalog places typography front and center, inviting users to explore, sort, and test fonts for use in more than 135 languages.&lt;/p&gt;
+&lt;h3 id=&#34;librarian-design-sharehttpslibrariandesignshareorg&#34;&gt;
+&lt;a href=&#34;https://librariandesignshare.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Librarian Design Share&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Librarian Design Share is intended as a community of creativity for librarians, people who work in libraries, and library students. So contribute, comment, and share your designs!&lt;/p&gt;
+&lt;h3 id=&#34;the-professional-association-for-design-education-and-designhttpswwwaigaorgeducation-and-design&#34;&gt;
+&lt;a href=&#34;https://www.aiga.org/education-and-design&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Professional Association for Design: Education and Design&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;AIGA supports education throughout the arc of a designer’s career, including special programs for educators, a group critical to advancing the profession.&lt;/p&gt;
+&lt;h3 id=&#34;slides-carnivalhttpswwwslidescarnivalcom&#34;&gt;
+&lt;a href=&#34;https://www.slidescarnival.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides Carnival&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Offers beautiful slide templates to make your presentation stand out.&lt;/p&gt;
+&lt;h3 id=&#34;smorehttpswwwsmorecom&#34;&gt;
+&lt;a href=&#34;https://www.smore.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Smore&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Creates newsletters and digital handouts with analytics and mailing capabilities.&lt;/p&gt;
+&lt;h3 id=&#34;identifonthttpwwwidentifontcomtoolshtml&#34;&gt;
+&lt;a href=&#34;http://www.identifont.com/tools.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Identifont&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Since its launch in November 2000 Identifont has become the largest independent directory of digital fonts on the Internet. Additional tools to help you find fonts with particular characteristics, or for specific applications.&lt;/p&gt;
+&lt;h3 id=&#34;image-sharing&#34;&gt;Image Sharing&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://foter.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Foter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://openclipart.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OpenClipArt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.pics4learning.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pics4Learning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://pixabay.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pixabay&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://unsplash.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Unsplash&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://commons.wikimedia.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wikimedia Commons&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;image-editing&#34;&gt;Image Editing&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://befunky.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Befunky&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://muro.deviantart.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DeviantArt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://pixlr.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pixlr&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://sumopaint.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sumopaint&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.getpaint.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paint.net&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;discussion&#34;&gt;Discussion&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://backchannelchat.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Backchannel Chat&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://chatzy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chatzy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://discord.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Discord&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://proboards.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ProBoards&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://readups.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ReadUps&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://slack.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slack&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://twitter.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;multimodal-production&#34;&gt;Multimodal Production&lt;/h2&gt;
+&lt;h3 id=&#34;digital-pinboards-and-whiteboards&#34;&gt;Digital Pinboards and Whiteboards&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://conceptboard.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Conceptboard&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://miro.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Miro&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://pearltrees.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pearltrees&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://padlet.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Padlet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://stormboard.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stormboard&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;lesson-planning-and-authoring&#34;&gt;Lesson Planning and Authoring&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://blendspace.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Blendspace&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://composica.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Composica&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.lessonlams.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lesson LAMS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://easygenerator.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EasyGenerator&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://nearpod.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nearpod&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://softchalk.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SoftChalk&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://udutu.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Udutu&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For more web-based tools, see the Typology of Free Web-based Learning Technologies from Educause.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
