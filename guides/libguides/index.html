@@ -541,8 +541,13 @@
   <ul>
     <li><a href="#best-practices-guide-internal">Best Practices Guide (Internal)</a>
       <ul>
-        <li><a href="#help-area">Help Area</a></li>
+        <li><a href="#accessibility">Accessibility</a></li>
+        <li><a href="#color">Color</a></li>
+        <li><a href="#editorial-guidelines">Editorial Guidelines</a></li>
+        <li><a href="#responsive-design">Responsive Design</a></li>
         <li><a href="#site-documentation">Site Documentation</a></li>
+        <li><a href="#guide-maintenance">Guide Maintenance</a></li>
+        <li><a href="#include-a-help-area">Include a Help Area</a></li>
       </ul>
     </li>
     <li><a href="#storage-and-reusable-elements-guide-internal">Storage and Reusable Elements Guide (Internal)</a></li>
@@ -562,21 +567,93 @@
           <h1>LibGuides</h1>
 
           <div class="article-style">
-            <p>I have built a lot of LibGuides over the years. Here, I&rsquo;ll talk about what worked for me.</p>
+            <p>I have built a lot of LibGuides over the years. I&rsquo;ll share what worked best for me.</p>
+<p>As the content and number of guides grew, I found it helpful to have at least three internal guides, as defined below. If working at an institution that has a lot of guides, it might be helpful to have these types of internal guides for each group, college, or discipline.</p>
 <h2 id="best-practices-guide-internal">Best Practices Guide (Internal)</h2>
-<p>Use your best practices guide internally. It should provide guidance to other LibGuide developers on best practices for</p>
+<p>Use your best practices guide internally. It should provide guidance to other LibGuide developers. I included sections for:</p>
+<h3 id="accessibility">Accessibility</h3>
+<h4 id="links">Links</h4>
 <ul>
-<li><strong>editorial practices</strong> - how should users refer to the institution, email, ebook, or other terms that have variations?</li>
-<li><strong>color kit</strong> - what colors are allowed on the guides?</li>
-<li><strong>allowed fonts</strong> - what fonts can be used on the guide?</li>
-<li><strong>account privileges for different levels of users</strong> - who has admin privileges? who is editor? who is regular?</li>
-<li><strong>responsive design</strong> - is your media responsive? are your tables responsive?</li>
-<li><strong>accessibility</strong> - how will you make the guide as accessible as possible?</li>
-<li><strong>guide maintenance and retirement</strong> - who is responsible for keeping the content current? what should one do when the guide is no longer needed?</li>
-<li><strong>use of images</strong> - in what circumstances can someone use an image, and how should it be made accessible?</li>
+<li>Avoid using the words such as &ldquo;link&rdquo;, &ldquo;here&rdquo;, and &ldquo;for more information&hellip;&rdquo; in your linked text.</li>
+<li>Screen readers will recognize the href HTML tag as a link.</li>
+<li>Linked text should make sense out of context. It should describe the link.</li>
 </ul>
-<p>Many of these elements will be informed by your institutional branding guidelines, but you may need to make some special clarifications on other allowed colors or fonts, how you&rsquo;ll edit copy, how to make media accessible, and how to address accessibility in the platform.</p>
-<h3 id="help-area">Help Area</h3>
+<h4 id="copy">Copy</h4>
+<p>Use heading element tags (h3, h4, h5) instead of text decoration (bold, underline, italic) so that screen readers can identify headings and sections</p>
+<h4 id="images">Images</h4>
+<p>Include short descriptive text as alt text (alternative text) for images so that screen readers can describe the image to the viewer</p>
+<h4 id="what-is-an-accessible-pdf">What is an Accessible PDF?</h4>
+<p>An accessible PDF:</p>
+<ul>
+<li>has readable text - is not an image</li>
+<li>has tags to indicate a heading structure</li>
+<li>has alternate text for images</li>
+<li>has a set reading order so that it can be read by a screen reader</li>
+<li>has a set language</li>
+</ul>
+<p>Make sure that your uploaded accessible documents have alternative text and a thumbnail image.
+Using Adobe Acrobat Pro to Ensure Accessibility</p>
+<p>Use Adobe Acrobat Pro to create accessible PDFs.</p>
+<p>Go to Tools  &gt;  Action Wizard, and follow the steps to prepare your PDF for accessibility.</p>
+<p>See more on the 
+<a href="https://helpx.adobe.com/acrobat/using/create-verify-pdf-accessibility.html" target="_blank" rel="noopener">Adobe Acrobat Pro User Guide</a>.</p>
+<h4 id="what-is-alternative-text">What is Alternative Text?</h4>
+<p>Alternative text helps screen readers recognize and describe images used on websites. An image without alternative text cannot be described in context.</p>
+<ul>
+<li>Use alternative text when including an image in your guide.</li>
+<li>Alternative text is read by screen readers in place of images.</li>
+<li>Enter accurate text that avoids terminology such as &ldquo;image of&hellip;&rdquo; or &ldquo;link to&hellip;&rdquo;.</li>
+<li>See 
+<a href="https://webaim.org/techniques/alttext/" target="_blank" rel="noopener">WebAIM&rsquo;s section on alternative text</a>.</li>
+</ul>
+<h3 id="color">Color</h3>
+<p>Make a list of colors that are allowed on the guides and note their Hex and RGB values. I used a table for this and noted which elements which colors should correspond to, such as box headers, footer, links, complementary colors.</p>
+<p>Link to your institutional brand pages, which should reflect your choices of color.</p>
+<h3 id="editorial-guidelines">Editorial Guidelines</h3>
+<p>Here is where you can standardize terminology, grammar, and puncutation, fonts, and other materials such as PowerPoints and presentations for the whole library. I used tables inside a tabbed box for this purpose.</p>
+<p>You can also specify how users should create friendly URLs or slugs for their guide pages. See 
+<a href="https://www.nngroup.com/articles/compound-domain-names/" target="_blank" rel="noopener">Compound Domain names</a> from the Nielsen Norman Group.</p>
+<p>Link to your institutional brand pages, which should reflect your choices of fonts.</p>
+<h3 id="responsive-design">Responsive Design</h3>
+<p>LibGuides has Bootstrap built in to the platform. Bootstrap makes it easy to make content appear beautifully across a variety of devices. CSS Grid can also be used within a box.</p>
+<p>Do not use tables for formatting. Tables should only be used for tabular content. LibGuides contains Bootstrap pre-formatted tables that you can select for look and feel.</p>
+<p>You may wish to create a CSS Grid inside a box for a more customized look than Bootstrap. Two CSS Grids are also available in the Reusable Content tab. Make a copy and edit the text if you&rsquo;d like to use them.</p>
+<p>Embed responsive images by setting width to 100% with the height left blank.</p>
+<p>Also note how you should embed resopnsive media, usually with a div class. See 
+<a href="https://getbootstrap.com/docs/4.4/utilities/embed/" target="_blank" rel="noopener">Boostrap&rsquo;s Documentation on Responsive Embeds</a>.</p>
+<h3 id="site-documentation">Site Documentation</h3>
+<p>Upload your current documents to a site documentation page on the best practices guide, and keep it updated.</p>
+<ul>
+<li>customized CSS</li>
+<li>header code</li>
+<li>footer code</li>
+<li>subjects and tags metadata</li>
+<li>logos</li>
+<li>embedded icon collections</li>
+<li>favicon</li>
+</ul>
+<h3 id="guide-maintenance">Guide Maintenance</h3>
+<h4 id="making-a-new-guide">Making a New Guide</h4>
+<p>Ensure the need for a new guide by first checking with your manager. To create a new guide, choose Create Guide in the LibGuides system. The default navigation is Side Nav.</p>
+<h5 id="adding-assets-links-and-databases">Adding Assets, Links, and Databases</h5>
+<p>Before you add a new asset (link) or database to the system, check to make sure that one doesn&rsquo;t already exist. You can do this from Content &gt; Assets or Content &gt; A-Z Database List on the LibGuides toolbar.</p>
+<ul>
+<li>Links should be added to Assets</li>
+<li>Only databases should be added to Databases</li>
+</ul>
+<h4 id="retiring-your-guide">Retiring Your Guide</h4>
+<p>If a guide is no longer relevant, consider setting its status to Private or Unpublished.</p>
+<p>You are free to delete your own content and your own guides when appropriate if it is not being mapped to other guides.</p>
+<h4 id="maintaining-your-guide">Maintaining Your Guide</h4>
+<p>Ensure that your guide&rsquo;s links are still active. Find the Link Checker under Tools in the LibGuides toolbar. The schedule for link checking is January and July of every year.</p>
+<h4 id="keep-your-profile-up-to-date">Keep Your Profile Up to Date</h4>
+<p>Keep your profile up to date. You can do this by navigating to LibApps &gt; Profile in the toolbar.</p>
+<p>Profiles should include at a minimum:</p>
+<ul>
+<li>Photo</li>
+<li>Email Address</li>
+</ul>
+<h3 id="include-a-help-area">Include a Help Area</h3>
 <p>Make sure that LibGuide builders know who to contact for help, and where they can find additional training.</p>
 <ul>
 <li>
@@ -586,13 +663,22 @@
 <li>
 <a href="http://support.springshare.com/libguides/training" target="_blank" rel="noopener">Springshare Training</a></li>
 </ul>
-<h3 id="site-documentation">Site Documentation</h3>
-<p>Upload your current documents to a site documentation page on the best practices guide, and keep it updated.</p>
+<p>It may also be helpful to link to tools that will help budding web developers try out some new techniques, like:</p>
 <ul>
-<li>customized CSS</li>
-<li>header code</li>
-<li>footer code</li>
-<li>subjects and tags metadata</li>
+<li>
+<a href="https://getbootstrap.com/" target="_blank" rel="noopener">Bootstrap</a></li>
+<li>
+<a href="https://getbootstrap.com/docs/4.3/getting-started/introduction/" target="_blank" rel="noopener">Bootstrap Documentation</a></li>
+<li>
+<a href="https://www.w3schools.com/css/css_grid.asp" target="_blank" rel="noopener">CSS Grid on w3 Schools</a></li>
+<li>
+<a href="http://www.csszengarden.com/" target="_blank" rel="noopener">CSS Zen Garden</a></li>
+<li>
+<a href="https://fontawesome.com/v3.2.1/examples/" target="_blank" rel="noopener">Font Awesome Integration</a></li>
+<li>
+<a href="https://jsfiddle.net/" target="_blank" rel="noopener">JS Fiddle</a></li>
+<li>
+<a href="https://www.w3schools.com/html/tryit.asp?filename=tryhtml_basic" target="_blank" rel="noopener">TryIt Editor from w3 Schools</a></li>
 </ul>
 <h2 id="storage-and-reusable-elements-guide-internal">Storage and Reusable Elements Guide (Internal)</h2>
 <p>I used the storage guide to keep reusable boxes that appeared frequently on many guides. I also used a storage guide to display resuable elements like headers, boxes, and other customized CSS or HTML elements. A user could see what it looked like before using the code in their own site. Users could also simply reuse a box that had the correct information, and the boxes could be updated from one place.</p>
