@@ -13,34 +13,6 @@
     </image>
     
     <item>
-      <title>Document the Searches</title>
-      <link>https://carrieprice78.github.io/guides/expert-searching/document-search/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://carrieprice78.github.io/guides/expert-searching/document-search/</guid>
-      <description>&lt;h2 id=&#34;how-can-i-document-my-search&#34;&gt;How Can I Document My Search?&lt;/h2&gt;
-&lt;p&gt;Documenting and saving your search will save you time. There are two ways to save your work.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Each database will allow you to register for an account. After you create and run a search, look for the option to save or &amp;ldquo;create alert.&amp;rdquo; Follow through on this step and you will be able to revisit your search anytime you wish.&lt;/li&gt;
-&lt;li&gt;After you create and run a search, copy and paste the search string into a document. Save the document with the date and title of your project.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;what-should-i-document&#34;&gt;What Should I Document?&lt;/h2&gt;
-&lt;p&gt;It&amp;rsquo;s a best practice to document&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;the databases searched;&lt;/li&gt;
-&lt;li&gt;the date searched&lt;/li&gt;
-&lt;li&gt;any filters applied, such as language or date;&lt;/li&gt;
-&lt;li&gt;the number of results;&lt;/li&gt;
-&lt;li&gt;and any evidence identified through other methods, such as handsearching.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Keep this in your existing search document, which can be either a text or spreadsheet format.&lt;/p&gt;
-&lt;h2 id=&#34;why-document&#34;&gt;Why Document?&lt;/h2&gt;
-&lt;p&gt;In the interest of evidence-based medicine and open science, you should know how you arrived at the results that you did. To that end, your search should be reproducible and transparent, so that anyone replicating your search could arrive at the same set of results.&lt;/p&gt;
-&lt;p&gt;Increasingly, journal editors are requesting the search strategy to be submitted as an appendix along with the manuscript. This will help you describe your search methodology in your publications and provide the steps which you used.&lt;/p&gt;
-&lt;p&gt;Saving your search will also save you time later. At any point that you choose to revisit or revise your search, you&amp;rsquo;ll be able to see what you&amp;rsquo;ve already done.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Formulate the Research Question</title>
       <link>https://carrieprice78.github.io/guides/expert-searching/formulate-question/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -169,6 +141,34 @@
 &lt;p&gt;If you find an article that is very relevant, search the reference list to identify other literature that may be pertinent to your research. Conversely, some databases will show you which articles have cited that article.&lt;/p&gt;
 &lt;h2 id=&#34;similar-articles-in-pubmed&#34;&gt;Similar Articles in PubMed&lt;/h2&gt;
 &lt;p&gt;In PubMed, there is a feature called &amp;ldquo;Similar Articles.&amp;rdquo; Click on this option to find other articles that are indexed in a similar way to the one you chose. You can find it on the right-hand menu inside the article record, and at the bottom of the article page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Document the Searches</title>
+      <link>https://carrieprice78.github.io/guides/expert-searching/document-search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://carrieprice78.github.io/guides/expert-searching/document-search/</guid>
+      <description>&lt;h2 id=&#34;how-can-i-document-my-search&#34;&gt;How Can I Document My Search?&lt;/h2&gt;
+&lt;p&gt;Documenting and saving your search will save you time. There are two ways to save your work.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Each database will allow you to register for an account. After you create and run a search, look for the option to save or &amp;ldquo;create alert.&amp;rdquo; Follow through on this step and you will be able to revisit your search anytime you wish.&lt;/li&gt;
+&lt;li&gt;After you create and run a search, copy and paste the search string into a document. Save the document with the date and title of your project.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;what-should-i-document&#34;&gt;What Should I Document?&lt;/h2&gt;
+&lt;p&gt;It&amp;rsquo;s a best practice to document&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;the databases searched;&lt;/li&gt;
+&lt;li&gt;the date searched&lt;/li&gt;
+&lt;li&gt;any filters applied, such as language or date;&lt;/li&gt;
+&lt;li&gt;the number of results;&lt;/li&gt;
+&lt;li&gt;and any evidence identified through other methods, such as handsearching.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Keep this in your existing search document, which can be either a text or spreadsheet format.&lt;/p&gt;
+&lt;h2 id=&#34;why-document&#34;&gt;Why Document?&lt;/h2&gt;
+&lt;p&gt;In the interest of evidence-based medicine and open science, you should know how you arrived at the results that you did. To that end, your search should be reproducible and transparent, so that anyone replicating your search could arrive at the same set of results.&lt;/p&gt;
+&lt;p&gt;Increasingly, journal editors are requesting the search strategy to be submitted as an appendix along with the manuscript. This will help you describe your search methodology in your publications and provide the steps which you used.&lt;/p&gt;
+&lt;p&gt;Saving your search will also save you time later. At any point that you choose to revisit or revise your search, you&amp;rsquo;ll be able to see what you&amp;rsquo;ve already done.&lt;/p&gt;
 </description>
     </item>
     
