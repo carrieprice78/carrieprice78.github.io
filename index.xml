@@ -1135,19 +1135,19 @@ Publibee is a platform developed by Stanford University individuals that uses Pu
 &lt;li&gt;
 &lt;a href=&#34;https://covidtracking.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The COVID Tracking Project&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://www.healthmap.org/covid-19/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Harvard University and Others&amp;rsquo; Interactive Maps&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
 &lt;a href=&#34;https://www.ecdc.europa.eu/en/novel-coronavirus-china&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;European Centre for Disease Prevention and Control&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://hgis.uw.edu/virus/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Washington Infection Map&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://www.healthmap.org/covid-19/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Harvard&amp;rsquo;s and Others&amp;rsquo; Interactive Maps&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.genderscilab.org/gender-and-sex-in-covid19&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Harvard&amp;rsquo;s Gender/Sex COVID-19 Data Tracker&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://covid19.healthdata.org/projections&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IHME COVID-19 Projections&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://www.policymap.com/maps&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PolicyMap&amp;rsquo;s Open Map&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://who.maps.arcgis.com/apps/opsdashboard/index.html#/0c9b3a8b68d0437a8cf28581e9c063a9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WHO Africa&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://hgis.uw.edu/virus/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Washington Infection Map&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://www.genderscilab.org/gender-and-sex-in-covid19&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Harvard&amp;rsquo;s Gender/Sex COVID-19 Data Tracker&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://who.maps.arcgis.com/apps/opsdashboard/index.html#/0c9b3a8b68d0437a8cf28581e9c063a9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WHO Africa&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -3032,8 +3032,6 @@ CiteScore Rank and Rank Out Of&lt;/p&gt;
 
 
 
-  
-
 
 
 
@@ -3047,10 +3045,10 @@ CiteScore Rank and Rank Out Of&lt;/p&gt;
 &lt;figure id=&#34;figure-top-ten-journals-based-on-web-of-science-data-this-visualization-was-created-with-the-open-source-tool-tableau-public&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://carrieprice78.github.io/media/em-journals.png&#34; data-caption=&#34;Top Ten Journals Based on Web of Science Data. This visualization was created with the open source tool Tableau Public.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;em-journals.png&#34; data-caption=&#34;Top Ten Journals Based on Web of Science Data. This visualization was created with the open source tool Tableau Public.&#34;&gt;
 
 
-  &lt;img src=&#34;https://carrieprice78.github.io/media/em-journals.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;em-journals.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
