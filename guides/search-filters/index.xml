@@ -289,12 +289,26 @@
       <link>https://carrieprice78.github.io/guides/search-filters/physical-therapy/</link>
       <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://carrieprice78.github.io/guides/search-filters/physical-therapy/</guid>
-      <description>&lt;h2 id=&#34;search-builder-for-occupational-therapy&#34;&gt;Search Builder for Occupational Therapy&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;search-builder-for-physical-therapy&#34;&gt;Search Builder for Physical Therapy&lt;/h2&gt;
 &lt;h3 id=&#34;controlled-vocabulary&#34;&gt;Controlled Vocabulary&lt;/h3&gt;
 &lt;h4 id=&#34;pubmed&#34;&gt;PubMed&lt;/h4&gt;
 &lt;p&gt;&amp;ldquo;exercise therapy&amp;rdquo;[mesh] OR &amp;ldquo;exercise movement techniques&amp;rdquo;[mesh] OR &amp;ldquo;musculoskeletal manipulations&amp;rdquo;[mesh] OR &amp;ldquo;myofunctional therapy&amp;rdquo;[mesh]OR &amp;ldquo;physical therapy modalities&amp;rdquo;[mesh] OR &amp;ldquo;physical therapy specialty&amp;rdquo;[mesh] OR &amp;ldquo;physical therapy department, hospital&amp;rdquo;[mesh] OR &amp;ldquo;physical therapists&amp;rdquo;[mesh] OR &amp;ldquo;physical therapist assistants&amp;rdquo;[mesh] OR &amp;ldquo;rehabilitation&amp;rdquo;[sh] OR &amp;ldquo;rehabilitation&amp;rdquo;[mesh:noexp]&lt;/p&gt;
 &lt;h3 id=&#34;keywords&#34;&gt;Keywords&lt;/h3&gt;
 &lt;p&gt;exercise therapy OR exercise therapies OR physical therapy OR physical therapies OR physical therapist OR physical therapists OR exercise OR exercises OR exercising OR manual therapy OR manual therapies OR musculoskeletal manipulation OR musculoskeletal manipulations OR myofunctional therapy OR myofunctional therapies OR physiotherap*&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Race and Ethnicity</title>
+      <link>https://carrieprice78.github.io/guides/search-filters/race-ethnicity/</link>
+      <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://carrieprice78.github.io/guides/search-filters/race-ethnicity/</guid>
+      <description>&lt;h2 id=&#34;search-builder-for-race-and-ethnicity-terms&#34;&gt;Search Builder for Race and Ethnicity Terms&lt;/h2&gt;
+&lt;h3 id=&#34;controlled-vocabulary&#34;&gt;Controlled Vocabulary&lt;/h3&gt;
+&lt;h4 id=&#34;pubmed&#34;&gt;PubMed&lt;/h4&gt;
+&lt;p&gt;&amp;ldquo;african americans&amp;rdquo;[mesh] OR &amp;ldquo;african continental ancestry group&amp;rdquo;[mesh] OR &amp;ldquo;alaska natives&amp;rdquo;[mesh] OR &amp;ldquo;american native continental ancestry group&amp;rdquo;[mesh] OR &amp;ldquo;apartheid&amp;rdquo;[mesh] OR &amp;ldquo;asian americans&amp;rdquo;[mesh] OR &amp;ldquo;asian continental ancestry group&amp;rdquo;[mesh] OR &amp;ldquo;civil rights&amp;rdquo;[mesh] OR &amp;ldquo;continental population groups&amp;rdquo;[mesh] OR &amp;ldquo;cultural diversity&amp;rdquo;[mesh] OR &amp;ldquo;desegregation&amp;rdquo;[mesh] OR &amp;ldquo;ethnology&amp;rdquo;[mesh] OR &amp;ldquo;ethnic groups&amp;rdquo;[mesh] OR &amp;ldquo;hispanic americans&amp;rdquo;[mesh] OR &amp;ldquo;indians, central american&amp;rdquo;[mesh] OR &amp;ldquo;indians, south american&amp;rdquo;[mesh] OR &amp;ldquo;indians, north american&amp;rdquo;[mesh] OR &amp;ldquo;indigenous peoples&amp;rdquo;[mesh] OR &amp;ldquo;inuits&amp;rdquo;[mesh] OR &amp;ldquo;minority groups&amp;rdquo;[mesh] OR &amp;ldquo;minority health&amp;rdquo;[mesh] OR &amp;ldquo;prejudice&amp;rdquo;[mesh] OR &amp;ldquo;race factors&amp;rdquo;[mesh] OR &amp;ldquo;race relations&amp;rdquo;[mesh] OR &amp;ldquo;racism&amp;rdquo;[mesh] OR &amp;ldquo;transients and migrants&amp;rdquo;[mesh] OR &amp;ldquo;undocumented immigrants&amp;rdquo;[mesh]&lt;/p&gt;
+&lt;h3 id=&#34;keywords&#34;&gt;Keywords&lt;/h3&gt;
+&lt;p&gt;aboriginal* OR african american OR african americans OR american indian* OR antiracism OR antiracist OR antiracists OR apartheid OR asian OR asians OR asian american OR asian americans OR BIPOC OR BIYOC OR black OR blackness OR blacks OR caste OR castes OR civil right* OR cuban american* OR desegregat* OR discriminat* OR diversity OR ethnic* OR emigrant* OR ethnolog* OR first nation OR first nations OR hispanic* OR illegal alien* OR immigrant* OR indigenous OR injustice* OR inuit* OR jim crow OR justice OR latina OR latino OR latinx OR man of color OR men of color OR mexican* OR migrant worker* OR minority OR minorities OR multirac* OR native american* OR native population* OR native people* OR person of color OR persons of color OR POC OR prejudic* OR puerto rican* OR race OR racial OR racially OR racism OR racist OR racists OR spanish american* OR segregat* OR SES OR transient worker* OR urp OR underrepresent* OR undocument* OR urban communit* OR urban population* OR vulnerable population* OR WOC OR women of color OR woman of color OR youth of color&lt;/p&gt;
 </description>
     </item>
     
