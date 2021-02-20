@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Systematic Reviews | Carrie Price, MLS</title>
+    <title>Systematic Reviews and Other Expert Reviews | Carrie Price, MLS</title>
     <link>https://carrieprice78.github.io/guides/systematic-reviews/</link>
       <atom:link href="https://carrieprice78.github.io/guides/systematic-reviews/index.xml" rel="self" type="application/rss+xml" />
-    <description>Systematic Reviews</description>
+    <description>Systematic Reviews and Other Expert Reviews</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 12 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://carrieprice78.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Systematic Reviews</title>
+      <title>Systematic Reviews and Other Expert Reviews</title>
       <link>https://carrieprice78.github.io/guides/systematic-reviews/</link>
     </image>
     
@@ -20,6 +20,7 @@
       <description>&lt;h2 id=&#34;review-methodologies-and-typologies&#34;&gt;Review Methodologies and Typologies&lt;/h2&gt;
 &lt;p&gt;These three articles outline different approaches to typology and methodology for answering different types of clinical and non-clinical questions.&lt;/p&gt;
 &lt;ul&gt;
+&lt;li&gt;Sutton, A., Clowes, M., Preston, L., &amp;amp; Booth, A. (2019). Meeting the review family: exploring review types and associated information retrieval requirements. Health Information and Libraries Journal, 36(3), 202–222. &lt;a href=&#34;https://doi.org/10.1111/hir.12276&#34;&gt;https://doi.org/10.1111/hir.12276&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Akl, E.A., Haddaway, N., Rada, G., &amp;amp; Lotfi, T. (2020). Evidence synthesis 2.0: when systematic, scoping, rapid, living, and overviews of reviews come together? Journal of Clinical Epidemiology, online. &lt;a href=&#34;https://doi.org/10.1016/j.jclinepi.2020.01.025&#34;&gt;https://doi.org/10.1016/j.jclinepi.2020.01.025&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Munn, Z., Stern, C., Aromataris, E., Lockwood, C., &amp;amp; Jordan, Z. (2018). What kind of systematic review should I conduct? A proposed typology and guidance for systematic reviewers in the medical and health sciences. BMC medical research methodology, 18(1), 5. &lt;a href=&#34;https://doi.org/10.1186/s12874-017-0468-4&#34;&gt;https://doi.org/10.1186/s12874-017-0468-4&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Grant, M. J., &amp;amp; Booth, A. (2009). A typology of reviews: an analysis of 14 review types and associated methodologies. Health Information &amp;amp; Libraries Journal, 26(2), 91-108.https://doi.org/10.1111/j.1471-1842.2009.00848.x&lt;/li&gt;
@@ -77,10 +78,10 @@
 &lt;a href=&#34;https://www.nap.edu/read/13059/chapter/1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Finding What Works in Health Care: Standards for Systematic Reviews&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;joanna-briggs-institute&#34;&gt;Joanna Briggs Institute&lt;/h3&gt;
-&lt;p&gt;JBI is an an international evidence-based healthcare research organisation that works with 70+ Universities and Hospitals (known as the JBI Collaboration) around the world. The organisation focuses on improving health outcomes globally by producing and disseminating research evidence, software, training, resources and publications relating to evidence-based healthcare. Learn about the JBI approach to evidence-based healthcare. The Reviewer&amp;rsquo;s Manual provides guidance ofr all types of systematic and other expert reviews.&lt;/p&gt;
+&lt;p&gt;The Manual for Evidence Synthesis provides guidance for all types of systematic and other expert reviews.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://wiki.jbi.global/display/MANUAL/JBI&amp;#43;Manual&amp;#43;for&amp;#43;Evidence&amp;#43;Synthesis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JBI Reviewer&amp;rsquo;s Manual&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://wiki.jbi.global/display/MANUAL/JBI&amp;#43;Manual&amp;#43;for&amp;#43;Evidence&amp;#43;Synthesis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JBI Manual for Evidence Synthesis&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;reporting&#34;&gt;Reporting&lt;/h2&gt;
 &lt;h3 id=&#34;various-guidelines&#34;&gt;Various Guidelines&lt;/h3&gt;
