@@ -5,12 +5,63 @@
     <link>https://carrieprice78.github.io/guides/libguides/</link>
       <atom:link href="https://carrieprice78.github.io/guides/libguides/index.xml" rel="self" type="application/rss+xml" />
     <description>LibGuides</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 12 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 11 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://carrieprice78.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>LibGuides</title>
       <link>https://carrieprice78.github.io/guides/libguides/</link>
     </image>
+    
+    <item>
+      <title>Using Embedded Tools in LibGuides</title>
+      <link>https://carrieprice78.github.io/guides/libguides/using-embedded/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://carrieprice78.github.io/guides/libguides/using-embedded/</guid>
+      <description>&lt;p&gt;Both Bootstrap 3.3.0 and Font Awesome 4.7.0 are built-in to LibGuides. These are the versions as of March, 2021.&lt;/p&gt;
+&lt;h2 id=&#34;bootstrap&#34;&gt;Bootstrap&lt;/h2&gt;
+&lt;p&gt;*
+&lt;a href=&#34;https://blog.getbootstrap.com/2014/10/29/bootstrap-3-3-0-released/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bootstrap 3.3.0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Bootstrap is an open-source CSS framework that helps users create responsive, device-friendly websites. As of March, 2021, version 3.3.0 is built in to the LibGuides and LibGuides CMS platforms. LibGuides content creators can use components or a Bootstrap grid or table by using the appropriate HTML in their source code.&lt;/p&gt;
+&lt;p&gt;Of particular interest are the 
+&lt;a href=&#34;https://getbootstrap.com/docs/3.3/components/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Components&lt;/a&gt;, which are template-based snippets of code that can be inserted into the HTML of LibGuides. To use, view the source code of any rich text/HTML element and paste the component you wish to use.&lt;/p&gt;
+&lt;p&gt;The 
+&lt;a href=&#34;https://getbootstrap.com/docs/3.3/css/#grid&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Grid System&lt;/a&gt; can help you break up the content of your LibGuide into mobile friendly layouts.&lt;/p&gt;
+&lt;p&gt;While LibGuides offers multiple Bootstrap-styled 
+&lt;a href=&#34;https://getbootstrap.com/docs/3.3/css/#tables&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tables&lt;/a&gt;, there are additional table designs that you can incorporate into LibGuides. Remember that as a user experience best practice, Tables should not be used for layout reasons, but instead for the display of data.&lt;/p&gt;
+&lt;h3 id=&#34;responsive-design&#34;&gt;Responsive Design&lt;/h3&gt;
+&lt;p&gt;Bootstrap allows for 
+&lt;a href=&#34;https://getbootstrap.com/docs/3.3/css/#images-responsive&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Responsive Images&lt;/a&gt; and 
+&lt;a href=&#34;https://getbootstrap.com/docs/3.3/components/#responsive-embed&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Responsive Embeds&lt;/a&gt; for media. This allows your selected images and videos to scale with the size of the device instead of remain at a fixed-width.&lt;/p&gt;
+&lt;h2 id=&#34;font-awesome&#34;&gt;Font Awesome&lt;/h2&gt;
+&lt;p&gt;*
+&lt;a href=&#34;https://fontawesome.com/v4.7.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Font Awesome 4.7.0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Font Awesome provides vector icons for a variety of commonly recognized meanings and tasks. Font Awesome icons were originally designed to be used with Bootstrap, so they interact well together. Finally, Font Awesome icons are designed to be screen reader-friendly, and can be used as decorative elements or with semantic or interactive purposes (Font Awesome, n.d.). LibGuides content creators can call on Font Awesome icons from their source code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Using Open Source Tools in LibGuides</title>
+      <link>https://carrieprice78.github.io/guides/libguides/using-open/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://carrieprice78.github.io/guides/libguides/using-open/</guid>
+      <description>&lt;h2 id=&#34;google-fonts&#34;&gt;Google Fonts&lt;/h2&gt;
+&lt;p&gt;*
+&lt;a href=&#34;https://fonts.google.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Fonts&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Google&amp;rsquo;s open source fonts can be included in the Custom JS/CSS section of Admin &amp;gt; Look &amp;amp; Feel so that LibGuides content creators and administrators can use a variety of fonts.&lt;/p&gt;
+&lt;p&gt;Include the font file in the head of your HTML and it will be automatically downloaded.&lt;/p&gt;
+&lt;h3 id=&#34;instructions&#34;&gt;Instructions&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Select the font you wish to use.&lt;/li&gt;
+&lt;li&gt;Click on &amp;ldquo;+ Select this style&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;Copy the code for link into the head of your HTML within your Custom JS/CSS in LibGuides.&lt;/li&gt;
+&lt;li&gt;When you wish to employ the font, use the CSS rules to specifiy families provided in the Google Fonts selection menu (the same page where you copied the link code).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;academicons&#34;&gt;Academicons&lt;/h2&gt;
+&lt;p&gt;*
+&lt;a href=&#34;https://jpswalsh.github.io/academicons/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academicons&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Academicons are specialized open source icons for academia. It was originally built as a supplement to Font Awesome, so the two sets of icons work well together. You can style the icons using Font Awesome CSS. Instructions for using them in sites are at the bottom of the Academicons page.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
