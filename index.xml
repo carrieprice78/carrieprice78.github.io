@@ -1122,6 +1122,30 @@ Publibee is a platform developed by Stanford University individuals that uses Pu
 &lt;a href=&#34;https://getbootstrap.com/docs/3.3/css/#grid&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Grid System&lt;/a&gt; can help you break up the content of your LibGuide into mobile friendly layouts.&lt;/p&gt;
 &lt;p&gt;While LibGuides offers multiple Bootstrap-styled 
 &lt;a href=&#34;https://getbootstrap.com/docs/3.3/css/#tables&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tables&lt;/a&gt;, there are additional table designs that you can incorporate into LibGuides. Remember that as a user experience best practice, Tables should not be used for layout reasons, but instead for the display of data.&lt;/p&gt;
+&lt;h3 id=&#34;bootstrap-features-useful-for-libguides&#34;&gt;Bootstrap Features Useful for LibGuides&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://bootstrapdocs.com/v3.3.0/docs/css/#grid&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Grid Systems&lt;/a&gt; allow content creators to create a responsive layout that scales depending on the viewing device&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://bootstrapdocs.com/v3.3.0/docs/css/#tables&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tables&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;bootstrap-components-useful-for-libguides&#34;&gt;Bootstrap Components Useful for LibGuides&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://getbootstrap.com/docs/3.3/components/#alerts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alerts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://getbootstrap.com/docs/3.3/components/#badges&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Badges&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://getbootstrap.com/docs/3.3/components/#jumbotron&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jumbotron&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://getbootstrap.com/docs/3.3/components/#labels&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Labels&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://getbootstrap.com/docs/3.3/components/#list-group&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;List Groups&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://getbootstrap.com/docs/3.3/components/#responsive-embed&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Responsive Media Embeds&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://getbootstrap.com/docs/3.3/components/#wells&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wells&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h3 id=&#34;responsive-design&#34;&gt;Responsive Design&lt;/h3&gt;
 &lt;p&gt;Bootstrap allows for 
 &lt;a href=&#34;https://getbootstrap.com/docs/3.3/css/#images-responsive&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Responsive Images&lt;/a&gt; and 
@@ -1130,30 +1154,6 @@ Publibee is a platform developed by Stanford University individuals that uses Pu
 &lt;p&gt;*
 &lt;a href=&#34;https://fontawesome.com/v4.7.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Font Awesome 4.7.0&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Font Awesome provides vector icons for a variety of commonly recognized meanings and tasks. Font Awesome icons were originally designed to be used with Bootstrap, so they interact well together. Finally, Font Awesome icons are designed to be screen reader-friendly, and can be used as decorative elements or with semantic or interactive purposes (Font Awesome, n.d.). LibGuides content creators can call on Font Awesome icons from their source code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Using Open Source Tools in LibGuides</title>
-      <link>https://carrieprice78.github.io/guides/libguides/using-open/</link>
-      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://carrieprice78.github.io/guides/libguides/using-open/</guid>
-      <description>&lt;h2 id=&#34;google-fonts&#34;&gt;Google Fonts&lt;/h2&gt;
-&lt;p&gt;*
-&lt;a href=&#34;https://fonts.google.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Fonts&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Google&amp;rsquo;s open source fonts can be included in the Custom JS/CSS section of Admin &amp;gt; Look &amp;amp; Feel so that LibGuides content creators and administrators can use a variety of fonts.&lt;/p&gt;
-&lt;p&gt;Include the font file in the head of your HTML and it will be automatically downloaded.&lt;/p&gt;
-&lt;h3 id=&#34;instructions&#34;&gt;Instructions&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;Select the font you wish to use.&lt;/li&gt;
-&lt;li&gt;Click on &amp;ldquo;+ Select this style&amp;rdquo;.&lt;/li&gt;
-&lt;li&gt;Copy the code for link into the head of your HTML within your Custom JS/CSS in LibGuides.&lt;/li&gt;
-&lt;li&gt;When you wish to employ the font, use the CSS rules to specifiy families provided in the Google Fonts selection menu (the same page where you copied the link code).&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;academicons&#34;&gt;Academicons&lt;/h2&gt;
-&lt;p&gt;*
-&lt;a href=&#34;https://jpswalsh.github.io/academicons/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academicons&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Academicons are specialized open source icons for academia. It was originally built as a supplement to Font Awesome, so the two sets of icons work well together. You can style the icons using Font Awesome CSS. Instructions for using them in sites are at the bottom of the Academicons page.&lt;/p&gt;
 </description>
     </item>
     
@@ -1432,10 +1432,10 @@ Publibee is a platform developed by Stanford University individuals that uses Pu
       <guid>https://carrieprice78.github.io/guides/early-mobility/research-resources/</guid>
       <description>&lt;p&gt;Most of the databases listed here are free to search, while the content may be behind a paywall. You may be able to locate the PDF through your institution or organization, or using on of the tools below.&lt;/p&gt;
 &lt;h2 id=&#34;getting-to-full-text-pdfs&#34;&gt;Getting to Full Text PDFs&lt;/h2&gt;
-&lt;p&gt;Both Kopernio and Unpaywall offer free, legal ways to access PDFs with browser plugins.&lt;/p&gt;
+&lt;p&gt;Both EndNote Click and Unpaywall offer free, legal ways to access PDFs with browser plugins.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://kopernio.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kopernio&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://kopernio.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EndNote Click&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://openaccessbutton.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Access Button&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
@@ -1649,6 +1649,30 @@ Publibee is a platform developed by Stanford University individuals that uses Pu
 &lt;p&gt;&amp;ldquo;deglutition disorders&amp;rdquo;[mesh:noexp] OR &amp;ldquo;language therapy&amp;rdquo;[mesh] OR &amp;ldquo;myofunctional therapy&amp;rdquo;[mesh] OR &amp;ldquo;rehabilitation of speech and language disorders&amp;rdquo;[mesh] OR &amp;ldquo;speech-language pathology&amp;rdquo;[mesh] OR &amp;ldquo;speech therapy&amp;rdquo;[mesh] OR &amp;ldquo;speech, alaryngeal&amp;rdquo;[mesh] OR &amp;ldquo;speech, esophageal&amp;rdquo;[mesh] OR &amp;ldquo;voice training&amp;rdquo;[mesh]&lt;/p&gt;
 &lt;h3 id=&#34;keywords&#34;&gt;Keywords&lt;/h3&gt;
 &lt;p&gt;deglutition OR deglutitive OR dysphagia OR dysphagic OR dysphagics OR language rehab OR language rehabilitation OR language therapy OR language therapies OR odynophagia OR odynophagias OR odynophagic OR odynophagics OR presbyphagia OR presbyphagias OR presbyphagic OR presbyphagics OR speech language pathology OR speech language pathologies OR speech language pathologist OR speech language pathologists OR speech pathology OR speech pathologies OR language pathology OR language pathologies OR speech therapy OR speech therapies OR speech rehab OR speech rehabilitation OR swallow OR swallows OR swallowing OR vocal training OR vocal therapy OR vocal therapies OR vocal rehabilitation OR voice training OR voice therapy OR voice therapies OR voice rehabilitation&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Using Open Source Tools in LibGuides</title>
+      <link>https://carrieprice78.github.io/guides/libguides/using-open/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://carrieprice78.github.io/guides/libguides/using-open/</guid>
+      <description>&lt;h2 id=&#34;google-fonts&#34;&gt;Google Fonts&lt;/h2&gt;
+&lt;p&gt;*
+&lt;a href=&#34;https://fonts.google.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Fonts&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Google&amp;rsquo;s open source fonts can be included in the Custom JS/CSS section of Admin &amp;gt; Look &amp;amp; Feel so that LibGuides content creators and administrators can use a variety of fonts.&lt;/p&gt;
+&lt;p&gt;Include the font file in the head of your HTML and it will be automatically downloaded.&lt;/p&gt;
+&lt;h3 id=&#34;instructions&#34;&gt;Instructions&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Select the font you wish to use.&lt;/li&gt;
+&lt;li&gt;Click on &amp;ldquo;+ Select this style&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;Copy the code for link into the head of your HTML within your Custom JS/CSS in LibGuides.&lt;/li&gt;
+&lt;li&gt;When you wish to employ the font, use the CSS rules to specifiy families provided in the Google Fonts selection menu (the same page where you copied the link code).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;academicons&#34;&gt;Academicons&lt;/h2&gt;
+&lt;p&gt;*
+&lt;a href=&#34;https://jpswalsh.github.io/academicons/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academicons&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Academicons are specialized open source icons for academia. It was originally built as a supplement to Font Awesome, so the two sets of icons work well together. You can style the icons using Font Awesome CSS. Instructions for using them in sites are at the bottom of the Academicons page.&lt;/p&gt;
 </description>
     </item>
     
@@ -3526,7 +3550,7 @@ TI=(&amp;ldquo;activities of daily living&amp;rdquo; OR &amp;ldquo;accelerated a
 &lt;p&gt;Price, C. (2016). Tips for effective literature searching. In L. Atanelov (ed.), Resident’s Handbook of Medical Quality and Safety. Switzerland: Springer International Publications.&lt;/p&gt;
 &lt;p&gt;Price, C. (2016). Resources for grading the evidence, appraisal, writing, and publishing. In L. Atanelov (ed.), Resident’s Handbook of Medical Quality and Safety. Switzerland: Springer International Publications.&lt;/p&gt;
 &lt;h2 id=&#34;articles&#34;&gt;Articles&lt;/h2&gt;
-&lt;p&gt;Shoskes, A., Migdady, I., Rice, C., Hassett, C., Deshpande, A., Price, C., Hernandez, A. V., &amp;amp; Cho, S. M. (2021). The authors reply. &lt;em&gt;Critical Care Medicine, 49&lt;/em&gt;(3), e344–e345. &lt;a href=&#34;https://doi.org/10.1097/CCM.0000000000004871&#34;&gt;https://doi.org/10.1097/CCM.0000000000004871&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Shoskes, A., Migdady, I., Rice, C., Hassett, C., Deshpande, A., Price, C., Hernandez, A. V., &amp;amp; Cho, S. M. (2021). The authors reply. _Critical Care Medicine, 49_scoo(3), e344–e345. &lt;a href=&#34;https://doi.org/10.1097/CCM.0000000000004871&#34;&gt;https://doi.org/10.1097/CCM.0000000000004871&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Shukla, A., Ahmed, O. G., Orlov, C. P., Price, C., Mukherjee, D., Choby, G., &amp;amp; Rowan, N. R. (2021). Quality-of-life instruments in endoscopic endonasal skull base surgery-A practical systematic review. &lt;em&gt;International Forum of Allergy &amp;amp; Rhinology&lt;/em&gt;. Advance online publication. &lt;a href=&#34;https://doi.org/10.1002/alr.22783&#34;&gt;https://doi.org/10.1002/alr.22783&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Fan, T. H., Hassett, C. E., Migdady, I., Price, C., Choi, C. W., Katzan, I., &amp;amp; Cho, S. M. (2021). How are we monitoring brain injuries in patients with left ventricular assist device? A systematic review of literature. &lt;em&gt;ASAIO Journal (American Society for Artificial Internal Organs: 1992), 67&lt;/em&gt;(2), 149–156. &lt;a href=&#34;https://doi.org/10.1097/MAT.0000000000001204&#34;&gt;https://doi.org/10.1097/MAT.0000000000001204&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Mallack, E. J., Turk, B. R., Yan, H., Price, C., Demetres, M., Moser, A. B., Becker, C., Hollandsworth, K., Adang, L., Vanderver, A., Van Haren, K., Ruzhnikov, M., Kurtzberg, J., Maegawa, G., Orchard, P. J., Lund, T. C., Raymond, G. V., Regelmann, M., Orsini, J. J., Seeger, E., Price, C., … Fatemi, A. (2020). MRI surveillance of boys with X-linked adrenoleukodystrophy identified by newborn screening: Meta-analysis and consensus guidelines. &lt;em&gt;Journal of Inherited Metabolic Disease&lt;/em&gt;. &lt;a href=&#34;https://doi.org/10.1002/jimd.12356&#34;&gt;https://doi.org/10.1002/jimd.12356&lt;/a&gt;&lt;/p&gt;
