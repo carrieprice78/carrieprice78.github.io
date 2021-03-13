@@ -28,6 +28,30 @@
 &lt;a href=&#34;https://getbootstrap.com/docs/3.3/css/#grid&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Grid System&lt;/a&gt; can help you break up the content of your LibGuide into mobile friendly layouts.&lt;/p&gt;
 &lt;p&gt;While LibGuides offers multiple Bootstrap-styled 
 &lt;a href=&#34;https://getbootstrap.com/docs/3.3/css/#tables&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tables&lt;/a&gt;, there are additional table designs that you can incorporate into LibGuides. Remember that as a user experience best practice, Tables should not be used for layout reasons, but instead for the display of data.&lt;/p&gt;
+&lt;h3 id=&#34;bootstrap-features-useful-for-libguides&#34;&gt;Bootstrap Features Useful for LibGuides&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://bootstrapdocs.com/v3.3.0/docs/css/#grid&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Grid Systems&lt;/a&gt; allow content creators to create a responsive layout that scales depending on the viewing device&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://bootstrapdocs.com/v3.3.0/docs/css/#tables&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tables&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;bootstrap-components-useful-for-libguides&#34;&gt;Bootstrap Components Useful for LibGuides&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://getbootstrap.com/docs/3.3/components/#alerts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alerts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://getbootstrap.com/docs/3.3/components/#badges&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Badges&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://getbootstrap.com/docs/3.3/components/#jumbotron&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jumbotron&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://getbootstrap.com/docs/3.3/components/#labels&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Labels&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://getbootstrap.com/docs/3.3/components/#list-group&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;List Groups&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://getbootstrap.com/docs/3.3/components/#responsive-embed&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Responsive Media Embeds&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://getbootstrap.com/docs/3.3/components/#wells&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wells&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h3 id=&#34;responsive-design&#34;&gt;Responsive Design&lt;/h3&gt;
 &lt;p&gt;Bootstrap allows for 
 &lt;a href=&#34;https://getbootstrap.com/docs/3.3/css/#images-responsive&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Responsive Images&lt;/a&gt; and 
