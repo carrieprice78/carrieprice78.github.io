@@ -121,7 +121,7 @@
     </item>
     
     <item>
-      <title>C for Choosing Controlled Vocabulary</title>
+      <title>C for Choosing Controlled Vocabulary or Choosing Databases</title>
       <link>https://carrieprice78.github.io/guides/searching-for-evidence/c-for-controlled-vocabulary/</link>
       <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://carrieprice78.github.io/guides/searching-for-evidence/c-for-controlled-vocabulary/</guid>
@@ -147,6 +147,42 @@
 &lt;li&gt;Explode will search with all narrower headings beneath the main heading you have chosen. PubMed will default to explode any MeSH term you search.&lt;/li&gt;
 &lt;li&gt;No Explode will only search for your chosen MeSH term without including any of the narrower headings in the MeSH hierarchy. You can select this option from the MeSH record.&lt;/li&gt;
 &lt;li&gt;Major Heading will narrow your search to only find MeSH terms listed as a major topic of an article. You can select this option from the MeSH record. Major headings are shown in the article record with an asterisk.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;choosing-databases&#34;&gt;Choosing Databases&lt;/h2&gt;
+&lt;p&gt;Depending on your experience level, perhaps choosing databases to search is more appropriate than choosing controlled vocabulary. Much will depend on what you have access to. Here are just a few suggestions.&lt;/p&gt;
+&lt;h3 id=&#34;multidisciplinary&#34;&gt;Multidisciplinary&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;PubMed&lt;/li&gt;
+&lt;li&gt;Embase&lt;/li&gt;
+&lt;li&gt;Scopus&lt;/li&gt;
+&lt;li&gt;Web of Science&lt;/li&gt;
+&lt;li&gt;Academic Search Ultimate&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;psychologypsychiatry&#34;&gt;Psychology/Psychiatry&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;APA PsycINFO&lt;/li&gt;
+&lt;li&gt;PTSD Pubs&lt;/li&gt;
+&lt;li&gt;Social Theory&lt;/li&gt;
+&lt;li&gt;Abstracts in Social Gerontology&lt;/li&gt;
+&lt;li&gt;SocINDEX&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;nursing&#34;&gt;Nursing&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;CINAHL&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;rehabilitation&#34;&gt;Rehabilitation&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;CINAHL&lt;/li&gt;
+&lt;li&gt;PEDro&lt;/li&gt;
+&lt;li&gt;SportDiscus&lt;/li&gt;
+&lt;li&gt;OTSeeker&lt;/li&gt;
+&lt;li&gt;SpeechBITE&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;education&#34;&gt;Education&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;ERIC&lt;/li&gt;
+&lt;li&gt;Education Research Complete&lt;/li&gt;
+&lt;li&gt;ERC&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

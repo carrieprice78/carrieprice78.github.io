@@ -93,7 +93,7 @@
       <description>&lt;h2 id=&#34;existing-filters&#34;&gt;Existing Filters&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://sites.google.com/a/york.ac.uk/issg-search-filters-resource/other-filters/age-filters-1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISSG Filters to Find Age-Specific Studies&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://sites.google.com/a/york.ac.uk/issg-search-filters-resource/home/age-groups?authuser=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISSG Filters to Find Age-Specific Studies&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;search-builder-for-aged&#34;&gt;Search Builder for Aged&lt;/h2&gt;
 &lt;h3 id=&#34;controlled-vocabulary&#34;&gt;Controlled Vocabulary&lt;/h3&gt;
@@ -372,7 +372,7 @@
       <description>&lt;h2 id=&#34;existing-filters&#34;&gt;Existing Filters&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://sites.google.com/a/york.ac.uk/issg-search-filters-resource/other-filters/age-filters-1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISSG Filters to find age-specific studies&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://sites.google.com/a/york.ac.uk/issg-search-filters-resource/home/age-groups?authuser=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISSG Filters to find age-specific studies&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;search-builder-for-children&#34;&gt;Search Builder for Children&lt;/h1&gt;
 &lt;h3 id=&#34;controlled-vocabulary&#34;&gt;Controlled Vocabulary&lt;/h3&gt;
@@ -461,7 +461,7 @@ Publibee is a platform developed by Stanford University individuals that uses Pu
     </item>
     
     <item>
-      <title>C for Choosing Controlled Vocabulary</title>
+      <title>C for Choosing Controlled Vocabulary or Choosing Databases</title>
       <link>https://carrieprice78.github.io/guides/searching-for-evidence/c-for-controlled-vocabulary/</link>
       <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://carrieprice78.github.io/guides/searching-for-evidence/c-for-controlled-vocabulary/</guid>
@@ -488,6 +488,42 @@ Publibee is a platform developed by Stanford University individuals that uses Pu
 &lt;li&gt;No Explode will only search for your chosen MeSH term without including any of the narrower headings in the MeSH hierarchy. You can select this option from the MeSH record.&lt;/li&gt;
 &lt;li&gt;Major Heading will narrow your search to only find MeSH terms listed as a major topic of an article. You can select this option from the MeSH record. Major headings are shown in the article record with an asterisk.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2 id=&#34;choosing-databases&#34;&gt;Choosing Databases&lt;/h2&gt;
+&lt;p&gt;Depending on your experience level, perhaps choosing databases to search is more appropriate than choosing controlled vocabulary. Much will depend on what you have access to. Here are just a few suggestions.&lt;/p&gt;
+&lt;h3 id=&#34;multidisciplinary&#34;&gt;Multidisciplinary&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;PubMed&lt;/li&gt;
+&lt;li&gt;Embase&lt;/li&gt;
+&lt;li&gt;Scopus&lt;/li&gt;
+&lt;li&gt;Web of Science&lt;/li&gt;
+&lt;li&gt;Academic Search Ultimate&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;psychologypsychiatry&#34;&gt;Psychology/Psychiatry&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;APA PsycINFO&lt;/li&gt;
+&lt;li&gt;PTSD Pubs&lt;/li&gt;
+&lt;li&gt;Social Theory&lt;/li&gt;
+&lt;li&gt;Abstracts in Social Gerontology&lt;/li&gt;
+&lt;li&gt;SocINDEX&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;nursing&#34;&gt;Nursing&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;CINAHL&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;rehabilitation&#34;&gt;Rehabilitation&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;CINAHL&lt;/li&gt;
+&lt;li&gt;PEDro&lt;/li&gt;
+&lt;li&gt;SportDiscus&lt;/li&gt;
+&lt;li&gt;OTSeeker&lt;/li&gt;
+&lt;li&gt;SpeechBITE&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;education&#34;&gt;Education&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;ERIC&lt;/li&gt;
+&lt;li&gt;Education Research Complete&lt;/li&gt;
+&lt;li&gt;ERC&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -496,17 +532,24 @@ Publibee is a platform developed by Stanford University individuals that uses Pu
       <link>https://carrieprice78.github.io/guides/search-filters/coronavirus/</link>
       <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://carrieprice78.github.io/guides/search-filters/coronavirus/</guid>
-      <description>&lt;h2 id=&#34;search-builder-for-covid-19&#34;&gt;Search Builder for COVID-19&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;existing-filters&#34;&gt;Existing Filters&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://covid.cadth.ca/literature-searching-tools/cadth-covid-19-search-strings/#covid-19-medline&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CADTH&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.mlanet.org/page/covid-19-literature-searching&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Medical Library Association&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;search-builder-for-covid-19&#34;&gt;Search Builder for COVID-19&lt;/h2&gt;
 &lt;h3 id=&#34;controlled-vocabulary&#34;&gt;Controlled Vocabulary&lt;/h3&gt;
 &lt;h4 id=&#34;pubmed&#34;&gt;PubMed&lt;/h4&gt;
-&lt;p&gt;&amp;ldquo;coronavirus&amp;rdquo;[mesh:noexp] OR &amp;ldquo;coronavirus infections&amp;rdquo;[mesh] OR &amp;ldquo;coronaviridae infections&amp;rdquo;[mesh:noexp] OR &amp;ldquo;coronaviridae&amp;rdquo;[mesh] OR &amp;ldquo;COVID-19&amp;rdquo; [Supplementary Concept] OR &amp;ldquo;COVID-19 vaccine&amp;rdquo;[supplementary concept] OR &amp;ldquo;COVID-19 serotherapy&amp;rdquo;[supplementary concept] OR &amp;ldquo;COVID-19 diagnostic testing&amp;rdquo;[supplementary concept] OR &amp;ldquo;spike glycoprotein, coronavirus&amp;rdquo;[supplementary concept] OR &amp;ldquo;COVID-19 drug treatment&amp;rdquo;[supplementary concept] OR &amp;ldquo;LAMP assay&amp;rdquo;[supplementary concept] OR &amp;ldquo;severe acute respiratory syndrome coronavirus 2&amp;rdquo;[supplementary concept]&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;COVID-19&amp;rdquo;[mesh] OR &amp;ldquo;SARS-CoV-2&amp;rdquo;[mesh] OR &amp;ldquo;coronavirus&amp;rdquo;[mesh:noexp] OR &amp;ldquo;coronavirus infections&amp;rdquo;[mesh] OR &amp;ldquo;coronaviridae infections&amp;rdquo;[mesh:noexp] OR &amp;ldquo;coronaviridae&amp;rdquo;[mesh] OR &amp;ldquo;COVID-19&amp;rdquo; [Supplementary Concept] OR &amp;ldquo;COVID-19 vaccine&amp;rdquo;[supplementary concept] OR &amp;ldquo;COVID-19 serotherapy&amp;rdquo;[supplementary concept] OR &amp;ldquo;COVID-19 diagnostic testing&amp;rdquo;[supplementary concept] OR &amp;ldquo;spike glycoprotein, coronavirus&amp;rdquo;[supplementary concept] OR &amp;ldquo;COVID-19 drug treatment&amp;rdquo;[supplementary concept] OR &amp;ldquo;LAMP assay&amp;rdquo;[supplementary concept] OR &amp;ldquo;severe acute respiratory syndrome coronavirus 2&amp;rdquo;[supplementary concept]&lt;/p&gt;
 &lt;p&gt;Note: If using coronavirus MeSH, consider limiting the search to 2019 through the present.&lt;/p&gt;
 &lt;h3 id=&#34;keywords&#34;&gt;Keywords&lt;/h3&gt;
 &lt;p&gt;COVID-19 OR COVID OR COVID19 OR COVID2019 OR coronavirus OR corona virus OR coronaviruses OR corona viruses OR corona viral OR coronaviral OR SARS-CoV-2 OR SARSCoV2 OR 2019nCoV OR 2019-nCoV OR SARS-nCoV OR SARS nCoV OR SARSNCoV OR nCoV OR cov 2 OR cov2 OR cov-2 OR sarscov OR sars cov&lt;/p&gt;
 &lt;h2 id=&#34;search-builder-for-coronavirus&#34;&gt;Search Builder for Coronavirus&lt;/h2&gt;
 &lt;h3 id=&#34;controlled-vocabulary-1&#34;&gt;Controlled Vocabulary&lt;/h3&gt;
 &lt;h4 id=&#34;pubmed-1&#34;&gt;PubMed&lt;/h4&gt;
-&lt;p&gt;&amp;ldquo;alphacoronavirus&amp;rdquo;[mesh] OR &amp;ldquo;alphacoronavirus 1&amp;rdquo;[mesh] OR &amp;ldquo;betacoronavirus&amp;rdquo;[mesh] OR &amp;ldquo;coronaviridae&amp;rdquo;[mesh] OR &amp;ldquo;coronavirus 229e, human&amp;rdquo;[mesh] OR &amp;ldquo;coronavirus infections&amp;rdquo;[mesh] OR &amp;ldquo;coronavirus, turkey&amp;rdquo;[mesh] OR &amp;ldquo;coronavirus nl63, human&amp;rdquo;[mesh] OR &amp;ldquo;coronavirus&amp;rdquo;[mesh] OR &amp;ldquo;covid-19&amp;rdquo;[supplementary concept] OR &amp;ldquo;gammacoronavirus&amp;rdquo;[mesh] OR &amp;ldquo;infectious bronchitis virus&amp;rdquo;[mesh] OR &amp;ldquo;middle east respiratory syndrome coronavirus&amp;rdquo;[mesh] OR &amp;ldquo;porcine epidemic diarrhea virus&amp;rdquo;[mesh] OR &amp;ldquo;porcine respiratory coronavirus&amp;rdquo;[mesh] OR &amp;ldquo;sars virus&amp;rdquo;[mesh]&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;COVID-19&amp;rdquo;[mesh] OR &amp;ldquo;SARS-CoV-2&amp;rdquo;[mesh] OR &amp;ldquo;alphacoronavirus&amp;rdquo;[mesh] OR &amp;ldquo;alphacoronavirus 1&amp;rdquo;[mesh] OR &amp;ldquo;betacoronavirus&amp;rdquo;[mesh] OR &amp;ldquo;coronaviridae&amp;rdquo;[mesh] OR &amp;ldquo;coronavirus 229e, human&amp;rdquo;[mesh] OR &amp;ldquo;coronavirus infections&amp;rdquo;[mesh] OR &amp;ldquo;coronavirus, turkey&amp;rdquo;[mesh] OR &amp;ldquo;coronavirus nl63, human&amp;rdquo;[mesh] OR &amp;ldquo;coronavirus&amp;rdquo;[mesh] OR &amp;ldquo;covid-19&amp;rdquo;[supplementary concept] OR &amp;ldquo;gammacoronavirus&amp;rdquo;[mesh] OR &amp;ldquo;infectious bronchitis virus&amp;rdquo;[mesh] OR &amp;ldquo;middle east respiratory syndrome coronavirus&amp;rdquo;[mesh] OR &amp;ldquo;porcine epidemic diarrhea virus&amp;rdquo;[mesh] OR &amp;ldquo;porcine respiratory coronavirus&amp;rdquo;[mesh] OR &amp;ldquo;sars virus&amp;rdquo;[mesh]&lt;/p&gt;
 &lt;h4 id=&#34;embase&#34;&gt;Embase&lt;/h4&gt;
 &lt;p&gt;&amp;lsquo;adult respiratory distress syndrome&amp;rsquo;/exp OR &amp;lsquo;alpahcoronavirus 1&amp;rsquo;/exp OR &amp;lsquo;alphacoronavirus&amp;rsquo;/exp OR &amp;lsquo;avian coronavirus&amp;rsquo;/exp OR &amp;lsquo;betacoronavirus 1&amp;rsquo;/exp OR &amp;lsquo;betacoronavirus&amp;rsquo;/exp OR &amp;lsquo;bovine coronavirus&amp;rsquo;/exp OR &amp;lsquo;canine coronavirus&amp;rsquo;/exp OR &amp;lsquo;coronaviridae&amp;rsquo;/exp OR &amp;lsquo;coronavirinae&amp;rsquo;/exp OR &amp;lsquo;feline coronavirus&amp;rsquo;/exp OR &amp;lsquo;gammacoronavirus&amp;rsquo;/exp OR &amp;lsquo;human coronavirus 229e&amp;rsquo;/exp OR &amp;lsquo;human coronavirus nl63&amp;rsquo;/exp OR &amp;lsquo;human coronavirus oc43&amp;rsquo;/exp OR &amp;lsquo;middle east respiratory syndrome coronavirus&amp;rsquo;/exp OR &amp;lsquo;murine coronavirus&amp;rsquo;/exp OR &amp;lsquo;porcine epidemic diarrhea virus&amp;rsquo;/exp OR &amp;lsquo;SARS coronavirus&amp;rsquo;/exp OR &amp;lsquo;SARS -related coronavirus&amp;rsquo;/exp OR &amp;lsquo;SARS-related coronavirus&amp;rsquo;/exp&lt;/p&gt;
 &lt;h3 id=&#34;keywords-1&#34;&gt;Keywords&lt;/h3&gt;
@@ -811,7 +854,7 @@ Publibee is a platform developed by Stanford University individuals that uses Pu
       <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://carrieprice78.github.io/guides/search-filters/database-specific/</guid>
       <description>&lt;h2 id=&#34;pubmed&#34;&gt;PubMed&lt;/h2&gt;
-&lt;p&gt;PubMed has a number of subject filters built in and can be called by appending a search by typing the appropriate words and [sb].&lt;/p&gt;
+&lt;p&gt;PubMed has a number of subject filters built in and can be called by appending a search by typing the appropriate words and [sb]. As of 2020, these appear to no longer be maintained. I suggest using them as guidance.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://www.nlm.nih.gov/bsd/pubmed_subsets/aids_strategy.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AIDS&lt;/a&gt;: use aids [sb]&lt;/li&gt;
@@ -839,18 +882,18 @@ Publibee is a platform developed by Stanford University individuals that uses Pu
 &lt;h2 id=&#34;miscellaneous&#34;&gt;Miscellaneous&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://www.flinders.edu.au/flinders-digital-health-research-centre/flinders-filters&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Flinders Filters and CareSearch Filters&lt;/a&gt; follow an established methodology designed to be objective and minimize bias&lt;/li&gt;
+&lt;a href=&#34;https://www.flinders.edu.au/research-centre-palliative-care-death-dying/partnerships-and-projects/flinders-filters&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Flinders Filters and CareSearch Filters&lt;/a&gt; follow an established methodology designed to be objective and minimize bias&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://hiru.mcmaster.ca/hiru/HIRU_Hedges_home.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Health Information Research Unit at McMaster University&lt;/a&gt; has written various database filters for therapy, diagnosis, review, prognosis, causation, etiology, economics, cost, clinical prediction guides, qualitative, and more for MEDLINE, Embase, and PsycINFO&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://sites.google.com/a/york.ac.uk/issg-search-filters-resource/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISSG at InterTASC Search Filter Resource&lt;/a&gt; has a number of searches for different databases&lt;/li&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://browse.welch.jhmi.edu/search-filters/ibguides.sph.uth.tmc.edu/c.php?g=543319&amp;amp;p=3723017&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Search Filters for Various Databases&lt;/a&gt; from the University of Texas School of Public Health&lt;/li&gt;
+&lt;a href=&#34;https://libguides.sph.uth.tmc.edu/search_filters&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Search Filters for Various Databases&lt;/a&gt; from the University of Texas School of Public Health&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;ovid-platform-expert-searches&#34;&gt;Ovid Platform Expert Searches&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;a href=&#34;http://resourcecenter.ovid.com/site/resources/expert_search/healthexp.html#OvidFilters&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Various search filters built by Ovid for Ovid&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://tools.ovid.com/ovidtools/expertsearches.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Various search filters built by Ovid for Ovid&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -1054,7 +1097,7 @@ Publibee is a platform developed by Stanford University individuals that uses Pu
       <description>&lt;h2 id=&#34;existing-filters&#34;&gt;Existing Filters&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://sites.google.com/a/york.ac.uk/issg-search-filters-resource/other-filters/filters-to-find-studies-of-geographic-locations&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISSG Search Filters to find studies of geographic locations&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://sites.google.com/a/york.ac.uk/issg-search-filters-resource/home/geography?authuser=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISSG Search Filters to find studies of geographic locations&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;cochrane-low--and-middle-income-countries-lmics&#34;&gt;Cochrane Low- and Middle-Income Countries (LMICS)&lt;/h2&gt;
 &lt;ul&gt;
@@ -1293,7 +1336,7 @@ Publibee is a platform developed by Stanford University individuals that uses Pu
 &lt;h3 id=&#34;guidelines&#34;&gt;Guidelines&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://sites.google.com/a/york.ac.uk/issg-search-filters-resource/filters-to-identify-guidelines&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISSG Filters to Identify Guidelines&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://sites.google.com/a/york.ac.uk/issg-search-filters-resource/home/guidelines?authuser=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISSG Filters to Identify Guidelines&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;miscellaneous&#34;&gt;Miscellaneous&lt;/h3&gt;
 &lt;ul&gt;
@@ -1307,16 +1350,16 @@ Publibee is a platform developed by Stanford University individuals that uses Pu
 &lt;li&gt;
 &lt;a href=&#34;https://handbook-5-1.cochrane.org/chapter_6/6_4_11_1_the_cochrane_highly_sensitive_search_strategies_for.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cochrane Highly Sensitive Search Strategies for PubMed from the 2008 version Cochrane Handbook&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://work.cochrane.org/embase&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Embase Search Strategy for finding RCTs from the Cochrane Work group&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://community.cochrane.org/search-filters&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Embase Search Strategy for finding RCTs from Cochrane Community&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://browse.welch.jhmi.edu/search-filters/%3Cli%3E%3Ca%20href=&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PsycINFO Search Strategy for finding RCTs from the Cochrane Work group&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://work.cochrane.org/psycinfo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PsycINFO Search Strategy for finding RCTs from the Cochrane Work group&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://sites.google.com/a/york.ac.uk/issg-search-filters-resource/filters-to-identify-randomized-controlled-trials-and&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISSG Filters to Identify RCTs&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://sites.google.com/a/york.ac.uk/issg-search-filters-resource/home/rcts?authuser=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISSG Filters to Identify RCTs&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;systematic-reviews&#34;&gt;Systematic Reviews&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://sites.google.com/a/york.ac.uk/issg-search-filters-resource/filters-to-identify-systematic-reviews&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISSG Filters to IDentify Systematic Reviews&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://sites.google.com/a/york.ac.uk/issg-search-filters-resource/home/systematic-reviews?authuser=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISSG Filters to Identify Systematic Reviews&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;search-builder-for-guidelines&#34;&gt;Search Builder for Guidelines&lt;/h2&gt;
 &lt;h3 id=&#34;controlled-vocabulary&#34;&gt;Controlled Vocabulary&lt;/h3&gt;
@@ -1629,7 +1672,7 @@ Publibee is a platform developed by Stanford University individuals that uses Pu
       <description>&lt;h2 id=&#34;existing-filters&#34;&gt;Existing Filters&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://sites.google.com/a/york.ac.uk/issg-search-filters-resource/other-filters/filters-to-find-population-specific-studies&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISSG Filters to find population specific studies&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://sites.google.com/a/york.ac.uk/issg-search-filters-resource/home/population-specific?authuser=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISSG Filters to find population specific studies&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;search-builder-for-race-and-ethnicity-terms&#34;&gt;Search Builder for Race and Ethnicity Terms&lt;/h2&gt;
 &lt;h3 id=&#34;controlled-vocabulary&#34;&gt;Controlled Vocabulary&lt;/h3&gt;
