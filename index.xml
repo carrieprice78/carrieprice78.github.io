@@ -334,7 +334,7 @@
 &lt;p&gt;The Manual for Evidence Synthesis provides guidance for all types of systematic and other expert reviews.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://wiki.jbi.global/display/MANUAL/JBI&amp;#43;Manual&amp;#43;for&amp;#43;Evidence&amp;#43;Synthesis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JBI Manual for Evidence Synthesis&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://jbi-global-wiki.refined.site/space/MANUAL&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JBI Manual for Evidence Synthesis&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;reporting&#34;&gt;Reporting&lt;/h2&gt;
 &lt;h3 id=&#34;various-guidelines&#34;&gt;Various Guidelines&lt;/h3&gt;
@@ -355,11 +355,20 @@
 &lt;li&gt;
 &lt;a href=&#34;http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1000100&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PRISMA Explanation and Elaboration&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
+&lt;a href=&#34;http://www.prisma-statement.org/Extensions/Protocols&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PRISMA Protocol Extension&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
 &lt;a href=&#34;http://www.prisma-statement.org/documents/PRISMA%202009%20checklist.doc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PRISMA Checklist&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
-&lt;a href=&#34;http://www.prisma-statement.org/documents/PRISMA%202009%20flow%20diagram.doc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PRISMA FLow Diagram&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;http://www.prisma-statement.org/documents/PRISMA%202009%20flow%20diagram.doc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PRISMA Flow Diagram&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
-&lt;a href=&#34;http://www.prisma-statement.org/Extensions/Default.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PRISMA Extensions&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;http://www.prisma-statement.org/Extensions/Searching&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PRISMA Search Extension&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.prisma-statement.org/Extensions/Default.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Other PRISMA Extensions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;other-relevant-publications&#34;&gt;Other Relevant Publications&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Whiting, P., Savović, J., Higgins, J. P., Caldwell, D. M., Reeves, B. C., Shea, B., Davies, P., Kleijnen, J., Churchill, R., &amp;amp; ROBIS group (2016). ROBIS: A new tool to assess risk of bias in systematic reviews was developed. Journal of clinical epidemiology, 69, 225–234. &lt;a href=&#34;https://doi.org/10.1016/j.jclinepi.2015.06.005&#34;&gt;https://doi.org/10.1016/j.jclinepi.2015.06.005&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;University of York Centre for Reviews and Dissemination. &amp;ldquo;Registering a Review on PROSPERO.&amp;rdquo; &lt;a href=&#34;https://www.crd.york.ac.uk/prospero/#guidancenotes&#34;&gt;https://www.crd.york.ac.uk/prospero/#guidancenotes&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -944,8 +953,11 @@ Publibee is a platform developed by Stanford University individuals that uses Pu
 &lt;li&gt;
 &lt;a href=&#34;https://www.cebm.net/2016/05/ocebm-levels-of-evidence/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Oxford Centre for Evidence-Based Medicine Levels of Evidence&lt;/a&gt;: The CEBM Levels of Evidence framework sets out one approach to systematizing this grading process for different question types.&lt;/li&gt;
 &lt;li&gt;
+&lt;a href=&#34;https://www.bmj.com/content/355/bmj.i4919&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ROBINS-I&lt;/a&gt; The ROBINS-I is a tool for assessing risk of bias in non-randomized studies of interventions.&lt;/li&gt;
+&lt;li&gt;
 &lt;a href=&#34;https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/1471-2288-14-43&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SYRCLE&amp;rsquo;s Risk of Bias Tool&lt;/a&gt;: This tool is based on the Cochrane RoB tool and has been adjusted for aspects of bias that play a specific role in animal intervention studies.&lt;/li&gt;
-&lt;li&gt;9U.S. Preventive Services Task Force](&lt;a href=&#34;https://www.uspreventiveservicestaskforce.org/uspstf/grade-definitions):&#34;&gt;https://www.uspreventiveservicestaskforce.org/uspstf/grade-definitions):&lt;/a&gt; he U.S. Preventive Services Task Force (USPSTF) assigns one of five letter grades (A, B, C, D, or I). The USPSTF changed its grade definitions based on a change in methods in May 2007 and again in July 2012, when it updated the definition of and suggestions for practice for the grade C recommendation.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.uspreventiveservicestaskforce.org/uspstf/grade-definitions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;U.S. Preventive Services Task Force&lt;/a&gt;: he U.S. Preventive Services Task Force (USPSTF) assigns one of five letter grades (A, B, C, D, or I). The USPSTF changed its grade definitions based on a change in methods in May 2007 and again in July 2012, when it updated the definition of and suggestions for practice for the grade C recommendation.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;evidence-synthesis&#34;&gt;Evidence Synthesis&lt;/h2&gt;
 &lt;ul&gt;
