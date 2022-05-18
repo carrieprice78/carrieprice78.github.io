@@ -36,17 +36,6 @@
 &lt;li&gt;
 &lt;a href=&#34;https://www.who.int/emergencies/diseases/novel-coronavirus-2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;World Health Organization (WHO) COVID-19 Guidance&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;local-government-resources&#34;&gt;Local Government Resources&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://coronavirus.maryland.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Maryland Department of Health&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;http://www.vdh.virginia.gov/surveillance-and-investigation/novel-coronavirus/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Virginia Department of Health&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pennsylvania Department of Health&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://coronavirus.dc.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;District of Columbia Coronavirus&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     
@@ -60,7 +49,7 @@
 &lt;li&gt;
 &lt;a href=&#34;https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Johns Hopkins Center for Systems Science and Engineering Interactive Map&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://covidtracking.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The COVID Tracking Project&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://covidtracking.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The COVID Tracking Project&lt;/a&gt; - no longer updated as of March 7, 2021&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://www.ecdc.europa.eu/en/novel-coronavirus-china&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;European Centre for Disease Prevention and Control&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
@@ -72,7 +61,7 @@
 &lt;li&gt;
 &lt;a href=&#34;https://www.policymap.com/maps&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PolicyMap&amp;rsquo;s Open Map&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://hgis.uw.edu/virus/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Washington Infection Map&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://hgis.uw.edu/virus/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Washington Infection Map&lt;/a&gt; - no longer updated as of June 27, 2021&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://who.maps.arcgis.com/apps/opsdashboard/index.html#/0c9b3a8b68d0437a8cf28581e9c063a9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WHO Africa&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -95,8 +84,6 @@
 &lt;li&gt;
 &lt;a href=&#34;https://pages.semanticscholar.org/coronavirus-research&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;COVID-19 Open Research Dataset&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://www.who.int/gpsc/5may/hand_hygiene_video/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;COVID-19 Evidence Reviews&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
 &lt;a href=&#34;http://connect.medrxiv.org/relate/content/181&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;COVID-19 Preprints from medRxiv and bioRxiv&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://disasterinfo.nlm.nih.gov/search/?q=%28coronavirus&amp;#43;AND&amp;#43;novel%29&amp;#43;OR&amp;#43;%28Wuhan&amp;#43;OR&amp;#43;19-ncov&amp;#43;OR&amp;#43;COVID-19%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DisasterLit&amp;rsquo;s Curated COVID-19 Search&lt;/a&gt;&lt;/li&gt;
@@ -108,6 +95,8 @@
 &lt;a href=&#34;https://outbreaksci.prereview.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OutbreakSci PreReview&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://search.proquest.com/coronavirus/index?_ga=2.199303854.1623208853.1585837935-914672131.1578949435&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ProQuest Coronavirus Hub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://search.bvsalud.org/global-literature-on-novel-coronavirus-2019-ncov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WHO COVID-19 Global Literature on Coronvavirus Disease&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;preprints-and-open-access&#34;&gt;Preprints and Open Access&lt;/h2&gt;
 &lt;p&gt;The Wellcome Trust maintains a list of 
@@ -127,6 +116,8 @@
 &lt;a href=&#34;https://datascience.nih.gov/covid-19-open-access-resources&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NIH Open Access Data and Computational Resources&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://www.nytimes.com/article/coronavirus-county-data-us.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;New York Times Coronavirus Dataset&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://covid19.who.int/data&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WHO COVID-19 Dashboard Data Sources&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;bench-science-resources&#34;&gt;Bench Science Resources&lt;/h2&gt;
 &lt;ul&gt;
@@ -163,8 +154,6 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;http://www.oecd.org/coronavirus/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OECD Coronavirus Resources and Information&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://get.causaly.com/covid19/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Causaly&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;getting-to-full-text-pdfs&#34;&gt;Getting to Full-Text PDFs&lt;/h2&gt;
 &lt;p&gt;Use the 
@@ -203,13 +192,6 @@
 &lt;li&gt;
 &lt;a href=&#34;https://asprtracie.hhs.gov/COVID-19&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;U.S. Department of Health and Human Services Novel Coronavirus Resources&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;covid-19-on-social-media&#34;&gt;COVID-19 on Social Media&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;http://bit.ly/icucovid&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#ICU and #COVID19 Twitter Feed&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://mobile.twitter.com/search?q=%23pedsicu&amp;#43;%23covid19&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#pedsICU and #COVID19 Twitter Feed&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     
@@ -220,16 +202,6 @@
       <guid>https://carrieprice78.github.io/guides/covid-19/patient-consumer-health/</guid>
       <description>&lt;h2 id=&#34;consumer-health-resources&#34;&gt;Consumer Health Resources&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;http://aphagetready.org/coronavirus.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;American Public Health Association Coronavirus&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://www.cdc.gov/coronavirus/2019-ncov/about/prevention-treatment.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CDC Prevention and Treatment&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://www.cdc.gov/coronavirus/2019-ncov/community/home/cleaning-disinfection.html#disinfect&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CDC How to Clean and Disinfect&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://www.cdc.gov/coronavirus/2019-ncov/about/share-facts.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CDC COVID-19 Facts&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://covid19healthliteracyproject.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;COVID-19 Health Literacy Project&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://docs.google.com/document/d/18TNTjiY-iUW4mxYCt5RZnkd2H15TZHPXARyEGN9_H-c/edit&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;COVID-19 Spanish Language Resources&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
@@ -244,8 +216,6 @@
 &lt;a href=&#34;https://medlineplus.gov/coronavirusinfections.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MedlinePlus Coronavirus Infections&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://www.nih.gov/health-information&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;National Insitutes of Health: Health Information&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://www.who.int/gpsc/5may/hand_hygiene_video/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NEJM Hand Hygiene Video&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://www.centerforhealthsecurity.org/our-work/publications/operational-toolkit-for-businesses-considering-reopening-or-expanding-operations-in-covid-19&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Operational Toolkit for Businesses Reopening or Expanding Operations in COVID-19&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
