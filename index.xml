@@ -13,6 +13,31 @@
     </image>
     
     <item>
+      <title>Aged</title>
+      <link>https://carrieprice78.github.io/guides/search-filters/aged/</link>
+      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://carrieprice78.github.io/guides/search-filters/aged/</guid>
+      <description>&lt;h2 id=&#34;existing-filters&#34;&gt;Existing Filters&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://sites.google.com/a/york.ac.uk/issg-search-filters-resource/home/age-groups?authuser=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISSG Filters to Find Age-Specific Studies&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;search-builder-for-aged&#34;&gt;Search Builder for Aged&lt;/h2&gt;
+&lt;h3 id=&#34;controlled-vocabulary&#34;&gt;Controlled Vocabulary&lt;/h3&gt;
+&lt;h4 id=&#34;pubmed&#34;&gt;PubMed&lt;/h4&gt;
+&lt;p&gt;&amp;ldquo;aged&amp;rdquo;[mesh] OR &amp;ldquo;aged, 80 and over&amp;rdquo;[mesh] OR &amp;ldquo;aging&amp;rdquo;[mesh:noexp] OR &amp;ldquo;frail elderly&amp;rdquo;[mesh]  OR &amp;ldquo;centenaarians&amp;rdquo;[mesh] OR &amp;ldquo;nonagenarians&amp;rdquo;[mesh] OR &amp;ldquo;octogenarians&amp;rdquo;[mesh]&lt;/p&gt;
+&lt;h4 id=&#34;embase&#34;&gt;Embase&lt;/h4&gt;
+&lt;p&gt;&amp;lsquo;aged&amp;rsquo;/de or &amp;lsquo;aged hospital patient&amp;rsquo;/de or &amp;lsquo;frail elderly&amp;rsquo;/de or &amp;lsquo;very elderly&amp;rsquo;/de&lt;/p&gt;
+&lt;h4 id=&#34;the-cochrane-library&#34;&gt;The Cochrane Library&lt;/h4&gt;
+&lt;p&gt;[mh &amp;ldquo;aged&amp;rdquo;] OR [mh &amp;ldquo;aged, 80 and over&amp;rdquo;] OR [mh ^&amp;ldquo;aging&amp;rdquo;] OR [mh &amp;ldquo;frail elderly&amp;rdquo;] OR [mh &amp;ldquo;centenarians&amp;rdquo;] OR [mh &amp;ldquo;nonagenarians&amp;rdquo;] OR [mh &amp;ldquo;octogenarians&amp;rdquo;]&lt;/p&gt;
+&lt;h4 id=&#34;cinahl&#34;&gt;CINAHL&lt;/h4&gt;
+&lt;p&gt;MH &amp;ldquo;aged&amp;rdquo; OR MH &amp;ldquo;aged, 80 and over&amp;rdquo; OR MH &amp;ldquo;centenarians&amp;rdquo; OR MH &amp;ldquo;frail elderly&amp;rdquo;&lt;/p&gt;
+&lt;h2 id=&#34;keywords&#34;&gt;Keywords&lt;/h2&gt;
+&lt;p&gt;aged OR aging OR ageing OR advanced age OR advanced ages OR centenarian OR centenarians OR elderly OR elder OR elders OR geriatric OR nonagenarian OR nonagenarians OR octogenarian OR octogenarians OR old OR oldest OR older OR senior citizen OR senior citizens OR septagenarian OR septagenarians OR sexagenarian OR sexagenarians&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>A for Assessment of Scope</title>
       <link>https://carrieprice78.github.io/guides/searching-for-evidence/a-for-assessment/</link>
       <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
@@ -82,31 +107,6 @@
 &lt;ul&gt;
 &lt;li&gt;Aromataris, E., et al. (2015). Summarizing systematic reviews: methodological development, conduct and reporting of an umbrella review approach. International Journal of Evidence-Based Healthcare, 13(3), 132–140. &lt;a href=&#34;http://doi.org/10.1097/XEB.0000000000000055&#34;&gt;http://doi.org/10.1097/XEB.0000000000000055&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Aged</title>
-      <link>https://carrieprice78.github.io/guides/search-filters/aged/</link>
-      <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://carrieprice78.github.io/guides/search-filters/aged/</guid>
-      <description>&lt;h2 id=&#34;existing-filters&#34;&gt;Existing Filters&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://sites.google.com/a/york.ac.uk/issg-search-filters-resource/home/age-groups?authuser=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISSG Filters to Find Age-Specific Studies&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;search-builder-for-aged&#34;&gt;Search Builder for Aged&lt;/h2&gt;
-&lt;h3 id=&#34;controlled-vocabulary&#34;&gt;Controlled Vocabulary&lt;/h3&gt;
-&lt;h4 id=&#34;pubmed&#34;&gt;PubMed&lt;/h4&gt;
-&lt;p&gt;&amp;ldquo;aged&amp;rdquo;[mesh] OR &amp;ldquo;aged, 80 and over&amp;rdquo;[mesh] OR &amp;ldquo;aging&amp;rdquo;[mesh:noexp] OR &amp;ldquo;frail elderly&amp;rdquo;[mesh]  OR &amp;ldquo;centenaarians&amp;rdquo;[mesh] OR &amp;ldquo;nonagenarians&amp;rdquo;[mesh] OR &amp;ldquo;octogenarians&amp;rdquo;[mesh]&lt;/p&gt;
-&lt;h4 id=&#34;embase&#34;&gt;Embase&lt;/h4&gt;
-&lt;p&gt;&amp;lsquo;aged&amp;rsquo;/de or &amp;lsquo;aged hospital patient&amp;rsquo;/de or &amp;lsquo;frail elderly&amp;rsquo;/de or &amp;lsquo;very elderly&amp;rsquo;/de&lt;/p&gt;
-&lt;h4 id=&#34;the-cochrane-library&#34;&gt;The Cochrane Library&lt;/h4&gt;
-&lt;p&gt;[mh &amp;ldquo;aged&amp;rdquo;] OR [mh &amp;ldquo;aged, 80 and over&amp;rdquo;] OR [mh ^&amp;ldquo;aging&amp;rdquo;] OR [mh &amp;ldquo;frail elderly&amp;rdquo;] OR [mh &amp;ldquo;centenarians&amp;rdquo;] OR [mh &amp;ldquo;nonagenarians&amp;rdquo;] OR [mh &amp;ldquo;octogenarians&amp;rdquo;]&lt;/p&gt;
-&lt;h4 id=&#34;cinahl&#34;&gt;CINAHL&lt;/h4&gt;
-&lt;p&gt;MH &amp;ldquo;aged&amp;rdquo; OR MH &amp;ldquo;aged, 80 and over&amp;rdquo; OR MH &amp;ldquo;centenarians&amp;rdquo; OR MH &amp;ldquo;frail elderly&amp;rdquo;&lt;/p&gt;
-&lt;h2 id=&#34;keywords&#34;&gt;Keywords&lt;/h2&gt;
-&lt;p&gt;aged OR aging OR ageing OR advanced age OR advanced ages OR centenarian OR centenarians OR elderly OR elder OR elders OR geriatric OR nonagenarian OR nonagenarians OR octogenarian OR octogenarians OR old OR oldest OR older OR senior citizen OR senior citizens OR septagenarian OR septagenarians OR sexagenarian OR sexagenarians&lt;/p&gt;
 </description>
     </item>
     
@@ -543,7 +543,7 @@ Publibee is a platform developed by Stanford University individuals that uses Pu
       <description>&lt;h2 id=&#34;existing-filters&#34;&gt;Existing Filters&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://covid.cadth.ca/literature-searching-tools/cadth-covid-19-search-strings/#covid-19-medline&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CADTH&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://searchfilters.cadth.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CADTH&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://www.mlanet.org/page/covid-19-literature-searching&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Medical Library Association&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -636,6 +636,96 @@ Publibee is a platform developed by Stanford University individuals that uses Pu
 &lt;/ul&gt;
 &lt;p&gt;Some tools are open source and some are fee-based. Be sure to check out the 
 &lt;a href=&#34;http://systematicreviewtools.com/index.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Systematic Review Toolbox&lt;/a&gt; for other tool suggestions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Formulate the Research Question</title>
+      <link>https://carrieprice78.github.io/guides/expert-searching/formulate-question/</link>
+      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://carrieprice78.github.io/guides/expert-searching/formulate-question/</guid>
+      <description>&lt;h2 id=&#34;getting-started&#34;&gt;Getting Started&lt;/h2&gt;
+&lt;p&gt;Gather background information. Work with a librarian, if possible, to search relevant sources to see what&amp;rsquo;s been written about your topic so far. Consider your audience. Who might be interested in this issue?&lt;/p&gt;
+&lt;h2 id=&#34;pro-tips&#34;&gt;Pro Tips&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Identify a framework that works for your topic. Some topics won&amp;rsquo;t fit into a predetermined framework, and that&amp;rsquo;s okay.&lt;/li&gt;
+&lt;li&gt;Start documentation to keep all your ideas in one place.&lt;/li&gt;
+&lt;li&gt;Get input from collaborators, peers, and mentors.&lt;/li&gt;
+&lt;li&gt;Consult with a librarian so that you can complete a thorough search of existing research.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;There are many different types of frameworks. Which one you use will depend on the scope of your project and which framework fits best. We have listed just a few of them below.&lt;/p&gt;
+&lt;h2 id=&#34;research-question-frameworks&#34;&gt;Research Question Frameworks&lt;/h2&gt;
+&lt;h3 id=&#34;clinical-or-quantitative&#34;&gt;Clinical or Quantitative&lt;/h3&gt;
+&lt;h4 id=&#34;cocopop&#34;&gt;CoCoPop&lt;/h4&gt;
+&lt;p&gt;Condition, Context, Population&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Aromataris, E., &amp;amp; Munn, Z. (2017). Joanna Briggs Institute reviewer&amp;rsquo;s manual. The Joanna Briggs Institute. Available from &lt;a href=&#34;https://reviewersmanual.joannabriggs.org/&#34;&gt;https://reviewersmanual.joannabriggs.org/&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&#34;peo&#34;&gt;PEO&lt;/h4&gt;
+&lt;p&gt;Population, Exposure of Interest, Outcome or Response&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Aromataris, E., &amp;amp; Munn, Z. (2017). Joanna Briggs Institute reviewer&amp;rsquo;s manual. The Joanna Briggs Institute. Available from &lt;a href=&#34;https://reviewersmanual.joannabriggs.org/&#34;&gt;https://reviewersmanual.joannabriggs.org/&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&#34;pico&#34;&gt;PICO&lt;/h4&gt;
+&lt;p&gt;Population or Problem, Intervention or Exposure, Comparison or Control, Outcome&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Heneghan, C., &amp;amp; Badenoch, D. (2002). Evidence-based medicine toolkit. London: BMJ Books.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&#34;picos&#34;&gt;PICOS&lt;/h4&gt;
+&lt;p&gt;Population or Problem, Intervention or Exposure, Comparison or Control, Outcome, Study Type&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Methley, A. M., Campbell, S., Chew-Graham, C., McNally, R., &amp;amp; Cheraghi-Sohi, S. (2014). PICO, PICOS and SPIDER: a comparison study of specificity and sensitivity in three search tools for qualitative systematic reviews. BMC health services research, 14, 579. &lt;a href=&#34;https://doi.org/10.1186/s12913-014-0579-0&#34;&gt;https://doi.org/10.1186/s12913-014-0579-0&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&#34;picot&#34;&gt;PICOT&lt;/h4&gt;
+&lt;p&gt;Population or Problem, Intervention or Exposure, Comparison or Control, Outcome, Time&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Richardson, W. S., Wilson, M. C., Nishikawa, J., &amp;amp; Hayward, R. S. (1995). The well-built clinical question: A key to evidence-based decisions. ACP journal club, 123(3), A12-A12.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&#34;pird&#34;&gt;PIRD&lt;/h4&gt;
+&lt;p&gt;Population, Index Test, Reference Test, Diagnosis of Interest&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Aromataris, E., &amp;amp; Munn, Z. (2017). Joanna Briggs Institute reviewer&amp;rsquo;s manual. The Joanna Briggs Institute. Available from &lt;a href=&#34;https://reviewersmanual.joannabriggs.org/&#34;&gt;https://reviewersmanual.joannabriggs.org/&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;thematic-or-qualitative&#34;&gt;Thematic or Qualitative&lt;/h3&gt;
+&lt;h4 id=&#34;peo-1&#34;&gt;PEO&lt;/h4&gt;
+&lt;p&gt;Population, Exposure of Interest, Outcome or Response&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Aromataris, E., &amp;amp; Munn, Z. (2017). Joanna Briggs Institute reviewer&amp;rsquo;s manual. The Joanna Briggs Institute. Available from &lt;a href=&#34;https://reviewersmanual.joannabriggs.org/&#34;&gt;https://reviewersmanual.joannabriggs.org/&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&#34;pico-1&#34;&gt;PICo&lt;/h4&gt;
+&lt;p&gt;Population, Interest, Context&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Aromataris, E., &amp;amp; Munn, Z. (2017). Joanna Briggs Institute reviewer&amp;rsquo;s manual. The Joanna Briggs Institute. Available from &lt;a href=&#34;https://reviewersmanual.joannabriggs.org/&#34;&gt;https://reviewersmanual.joannabriggs.org/&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&#34;spider&#34;&gt;SPIDER&lt;/h4&gt;
+&lt;p&gt;Sample, Phenomenon of Interest, Design, Evaluation, Research Type&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Cooke, A., Smith, D., &amp;amp; Booth, A. (2012). Beyond PICO: the SPIDER tool for qualitative evidence synthesis. Qualitative health research, 22(10), 1435–1443. &lt;a href=&#34;https://doi.org/10.1177/1049732312452938&#34;&gt;https://doi.org/10.1177/1049732312452938&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&#34;spice&#34;&gt;SPICE&lt;/h4&gt;
+&lt;p&gt;Setting, Perspective, Intervention, Comparison, Evaluation&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Cleyle, S., &amp;amp; Booth, A. (2006). Clear and present questions: formulating questions for evidence based practice. Library hi tech. &lt;a href=&#34;https://doi.org/10.1108/07378830610692127&#34;&gt;https://doi.org/10.1108/07378830610692127&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;policy-or-economics&#34;&gt;Policy or Economics&lt;/h3&gt;
+&lt;h4 id=&#34;clip&#34;&gt;CLIP&lt;/h4&gt;
+&lt;p&gt;Client Group, Location, Improvement or Information or Innovation, Professionals&lt;/p&gt;
+&lt;h4 id=&#34;eclipse&#34;&gt;ECLIPSE&lt;/h4&gt;
+&lt;p&gt;Expectation, Client Group, Location, Impact, Professionals, Service&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Wildridge, V., &amp;amp; Bell, L. (2002). How CLIP became ECLIPSE: a mnemonic to assist in searching for health policy/management information. Health Information &amp;amp; Libraries Journal, 19(2), 113-115. &lt;a href=&#34;https://doi.org/10.1046/j.1471-1842.2002.00378.x&#34;&gt;https://doi.org/10.1046/j.1471-1842.2002.00378.x&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;miscellaneous-frameworks&#34;&gt;Miscellaneous Frameworks&lt;/h3&gt;
+&lt;h4 id=&#34;pcc&#34;&gt;PCC&lt;/h4&gt;
+&lt;p&gt;Population, Concept, Context&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Aromataris, E., &amp;amp; Munn, Z. (2017). Joanna Briggs Institute reviewer&amp;rsquo;s manual. The Joanna Briggs Institute. Available from &lt;a href=&#34;https://reviewersmanual.joannabriggs.org/&#34;&gt;https://reviewersmanual.joannabriggs.org/&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&#34;pipoh&#34;&gt;PIPOH&lt;/h4&gt;
+&lt;p&gt;Population, Intervention, Professionals, Outcomes, Healthcare Setting&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;ADAPTE Collaboration. (2009). The ADAPTE Process: Resource Toolkit for guideline adaptation. Version 2.0. Available from &lt;a href=&#34;https://www.g-i-n.net&#34;&gt;https://www.g-i-n.net&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
     </item>
     
@@ -963,96 +1053,6 @@ Publibee is a platform developed by Stanford University individuals that uses Pu
     </item>
     
     <item>
-      <title>Formulate the Research Question</title>
-      <link>https://carrieprice78.github.io/guides/expert-searching/formulate-question/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://carrieprice78.github.io/guides/expert-searching/formulate-question/</guid>
-      <description>&lt;h2 id=&#34;getting-started&#34;&gt;Getting Started&lt;/h2&gt;
-&lt;p&gt;Gather background information. Work with a librarian, if possible, to search relevant sources to see what&amp;rsquo;s been written about your topic so far. Consider your audience. Who might be interested in this issue?&lt;/p&gt;
-&lt;h2 id=&#34;pro-tips&#34;&gt;Pro Tips&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Identify a framework that works for your topic. Some topics won&amp;rsquo;t fit into a predetermined framework, and that&amp;rsquo;s okay.&lt;/li&gt;
-&lt;li&gt;Start documentation to keep all your ideas in one place.&lt;/li&gt;
-&lt;li&gt;Get input from collaborators, peers, and mentors.&lt;/li&gt;
-&lt;li&gt;Consult with a librarian so that you can complete a thorough search of existing research.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;There are many different types of frameworks. Which one you use will depend on the scope of your project and which framework fits best. We have listed just a few of them below.&lt;/p&gt;
-&lt;h2 id=&#34;research-question-frameworks&#34;&gt;Research Question Frameworks&lt;/h2&gt;
-&lt;h3 id=&#34;clinical-or-quantitative&#34;&gt;Clinical or Quantitative&lt;/h3&gt;
-&lt;h4 id=&#34;cocopop&#34;&gt;CoCoPop&lt;/h4&gt;
-&lt;p&gt;Condition, Context, Population&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Aromataris, E., &amp;amp; Munn, Z. (2017). Joanna Briggs Institute reviewer&amp;rsquo;s manual. The Joanna Briggs Institute. Available from &lt;a href=&#34;https://reviewersmanual.joannabriggs.org/&#34;&gt;https://reviewersmanual.joannabriggs.org/&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h4 id=&#34;peo&#34;&gt;PEO&lt;/h4&gt;
-&lt;p&gt;Population, Exposure of Interest, Outcome or Response&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Aromataris, E., &amp;amp; Munn, Z. (2017). Joanna Briggs Institute reviewer&amp;rsquo;s manual. The Joanna Briggs Institute. Available from &lt;a href=&#34;https://reviewersmanual.joannabriggs.org/&#34;&gt;https://reviewersmanual.joannabriggs.org/&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h4 id=&#34;pico&#34;&gt;PICO&lt;/h4&gt;
-&lt;p&gt;Population or Problem, Intervention or Exposure, Comparison or Control, Outcome&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Heneghan, C., &amp;amp; Badenoch, D. (2002). Evidence-based medicine toolkit. London: BMJ Books.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h4 id=&#34;picos&#34;&gt;PICOS&lt;/h4&gt;
-&lt;p&gt;Population or Problem, Intervention or Exposure, Comparison or Control, Outcome, Study Type&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Methley, A. M., Campbell, S., Chew-Graham, C., McNally, R., &amp;amp; Cheraghi-Sohi, S. (2014). PICO, PICOS and SPIDER: a comparison study of specificity and sensitivity in three search tools for qualitative systematic reviews. BMC health services research, 14, 579. &lt;a href=&#34;https://doi.org/10.1186/s12913-014-0579-0&#34;&gt;https://doi.org/10.1186/s12913-014-0579-0&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h4 id=&#34;picot&#34;&gt;PICOT&lt;/h4&gt;
-&lt;p&gt;Population or Problem, Intervention or Exposure, Comparison or Control, Outcome, Time&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Richardson, W. S., Wilson, M. C., Nishikawa, J., &amp;amp; Hayward, R. S. (1995). The well-built clinical question: A key to evidence-based decisions. ACP journal club, 123(3), A12-A12.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h4 id=&#34;pird&#34;&gt;PIRD&lt;/h4&gt;
-&lt;p&gt;Population, Index Test, Reference Test, Diagnosis of Interest&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Aromataris, E., &amp;amp; Munn, Z. (2017). Joanna Briggs Institute reviewer&amp;rsquo;s manual. The Joanna Briggs Institute. Available from &lt;a href=&#34;https://reviewersmanual.joannabriggs.org/&#34;&gt;https://reviewersmanual.joannabriggs.org/&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h3 id=&#34;thematic-or-qualitative&#34;&gt;Thematic or Qualitative&lt;/h3&gt;
-&lt;h4 id=&#34;peo-1&#34;&gt;PEO&lt;/h4&gt;
-&lt;p&gt;Population, Exposure of Interest, Outcome or Response&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Aromataris, E., &amp;amp; Munn, Z. (2017). Joanna Briggs Institute reviewer&amp;rsquo;s manual. The Joanna Briggs Institute. Available from &lt;a href=&#34;https://reviewersmanual.joannabriggs.org/&#34;&gt;https://reviewersmanual.joannabriggs.org/&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h4 id=&#34;pico-1&#34;&gt;PICo&lt;/h4&gt;
-&lt;p&gt;Population, Interest, Context&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Aromataris, E., &amp;amp; Munn, Z. (2017). Joanna Briggs Institute reviewer&amp;rsquo;s manual. The Joanna Briggs Institute. Available from &lt;a href=&#34;https://reviewersmanual.joannabriggs.org/&#34;&gt;https://reviewersmanual.joannabriggs.org/&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h4 id=&#34;spider&#34;&gt;SPIDER&lt;/h4&gt;
-&lt;p&gt;Sample, Phenomenon of Interest, Design, Evaluation, Research Type&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Cooke, A., Smith, D., &amp;amp; Booth, A. (2012). Beyond PICO: the SPIDER tool for qualitative evidence synthesis. Qualitative health research, 22(10), 1435–1443. &lt;a href=&#34;https://doi.org/10.1177/1049732312452938&#34;&gt;https://doi.org/10.1177/1049732312452938&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h4 id=&#34;spice&#34;&gt;SPICE&lt;/h4&gt;
-&lt;p&gt;Setting, Perspective, Intervention, Comparison, Evaluation&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Cleyle, S., &amp;amp; Booth, A. (2006). Clear and present questions: formulating questions for evidence based practice. Library hi tech. &lt;a href=&#34;https://doi.org/10.1108/07378830610692127&#34;&gt;https://doi.org/10.1108/07378830610692127&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h3 id=&#34;policy-or-economics&#34;&gt;Policy or Economics&lt;/h3&gt;
-&lt;h4 id=&#34;clip&#34;&gt;CLIP&lt;/h4&gt;
-&lt;p&gt;Client Group, Location, Improvement or Information or Innovation, Professionals&lt;/p&gt;
-&lt;h4 id=&#34;eclipse&#34;&gt;ECLIPSE&lt;/h4&gt;
-&lt;p&gt;Expectation, Client Group, Location, Impact, Professionals, Service&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Wildridge, V., &amp;amp; Bell, L. (2002). How CLIP became ECLIPSE: a mnemonic to assist in searching for health policy/management information. Health Information &amp;amp; Libraries Journal, 19(2), 113-115. &lt;a href=&#34;https://doi.org/10.1046/j.1471-1842.2002.00378.x&#34;&gt;https://doi.org/10.1046/j.1471-1842.2002.00378.x&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h3 id=&#34;miscellaneous-frameworks&#34;&gt;Miscellaneous Frameworks&lt;/h3&gt;
-&lt;h4 id=&#34;pcc&#34;&gt;PCC&lt;/h4&gt;
-&lt;p&gt;Population, Concept, Context&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Aromataris, E., &amp;amp; Munn, Z. (2017). Joanna Briggs Institute reviewer&amp;rsquo;s manual. The Joanna Briggs Institute. Available from &lt;a href=&#34;https://reviewersmanual.joannabriggs.org/&#34;&gt;https://reviewersmanual.joannabriggs.org/&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h4 id=&#34;pipoh&#34;&gt;PIPOH&lt;/h4&gt;
-&lt;p&gt;Population, Intervention, Professionals, Outcomes, Healthcare Setting&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;ADAPTE Collaboration. (2009). The ADAPTE Process: Resource Toolkit for guideline adaptation. Version 2.0. Available from &lt;a href=&#34;https://www.g-i-n.net&#34;&gt;https://www.g-i-n.net&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Early Mobility</title>
       <link>https://carrieprice78.github.io/guides/search-filters/early-mobility/</link>
       <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
@@ -1108,23 +1108,9 @@ Publibee is a platform developed by Stanford University individuals that uses Pu
     </item>
     
     <item>
-      <title>LGBTQIA&#43;</title>
-      <link>https://carrieprice78.github.io/guides/search-filters/lgbtqia/</link>
-      <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://carrieprice78.github.io/guides/search-filters/lgbtqia/</guid>
-      <description>&lt;h2 id=&#34;search-builder-for-lgbtqia&#34;&gt;Search Builder for LGBTQIA&lt;/h2&gt;
-&lt;h3 id=&#34;controlled-vocabulary&#34;&gt;Controlled Vocabulary&lt;/h3&gt;
-&lt;h3 id=&#34;pubmed&#34;&gt;PubMed&lt;/h3&gt;
-&lt;p&gt;&amp;ldquo;bisexuality&amp;rdquo;[mesh] OR &amp;ldquo;health services for transgender persons&amp;rdquo;[mesh] OR &amp;ldquo;homosexuality&amp;rdquo;[mesh] OR &amp;ldquo;homosexuality, male&amp;rdquo;[mesh] OR &amp;ldquo;homosexuality, female&amp;rdquo;[mesh] OR &amp;ldquo;intersex persons&amp;rdquo;[mesh] OR &amp;ldquo;sexual and gender minorities&amp;rdquo;[mesh] OR &amp;ldquo;transgender persons&amp;rdquo;[mesh] OR &amp;ldquo;transsexualism&amp;rdquo;[mesh]&lt;/p&gt;
-&lt;h3 id=&#34;keywords&#34;&gt;Keywords&lt;/h3&gt;
-&lt;p&gt;agender* OR allosexual* OR androgyn* OR androsexual* OR asexual* OR bigender* OR bisexual* OR cis OR cisgender* OR cismale OR cisfemale OR demisexual* OR f2m OR FTM OR f to m OR female to male OR gay OR gender minorit* OR gender nonconforming OR gender minority OR gynosexual* OR hermaphrod* OR homosexual* OR intergender* OR inter gender* OR intersex* OR LBG OR LBGT OR LBGTQ OR LBGTQIA OR LGB OR LGBT OR LBGTQ OR LBGTQIA OR lesbian* OR m2f OR MTF OR M to F OR male to female OR monoamorous OR monosexual* OR nonbinary OR non binary OR pangender* OR pansexual* OR polyamorous OR polysexual* OR queer* OR sexual minorit* OR trans OR transgender* OR transsexual* OR trans gender OR transmasculin* OR transfeminin* OR trans sexual* OR trans masculin* OR trans feminin*&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Which Databases to Search?</title>
       <link>https://carrieprice78.github.io/guides/expert-searching/which-database/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
       <guid>https://carrieprice78.github.io/guides/expert-searching/which-database/</guid>
       <description>&lt;h2 id=&#34;database-vs-platform&#34;&gt;Database vs. Platform&lt;/h2&gt;
 &lt;p&gt;It&amp;rsquo;s important to understand the difference between a database versus a search platform. You&amp;rsquo;ll know that you search the appropriate databases, and you&amp;rsquo;ll be able to document the search correctly. Searches should be documented and reproducible in the context of evidence-based medicine.&lt;/p&gt;
@@ -1139,6 +1125,67 @@ Publibee is a platform developed by Stanford University individuals that uses Pu
 &lt;a href=&#34;https://en.wikipedia.org/wiki/List_of_academic_databases_and_search_engines&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wikipedia: List of academic databases and search engines&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;It will be useful, if your goal is a thorough survey of the literature, to search more than one database. While there may be some overlap, each database indexes different sources and publishers.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LGBTQIA&#43;</title>
+      <link>https://carrieprice78.github.io/guides/search-filters/lgbtqia/</link>
+      <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://carrieprice78.github.io/guides/search-filters/lgbtqia/</guid>
+      <description>&lt;h2 id=&#34;search-builder-for-lgbtqia&#34;&gt;Search Builder for LGBTQIA&lt;/h2&gt;
+&lt;h3 id=&#34;controlled-vocabulary&#34;&gt;Controlled Vocabulary&lt;/h3&gt;
+&lt;h3 id=&#34;pubmed&#34;&gt;PubMed&lt;/h3&gt;
+&lt;p&gt;&amp;ldquo;bisexuality&amp;rdquo;[mesh] OR &amp;ldquo;health services for transgender persons&amp;rdquo;[mesh] OR &amp;ldquo;homosexuality&amp;rdquo;[mesh] OR &amp;ldquo;homosexuality, male&amp;rdquo;[mesh] OR &amp;ldquo;homosexuality, female&amp;rdquo;[mesh] OR &amp;ldquo;intersex persons&amp;rdquo;[mesh] OR &amp;ldquo;sexual and gender minorities&amp;rdquo;[mesh] OR &amp;ldquo;transgender persons&amp;rdquo;[mesh] OR &amp;ldquo;transsexualism&amp;rdquo;[mesh]&lt;/p&gt;
+&lt;h3 id=&#34;keywords&#34;&gt;Keywords&lt;/h3&gt;
+&lt;p&gt;agender* OR allosexual* OR androgyn* OR androsexual* OR asexual* OR bigender* OR bisexual* OR cis OR cisgender* OR cismale OR cisfemale OR demisexual* OR f2m OR FTM OR f to m OR female to male OR gay OR gender minorit* OR gender nonconforming OR gender minority OR gynosexual* OR hermaphrod* OR homosexual* OR intergender* OR inter gender* OR intersex* OR LBG OR LBGT OR LBGTQ OR LBGTQIA OR LGB OR LGBT OR LBGTQ OR LBGTQIA OR lesbian* OR m2f OR MTF OR M to F OR male to female OR monoamorous OR monosexual* OR nonbinary OR non binary OR pangender* OR pansexual* OR polyamorous OR polysexual* OR queer* OR sexual minorit* OR trans OR transgender* OR transsexual* OR trans gender OR transmasculin* OR transfeminin* OR trans sexual* OR trans masculin* OR trans feminin*&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Methodological Filters</title>
+      <link>https://carrieprice78.github.io/guides/search-filters/methodological-filters/</link>
+      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://carrieprice78.github.io/guides/search-filters/methodological-filters/</guid>
+      <description>&lt;h2 id=&#34;existing-filters&#34;&gt;Existing Filters&lt;/h2&gt;
+&lt;h3 id=&#34;guidelines&#34;&gt;Guidelines&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://sites.google.com/a/york.ac.uk/issg-search-filters-resource/home/guidelines?authuser=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISSG Filters to Identify Guidelines&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;miscellaneous&#34;&gt;Miscellaneous&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://bestpractice.bmj.com/info/us/toolkit/learn-ebm/study-design-search-filters/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BMJ Study Design Search Filters&lt;/a&gt;: includes SR, RCT, cohort, case-control, case series, case study, adverse effects&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://searchfilters.cadth.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CADTH Database Search Filters&lt;/a&gt;: includes SR, RCT, guidelines, economics&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;randomized-controlled-trials&#34;&gt;Randomized Controlled Trials&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://handbook-5-1.cochrane.org/chapter_6/6_4_11_1_the_cochrane_highly_sensitive_search_strategies_for.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cochrane Highly Sensitive Search Strategies for PubMed from the 2008 version Cochrane Handbook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://community.cochrane.org/search-filters&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Embase Search Strategy for finding RCTs from Cochrane Community&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://work.cochrane.org/psycinfo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PsycINFO Search Strategy for finding RCTs from the Cochrane Work group&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://sites.google.com/a/york.ac.uk/issg-search-filters-resource/home/rcts?authuser=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISSG Filters to Identify RCTs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;systematic-reviews&#34;&gt;Systematic Reviews&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://sites.google.com/a/york.ac.uk/issg-search-filters-resource/home/systematic-reviews?authuser=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISSG Filters to Identify Systematic Reviews&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;search-builder-for-guidelines&#34;&gt;Search Builder for Guidelines&lt;/h2&gt;
+&lt;h3 id=&#34;controlled-vocabulary&#34;&gt;Controlled Vocabulary&lt;/h3&gt;
+&lt;h4 id=&#34;pubmed&#34;&gt;PubMed&lt;/h4&gt;
+&lt;p&gt;&amp;ldquo;guideline&amp;rdquo;[pt] OR &amp;ldquo;practice guideline&amp;rdquo;[pt] OR &amp;ldquo;consensus&amp;rdquo;[mesh] OR &amp;ldquo;consensus development conference, nih&amp;rdquo;[mesh] OR &amp;ldquo;consensus development conference&amp;rdquo;[pt] OR &amp;ldquo;delphi technique&amp;rdquo;[mesh]&lt;/p&gt;
+&lt;h4 id=&#34;embase&#34;&gt;Embase&lt;/h4&gt;
+&lt;p&gt;&amp;lsquo;practice guideline&amp;rsquo;/de OR &amp;lsquo;clinical pathway&amp;rsquo;/exp OR &amp;lsquo;clinical protocol&amp;rsquo;/exp OR &amp;lsquo;consensus development&amp;rsquo;/exp OR &amp;lsquo;delphi study&amp;rsquo;/exp OR &amp;lsquo;good clinical practice&amp;rsquo;/exp OR &amp;lsquo;nursing care plan&amp;rsquo;/exp OR &amp;lsquo;nursing protocol&amp;rsquo;/exp&lt;/p&gt;
+&lt;h4 id=&#34;cinahl&#34;&gt;CINAHL&lt;/h4&gt;
+&lt;p&gt;MH &amp;ldquo;practice guidelines&amp;rdquo; OR MH &amp;ldquo;delphi technique&amp;rdquo;&lt;/p&gt;
+&lt;h2 id=&#34;keywords&#34;&gt;Keywords&lt;/h2&gt;
+&lt;p&gt;appropriate use OR appropriateness OR care plan OR care plans OR consensus OR delphi method OR delphi methods OR delphi methodology OR delphi methodologies OR delphi technique OR delphi techniques OR delphi study OR delphi studies OR guidance OR guideline* OR guide line OR guide lines OR pathway OR position statement OR position statements OR protocol OR standard of care OR standards of care&lt;/p&gt;
 </description>
     </item>
     
@@ -1319,53 +1366,6 @@ Publibee is a platform developed by Stanford University individuals that uses Pu
 &lt;/ol&gt;
 &lt;h3 id=&#34;information-literacy-practice-exercises&#34;&gt;Information Literacy Practice Exercises&lt;/h3&gt;
 &lt;p&gt;Coming soon!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Methodological Filters</title>
-      <link>https://carrieprice78.github.io/guides/search-filters/methodological-filters/</link>
-      <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://carrieprice78.github.io/guides/search-filters/methodological-filters/</guid>
-      <description>&lt;h2 id=&#34;existing-filters&#34;&gt;Existing Filters&lt;/h2&gt;
-&lt;h3 id=&#34;guidelines&#34;&gt;Guidelines&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://sites.google.com/a/york.ac.uk/issg-search-filters-resource/home/guidelines?authuser=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISSG Filters to Identify Guidelines&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;miscellaneous&#34;&gt;Miscellaneous&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://bestpractice.bmj.com/info/us/toolkit/learn-ebm/study-design-search-filters/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BMJ Study Design Search Filters&lt;/a&gt;: includes SR, RCT, cohort, case-control, case series, case study, adverse effects&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://www.cadth.ca/resources/finding-evidence/strings-attached-cadths-database-search-filters&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CADTH Database Search Filters&lt;/a&gt;: includes SR, RCT, guidelines, economics, quality of life&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;randomized-controlled-trials&#34;&gt;Randomized Controlled Trials&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://handbook-5-1.cochrane.org/chapter_6/6_4_11_1_the_cochrane_highly_sensitive_search_strategies_for.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cochrane Highly Sensitive Search Strategies for PubMed from the 2008 version Cochrane Handbook&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://community.cochrane.org/search-filters&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Embase Search Strategy for finding RCTs from Cochrane Community&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://work.cochrane.org/psycinfo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PsycINFO Search Strategy for finding RCTs from the Cochrane Work group&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://sites.google.com/a/york.ac.uk/issg-search-filters-resource/home/rcts?authuser=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISSG Filters to Identify RCTs&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;systematic-reviews&#34;&gt;Systematic Reviews&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://sites.google.com/a/york.ac.uk/issg-search-filters-resource/home/systematic-reviews?authuser=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISSG Filters to Identify Systematic Reviews&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;search-builder-for-guidelines&#34;&gt;Search Builder for Guidelines&lt;/h2&gt;
-&lt;h3 id=&#34;controlled-vocabulary&#34;&gt;Controlled Vocabulary&lt;/h3&gt;
-&lt;h4 id=&#34;pubmed&#34;&gt;PubMed&lt;/h4&gt;
-&lt;p&gt;&amp;ldquo;guideline&amp;rdquo;[pt] OR &amp;ldquo;practice guideline&amp;rdquo;[pt] OR &amp;ldquo;consensus&amp;rdquo;[mesh] OR &amp;ldquo;consensus development conference, nih&amp;rdquo;[mesh] OR &amp;ldquo;consensus development conference&amp;rdquo;[pt] OR &amp;ldquo;delphi technique&amp;rdquo;[mesh]&lt;/p&gt;
-&lt;h4 id=&#34;embase&#34;&gt;Embase&lt;/h4&gt;
-&lt;p&gt;&amp;lsquo;practice guideline&amp;rsquo;/de OR &amp;lsquo;clinical pathway&amp;rsquo;/exp OR &amp;lsquo;clinical protocol&amp;rsquo;/exp OR &amp;lsquo;consensus development&amp;rsquo;/exp OR &amp;lsquo;delphi study&amp;rsquo;/exp OR &amp;lsquo;good clinical practice&amp;rsquo;/exp OR &amp;lsquo;nursing care plan&amp;rsquo;/exp OR &amp;lsquo;nursing protocol&amp;rsquo;/exp&lt;/p&gt;
-&lt;h4 id=&#34;cinahl&#34;&gt;CINAHL&lt;/h4&gt;
-&lt;p&gt;MH &amp;ldquo;practice guidelines&amp;rdquo; OR MH &amp;ldquo;delphi technique&amp;rdquo;&lt;/p&gt;
-&lt;h2 id=&#34;keywords&#34;&gt;Keywords&lt;/h2&gt;
-&lt;p&gt;appropriate use OR appropriateness OR care plan OR care plans OR consensus OR delphi method OR delphi methods OR delphi methodology OR delphi methodologies OR delphi technique OR delphi techniques OR delphi study OR delphi studies OR guidance OR guideline* OR guide line OR guide lines OR pathway OR position statement OR position statements OR protocol OR standard of care OR standards of care&lt;/p&gt;
 </description>
     </item>
     
@@ -1668,19 +1668,23 @@ Publibee is a platform developed by Stanford University individuals that uses Pu
       <link>https://carrieprice78.github.io/guides/search-filters/race-ethnicity/</link>
       <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
       <guid>https://carrieprice78.github.io/guides/search-filters/race-ethnicity/</guid>
-      <description>&lt;h2 id=&#34;existing-filters&#34;&gt;Existing Filters&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;bibliography&#34;&gt;Bibliography&lt;/h2&gt;
 &lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://digitalscholarship.unlv.edu/cgi/viewcontent.cgi?article=1735&amp;amp;context=lib_articles&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hispanic/Latinx Inclusive Terminologies Technical Report&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://docs.google.com/document/d/1DBXX157lnlhLcDTWMSQv0mwA6ZkdWL_0Awt6Qa5_Yfc/edit&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Letter to the MeSH Committee&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bass, M. B., Molina, R. L., Reardon, E. E., Porcello, L., Goldberg, J., Nickum, A., Lipke, L., Zeigen, L., Eldredge, J. D., &amp;amp; Wallerstein, N. B. (2022). Trends in…controlled vocabulary and health equity. &lt;em&gt;Medical Reference Services Quarterly, 41&lt;/em&gt;(2), 185–201. &lt;a href=&#34;https://doi.org/10.1080/02763869.2022.2060638&#34;&gt;https://doi.org/10.1080/02763869.2022.2060638&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;existing-filters&#34;&gt;Existing Filters&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://searchfilters.cadth.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CADTH Search Filters Database includes Indigenous Peoples in Canada&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://sites.google.com/a/york.ac.uk/issg-search-filters-resource/home/population-specific?authuser=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISSG Filters to find population specific studies&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://sites.google.com/a/york.ac.uk/issg-search-filters-resource/home/health-equity?authuser=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISSG Filters for Health Equity&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;search-builder-for-race-and-ethnicity-terms&#34;&gt;Search Builder for Race and Ethnicity Terms&lt;/h2&gt;
-&lt;h3 id=&#34;controlled-vocabulary&#34;&gt;Controlled Vocabulary&lt;/h3&gt;
-&lt;h4 id=&#34;pubmed&#34;&gt;PubMed&lt;/h4&gt;
-&lt;p&gt;&amp;ldquo;african americans&amp;rdquo;[mesh] OR &amp;ldquo;african continental ancestry group&amp;rdquo;[mesh] OR &amp;ldquo;alaska natives&amp;rdquo;[mesh] OR &amp;ldquo;american native continental ancestry group&amp;rdquo;[mesh] OR &amp;ldquo;apartheid&amp;rdquo;[mesh] OR &amp;ldquo;asian americans&amp;rdquo;[mesh] OR &amp;ldquo;asian continental ancestry group&amp;rdquo;[mesh] OR &amp;ldquo;civil rights&amp;rdquo;[mesh] OR &amp;ldquo;continental population groups&amp;rdquo;[mesh] OR &amp;ldquo;cultural diversity&amp;rdquo;[mesh] OR &amp;ldquo;desegregation&amp;rdquo;[mesh] OR &amp;ldquo;ethnology&amp;rdquo;[mesh] OR &amp;ldquo;ethnic groups&amp;rdquo;[mesh] OR &amp;ldquo;hispanic americans&amp;rdquo;[mesh] OR &amp;ldquo;indians, central american&amp;rdquo;[mesh] OR &amp;ldquo;indians, south american&amp;rdquo;[mesh] OR &amp;ldquo;indians, north american&amp;rdquo;[mesh] OR &amp;ldquo;indigenous peoples&amp;rdquo;[mesh] OR &amp;ldquo;inuits&amp;rdquo;[mesh] OR &amp;ldquo;minority groups&amp;rdquo;[mesh] OR &amp;ldquo;minority health&amp;rdquo;[mesh] OR &amp;ldquo;prejudice&amp;rdquo;[mesh] OR &amp;ldquo;race factors&amp;rdquo;[mesh] OR &amp;ldquo;race relations&amp;rdquo;[mesh] OR &amp;ldquo;racism&amp;rdquo;[mesh] OR &amp;ldquo;transients and migrants&amp;rdquo;[mesh] OR &amp;ldquo;undocumented immigrants&amp;rdquo;[mesh]&lt;/p&gt;
-&lt;h3 id=&#34;keywords&#34;&gt;Keywords&lt;/h3&gt;
-&lt;p&gt;aboriginal* OR african american OR african americans OR american indian* OR antiracism OR antiracist OR antiracists OR apartheid OR asian OR asians OR asian american OR asian americans OR BIPOC OR BIYOC OR black OR blackness OR blacks OR caste OR castes OR civil right* OR cuban american* OR desegregat* OR discriminat* OR diversity OR ethnic* OR emigrant* OR ethnolog* OR first nation OR first nations OR hispanic* OR illegal alien* OR immigrant* OR indigenous OR injustice* OR inuit* OR jim crow OR justice OR latina OR latino OR latinx OR man of color OR men of color OR mexican* OR migrant worker* OR minority OR minorities OR multirac* OR native american* OR native population* OR native people* OR person of color OR persons of color OR POC OR prejudic* OR puerto rican* OR race OR racial OR racially OR racism OR racist OR racists OR spanish american* OR segregat* OR SES OR transient worker* OR urp OR underrepresent* OR undocument* OR urban communit* OR urban population* OR vulnerable population* OR WOC OR women of color OR woman of color OR youth of color&lt;/p&gt;
 </description>
     </item>
     
@@ -1695,6 +1699,41 @@ Publibee is a platform developed by Stanford University individuals that uses Pu
 &lt;p&gt;&amp;ldquo;deglutition disorders&amp;rdquo;[mesh:noexp] OR &amp;ldquo;language therapy&amp;rdquo;[mesh] OR &amp;ldquo;myofunctional therapy&amp;rdquo;[mesh] OR &amp;ldquo;rehabilitation of speech and language disorders&amp;rdquo;[mesh] OR &amp;ldquo;speech-language pathology&amp;rdquo;[mesh] OR &amp;ldquo;speech therapy&amp;rdquo;[mesh] OR &amp;ldquo;speech, alaryngeal&amp;rdquo;[mesh] OR &amp;ldquo;speech, esophageal&amp;rdquo;[mesh] OR &amp;ldquo;voice training&amp;rdquo;[mesh]&lt;/p&gt;
 &lt;h3 id=&#34;keywords&#34;&gt;Keywords&lt;/h3&gt;
 &lt;p&gt;deglutition OR deglutitive OR dysphagia OR dysphagic OR dysphagics OR language rehab OR language rehabilitation OR language therapy OR language therapies OR odynophagia OR odynophagias OR odynophagic OR odynophagics OR presbyphagia OR presbyphagias OR presbyphagic OR presbyphagics OR speech language pathology OR speech language pathologies OR speech language pathologist OR speech language pathologists OR speech pathology OR speech pathologies OR language pathology OR language pathologies OR speech therapy OR speech therapies OR speech rehab OR speech rehabilitation OR swallow OR swallows OR swallowing OR vocal training OR vocal therapy OR vocal therapies OR vocal rehabilitation OR voice training OR voice therapy OR voice therapies OR voice rehabilitation&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pro Tips to Become an Expert Searcher</title>
+      <link>https://carrieprice78.github.io/guides/expert-searching/pro-tips/</link>
+      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://carrieprice78.github.io/guides/expert-searching/pro-tips/</guid>
+      <description>&lt;h2 id=&#34;search-by-database-fields&#34;&gt;Search by Database Fields&lt;/h2&gt;
+&lt;p&gt;Use database fields to search with specific parts of a citation. Literature databases index citations provided by publishers. Some databases only index journal articles (such as PubMed) while other databases index additional items such as conference proceedings, dissertations, and book chapters.&lt;/p&gt;
+&lt;p&gt;Database publishers assign each part of a citation to a different field in the database. For example, all authors listed for an articles are assigned to the &amp;ldquo;Author&amp;rdquo; field, all words in an abstract are assigned to the &amp;ldquo;Abstract&amp;rdquo; field, etc. Many databases also add controlled vocabulary terms to describe the major concepts presented in an article which are then tagged as such. Any search terms you use are only searched across the citation information in a database, not the full text of the article.&lt;/p&gt;
+&lt;p&gt;Searching using specific fields of a citation in literature databases increases the precision of your search by dictating which part of the citation a specific keyword or phrase must appear. This is useful if you want to find articles on a specific topic that were written by a particular author or originated from a specific institution or are published in a specific journal.&lt;/p&gt;
+&lt;p&gt;A way to search for terms in a specific field of a citation is to add a &amp;ldquo;Field Tag&amp;rdquo; to your search terms. Most databases allow you to qualify search terms using a code called a &amp;ldquo;Field Tag&amp;rdquo; or a &amp;ldquo;Field Descriptor&amp;rdquo; to force the database to only search for that term in a specific field.&lt;/p&gt;
+&lt;h2 id=&#34;use-database-filters&#34;&gt;Use Database Filters&lt;/h2&gt;
+&lt;p&gt;Many databases allow you to apply filters to limit to your search. For example, you can apply a language filter to limit your search results to articles written in a specific language. You should be extremely careful about how you apply these filters.&lt;/p&gt;
+&lt;p&gt;In most databases, these filters will appear on the left side after you run a search. The most commonly used filters include article or publication type, and publication dates.&lt;/p&gt;
+&lt;p&gt;Avoid applying filters that will unnecessarily exclude articles you may want to see. These include filters such as species, ages, text availability, and subject discipline. When you apply these filters, you are using controlled vocabulary or database indexing to exclude articles. This is not always a reliable method of excluding articles, and in these cases you may wish to work with your informationist to discuss the best approach.&lt;/p&gt;
+&lt;h2 id=&#34;forward-and-backward-citation-searching&#34;&gt;Forward and Backward Citation Searching&lt;/h2&gt;
+&lt;p&gt;If you find an article that is very relevant, search the reference list to identify other literature that may be pertinent to your research. Conversely, some databases will show you which articles have cited that article.&lt;/p&gt;
+&lt;h2 id=&#34;similar-articles-in-pubmed&#34;&gt;Similar Articles in PubMed&lt;/h2&gt;
+&lt;p&gt;In PubMed, there is a feature called &amp;ldquo;Similar Articles.&amp;rdquo; Click on this option to find other articles that are indexed in a similar way to the one you chose. You can find it on the right-hand menu inside the article record, and at the bottom of the article page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tests and Measures</title>
+      <link>https://carrieprice78.github.io/guides/search-filters/tests-measures/</link>
+      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://carrieprice78.github.io/guides/search-filters/tests-measures/</guid>
+      <description>&lt;h2 id=&#34;search-builder-for-slp&#34;&gt;Search Builder for SLP&lt;/h2&gt;
+&lt;h3 id=&#34;controlled-vocabulary&#34;&gt;Controlled Vocabulary&lt;/h3&gt;
+&lt;h4 id=&#34;pubmed&#34;&gt;PubMed&lt;/h4&gt;
+&lt;p&gt;&amp;ldquo;data collection&amp;rdquo;[mesh:noexp] OR &amp;ldquo;surveys and questionnaires&amp;rdquo;[mesh:noexp] OR &amp;ldquo;reference values&amp;rdquo;[mesh:noexp]&lt;/p&gt;
+&lt;h3 id=&#34;keywords&#34;&gt;Keywords&lt;/h3&gt;
+&lt;p&gt;index OR indexes OR indice OR interview* OR instrument* OR measure* OR questionnaire* OR rubric* OR scale* OR score* OR survey* OR test OR tests OR tool OR tools&lt;/p&gt;
 </description>
     </item>
     
@@ -1754,41 +1793,6 @@ Publibee is a platform developed by Stanford University individuals that uses Pu
 &lt;li&gt;
 &lt;a href=&#34;https://asprtracie.hhs.gov/COVID-19&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;U.S. Department of Health and Human Services Novel Coronavirus Resources&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Pro Tips to Become an Expert Searcher</title>
-      <link>https://carrieprice78.github.io/guides/expert-searching/pro-tips/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://carrieprice78.github.io/guides/expert-searching/pro-tips/</guid>
-      <description>&lt;h2 id=&#34;search-by-database-fields&#34;&gt;Search by Database Fields&lt;/h2&gt;
-&lt;p&gt;Use database fields to search with specific parts of a citation. Literature databases index citations provided by publishers. Some databases only index journal articles (such as PubMed) while other databases index additional items such as conference proceedings, dissertations, and book chapters.&lt;/p&gt;
-&lt;p&gt;Database publishers assign each part of a citation to a different field in the database. For example, all authors listed for an articles are assigned to the &amp;ldquo;Author&amp;rdquo; field, all words in an abstract are assigned to the &amp;ldquo;Abstract&amp;rdquo; field, etc. Many databases also add controlled vocabulary terms to describe the major concepts presented in an article which are then tagged as such. Any search terms you use are only searched across the citation information in a database, not the full text of the article.&lt;/p&gt;
-&lt;p&gt;Searching using specific fields of a citation in literature databases increases the precision of your search by dictating which part of the citation a specific keyword or phrase must appear. This is useful if you want to find articles on a specific topic that were written by a particular author or originated from a specific institution or are published in a specific journal.&lt;/p&gt;
-&lt;p&gt;A way to search for terms in a specific field of a citation is to add a &amp;ldquo;Field Tag&amp;rdquo; to your search terms. Most databases allow you to qualify search terms using a code called a &amp;ldquo;Field Tag&amp;rdquo; or a &amp;ldquo;Field Descriptor&amp;rdquo; to force the database to only search for that term in a specific field.&lt;/p&gt;
-&lt;h2 id=&#34;use-database-filters&#34;&gt;Use Database Filters&lt;/h2&gt;
-&lt;p&gt;Many databases allow you to apply filters to limit to your search. For example, you can apply a language filter to limit your search results to articles written in a specific language. You should be extremely careful about how you apply these filters.&lt;/p&gt;
-&lt;p&gt;In most databases, these filters will appear on the left side after you run a search. The most commonly used filters include article or publication type, and publication dates.&lt;/p&gt;
-&lt;p&gt;Avoid applying filters that will unnecessarily exclude articles you may want to see. These include filters such as species, ages, text availability, and subject discipline. When you apply these filters, you are using controlled vocabulary or database indexing to exclude articles. This is not always a reliable method of excluding articles, and in these cases you may wish to work with your informationist to discuss the best approach.&lt;/p&gt;
-&lt;h2 id=&#34;forward-and-backward-citation-searching&#34;&gt;Forward and Backward Citation Searching&lt;/h2&gt;
-&lt;p&gt;If you find an article that is very relevant, search the reference list to identify other literature that may be pertinent to your research. Conversely, some databases will show you which articles have cited that article.&lt;/p&gt;
-&lt;h2 id=&#34;similar-articles-in-pubmed&#34;&gt;Similar Articles in PubMed&lt;/h2&gt;
-&lt;p&gt;In PubMed, there is a feature called &amp;ldquo;Similar Articles.&amp;rdquo; Click on this option to find other articles that are indexed in a similar way to the one you chose. You can find it on the right-hand menu inside the article record, and at the bottom of the article page.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Tests and Measures</title>
-      <link>https://carrieprice78.github.io/guides/search-filters/tests-measures/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://carrieprice78.github.io/guides/search-filters/tests-measures/</guid>
-      <description>&lt;h2 id=&#34;search-builder-for-slp&#34;&gt;Search Builder for SLP&lt;/h2&gt;
-&lt;h3 id=&#34;controlled-vocabulary&#34;&gt;Controlled Vocabulary&lt;/h3&gt;
-&lt;h4 id=&#34;pubmed&#34;&gt;PubMed&lt;/h4&gt;
-&lt;p&gt;&amp;ldquo;data collection&amp;rdquo;[mesh] OR &amp;ldquo;surveys and questionnaires&amp;rdquo;[mesh]&lt;/p&gt;
-&lt;h3 id=&#34;keywords&#34;&gt;Keywords&lt;/h3&gt;
-&lt;p&gt;index OR measure* OR questionnaire* OR scale* OR score* OR survey* OR test OR tests OR tool OR tools&lt;/p&gt;
 </description>
     </item>
     
@@ -2810,7 +2814,7 @@ CiteScore Rank and Rank Out Of&lt;/p&gt;
     <item>
       <title>Document the Searches</title>
       <link>https://carrieprice78.github.io/guides/expert-searching/document-search/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
       <guid>https://carrieprice78.github.io/guides/expert-searching/document-search/</guid>
       <description>&lt;h2 id=&#34;how-can-i-document-my-search&#34;&gt;How Can I Document My Search?&lt;/h2&gt;
 &lt;p&gt;Documenting and saving your search will save you time. There are two ways to save your work.&lt;/p&gt;
@@ -2838,7 +2842,7 @@ CiteScore Rank and Rank Out Of&lt;/p&gt;
     <item>
       <title>Using Google Effectively</title>
       <link>https://carrieprice78.github.io/guides/expert-searching/google/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
       <guid>https://carrieprice78.github.io/guides/expert-searching/google/</guid>
       <description>&lt;h2 id=&#34;google-scholar&#34;&gt;Google Scholar&lt;/h2&gt;
 &lt;p&gt;Harness the power of Google Scholar by:&lt;/p&gt;
@@ -2901,106 +2905,12 @@ CiteScore Rank and Rank Out Of&lt;/p&gt;
     </item>
     
     <item>
-      <title>Early Mobility Resources</title>
-      <link>https://carrieprice78.github.io/guides/early-mobility/early-mobility-resources/</link>
-      <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://carrieprice78.github.io/guides/early-mobility/early-mobility-resources/</guid>
-      <description>&lt;h2 id=&#34;resources-for-early-mobility&#34;&gt;Resources for Early Mobility&lt;/h2&gt;
-&lt;h3 id=&#34;ahrq-early-mobility-bundleshttpswwwahrqgovprofessionalsquality-patient-safetyhaistoolsmvptechnical-bundles-earlymobilityhtml&#34;&gt;
-&lt;a href=&#34;https://www.ahrq.gov/professionals/quality-patient-safety/hais/tools/mvp/technical-bundles-earlymobility.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AHRQ Early Mobility Bundles&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;This guide provides an overview of the importance of early mobility to the mechanically ventilated patient, explains how early mobility improves patient outcomes, and assists in developing a structure to implement early mobility. It also explains how to use the tools and slide sets to implement the concepts presented.&lt;/p&gt;
-&lt;h3 id=&#34;early-mobilization-networkhttpwwwmobilization-networkorgnetworkwelcomehtml&#34;&gt;
-&lt;a href=&#34;http://www.mobilization-network.org/Network/Welcome.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Early Mobilization Network&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Early Mobilization Network offers an open forum for all professionals who are interested in the early mobilization and rehabilitation of mechanically ventilated intensive care patients throughout the whole critical care pathway, from passive to active rehabilitation within the ICU and post critical care rehabilitation.&lt;/p&gt;
-&lt;h3 id=&#34;icu-deliriumhttpswwwicudeliriumorg&#34;&gt;
-&lt;a href=&#34;https://www.icudelirium.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICU Delirium&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Wes Ely, MD, MPH, Grant W. Liddle Professor of Medicine, and his colleagues at Vanderbilt and the VA have identified delirium as one of the most critical problems facing ICU patients — linked with increased deaths, prolonged ICU and hospital lengths of stay and significantly higher medical costs.&lt;/p&gt;
-&lt;h3 id=&#34;icu-liberation-from-the-society-of-critical-care-medicinehttpwwwiculiberationorgpagesdefaultaspx&#34;&gt;
-&lt;a href=&#34;http://www.iculiberation.org/Pages/default.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICU Liberation, from the Society of Critical Care Medicine&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;In January 2013, The Society of Critical Care Medicine (SCCM) published the Clinical Practice Guidelines for the Management of Pain, Agitation, and Delirium in Adult Patients in the Intensive Care Unit. This website is one of the tools offered to clinicians worldwide to achieve an aim of enhanced knowledge transfer of interventions to the bedside with special focus on the guidelines as well as assessment tools.&lt;/p&gt;
-&lt;h3 id=&#34;icustepshttpswwwicustepsorg&#34;&gt;
-&lt;a href=&#34;https://www.icusteps.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICUsteps&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;ICUsteps was established in 2005 and became a registered charity in 2006. Run by former intensive care patients and relatives, the aim is to improve the care and support available to patients recovering from critical illness during their long recovery.&lt;/p&gt;
-&lt;h3 id=&#34;moves-canadahttpwwwmovescanadaca&#34;&gt;
-&lt;a href=&#34;http://www.movescanada.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MOVES Canada&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Mobilization of Vulnerable Elders (MOVE) is an implementation and evaluation initiative to promote early mobilization practices in seniors admitted to hospitals.&lt;/p&gt;
-&lt;h2 id=&#34;johns-hopkins-resources-for-early-mobility&#34;&gt;Johns Hopkins Resources for Early Mobility&lt;/h2&gt;
-&lt;p&gt;Most of the databases listed here are free to search, while the content may be behind a paywall. You may be able to locate the PDF through your institution or organization, or using on of the tools below.&lt;/p&gt;
-&lt;h3 id=&#34;hopkins-healthcare-solutions-activity-and-mobility-promotionhttpswwwjohnshopkinssolutionscomsolutionamp&#34;&gt;
-&lt;a href=&#34;https://www.johnshopkinssolutions.com/solution/amp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hopkins Healthcare Solutions Activity and Mobility Promotion&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;The Activity &amp;amp; Mobility Promotion program firmly establishes the concept that a systematic approach is beneficial in combating the harms of immobility in our hospitals. Throughout JHH, we have adopted structured quality improvement processes to promote a culture of activity and mobility. This site houses tools and training for the hospital-wide, adult ICU, and pediatric ICU activity and mobility promotion.&lt;/p&gt;
-&lt;h3 id=&#34;improving-care-for-mechanically-ventilated-patients-from-jh-armstrong-institutehttpwwwhopkinsmedicineorgarmstrong_instituteimprovement_projectsmvpindexhtml&#34;&gt;
-&lt;a href=&#34;http://www.hopkinsmedicine.org/armstrong_institute/improvement_projects/mvp/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Improving Care for Mechanically Ventilated Patients from JH Armstrong Institute&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;The Armstrong Institute for Patient Safety and Quality is leading a three-year national collaborative project that aims to prevent these short- and long-term harms, while reducing length of stay and readmissions. By improving care of patients on mechanical ventilation, we can save patients’ lives, prevent suffering and reduce health care costs.&lt;/p&gt;
-&lt;h3 id=&#34;improving-long-term-outcomes-research-for-acute-respiratory-failurehttpwwwimproveltocom&#34;&gt;
-&lt;a href=&#34;http://www.improvelto.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Improving Long-Term Outcomes Research for Acute Respiratory Failure&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Dale Needham, FCPA, MD, PhD, Director of the Outcomes After Critical Illness and Surgery (OACIS) Group at Johns Hopkins University School of Medicine, received an R-24 grant from the National Heart, Lung and Blood Institute (NHLBI). This R-24 project, entitled “Improving Long-Term Outcomes Research for Acute Respiratory Failure,” is aimed at creating resources for researchers conducting long-term follow-up of patients surviving acute respiratory failure and acute respiratory distress syndrome (ARF/ARDS).&lt;/p&gt;
-&lt;h3 id=&#34;outcomes-after-critical-illness-and-surgery-oacis-at-jhhttpwwwhopkinsmedicineorgpulmonaryresearchoutcomes_after_critical_illness_surgery&#34;&gt;
-&lt;a href=&#34;http://www.hopkinsmedicine.org/pulmonary/research/outcomes_after_critical_illness_surgery/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Outcomes After Critical Illness and Surgery (OACIS) at JH&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Outcomes After Critical Illness and Surgery (OACIS) is a multidisciplinary clinical and research group focused on understanding and improving patient outcomes after critical illness and surgery. OACIS activities include clinical quality improvement projects and research focused on longitudinal, long-term patient outcomes assessments, both locally and nationally, with evaluation of physical, cognitive, and mental health outcomes.&lt;/p&gt;
-&lt;h3 id=&#34;prevalence-of-acute-rehab-for-kids-in-the-picu-park-picuhttpsparkwebjhuedu&#34;&gt;
-&lt;a href=&#34;https://park.web.jhu.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prevalence of Acute Rehab for Kids in the PICU (PARK-PICU)&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;PARK-PICU (Prevalence of Acute Rehab for Kids in the PICU) is a national point prevalence study to characterize the prevalence and characteristics of mobility as part of routine clinical care for critically ill children in United States PICUs.&lt;/p&gt;
-&lt;h2 id=&#34;apps-for-augmentative-and-alternative-communication-aac&#34;&gt;Apps for Augmentative and Alternative Communication (AAC)&lt;/h2&gt;
-&lt;p&gt;See also my 
-&lt;a href=&#34;https://www.smore.com/hqna3-apps-for-communication&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Smore Digital Flyer&lt;/a&gt;.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://itunes.apple.com/us/app/assistive-express/id379891874?mt=8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Assistive Express&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://itunes.apple.com/us/app/gotalk-now/id454176457?mt=8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GoTalk Now&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://itunes.apple.com/us/app/grid-player/id456278671?mt=8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Grid Player&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://itunes.apple.com/us/app/patient-communicator-by-sccm/id732242570?mt=8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Patient Communicator&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://itunes.apple.com/us/app/predictable/id404445007?mt=8&amp;amp;ign-mpt=uo%3D4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Predictable&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://itunes.apple.com/us/app/proloquo2go/id308368164?mt=8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Proloquo2Go&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://itunes.apple.com/us/app/quick-talk-aac/id487824507?mt=8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Quick Talk AAC&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://itunes.apple.com/us/app/smalltalk-intensive-care/id403057381?mt=8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SmallTalk Intensive Care&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://itunes.apple.com/us/app/sono-flex/id463697022?mt=8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sono Flex&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://itunes.apple.com/us/app/sorenson-buzzcards/id380582593?mt=8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sorenson BuzzCards&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://itunes.apple.com/us/app/soundingboard/id390532167?mt=8&amp;amp;ign-mpt=uo%3D40&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SoundingBoard&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://itunes.apple.com/us/app/touchchat-hd-aac/id398860728?mt=8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TouchChat HD - AAC&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://itunes.apple.com/us/app/verbally/id418671377?mt=8#&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Verbally&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://itunes.apple.com/us/app/verbally-premium/id470081134?mt=8&amp;amp;ign-mpt=uo%3D4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Verbally Premium&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;apps-for-coordination&#34;&gt;Apps for Coordination&lt;/h2&gt;
-&lt;p&gt;See also my 
-&lt;a href=&#34;https://www.smore.com/xq4kw-apps-for-coordination&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Smore digital flyer&lt;/a&gt;.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://itunes.apple.com/us/app/bubble-snap/id285646135?mt=8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bubble Snap&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://itunes.apple.com/us/app/dexteria-fine-motor-skill-development/id420464455?mt=8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dexteria&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://itunes.apple.com/us/app/id583678381?ign-mpt=uo%3D4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;iTrace Handwriting&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://itunes.apple.com/app/id435476174?mt=8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LetterSchool&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://itunes.apple.com/us/app/little-finder-the-hidden-object-game-for-kids/id491990709?mt=8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Little Finder&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://itunes.apple.com/us/app/letter-quiz-lite-alphabet-tracing-game-for-kids/id331573236?mt=8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Letter Quiz&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
       <title>PubMed</title>
       <link>https://carrieprice78.github.io/guides/expert-searching/pubmed-tips/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
       <guid>https://carrieprice78.github.io/guides/expert-searching/pubmed-tips/</guid>
       <description>&lt;h2 id=&#34;when-to-use-pubmed&#34;&gt;When to Use PubMed&lt;/h2&gt;
-&lt;p&gt;PubMed is a platform that indexes journal articles and more back to 1947. It covers the areas of medicine, nursing, dentistry, veterinary medicine, health care systems, preclinical sciences, and related areas. PubMed is developed and maintained by the National Library of Medicine (NLM) and the National Center for Biotechnology Information (NCBI), both at the National Institutes of Health (NIH) in Bethesda, MD. As of July, 2020, PubMed contains over 30 million records. PubMed is a platform that contains MEDLINE, PubMed Central, and additional PubMed records.&lt;/p&gt;
+&lt;p&gt;PubMed is a platform that indexes journal articles and more back to 1947. It covers the areas of medicine, nursing, dentistry, veterinary medicine, health care systems, preclinical sciences, and related areas. PubMed is developed and maintained by the National Library of Medicine (NLM) and the National Center for Biotechnology Information (NCBI), both at the National Institutes of Health (NIH) in Bethesda, MD. As of May, 2022, PubMed contains over 34 million records. PubMed is a platform that contains MEDLINE, PubMed Central, the NCBI Bookshelf, and some additional PubMed records.&lt;/p&gt;
 &lt;h2 id=&#34;pubmed-cool-tools&#34;&gt;PubMed Cool Tools&lt;/h2&gt;
 &lt;h3 id=&#34;clinical-queries&#34;&gt;Clinical Queries&lt;/h3&gt;
 &lt;p&gt;Use Clinical Queries to enable pre-made filters applying to different clinical research areas. Results are delineated into clinical studies, systematic reviews, and medical genetics. Enter your search exactly as you would in the PubMed search box.&lt;/p&gt;
@@ -3107,6 +3017,100 @@ CiteScore Rank and Rank Out Of&lt;/p&gt;
 &lt;li&gt;&lt;strong&gt;[Title/Abstract] or [tiab]&lt;/strong&gt; – Words and numbers included in the title, collection title, abstract, and other abstract of a citation. English language abstracts are taken directly from the published article. If an article does not have a published abstract, NLM does not create one.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;
 &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/books/NBK3827/#pubmedhelp.Search_Field_Descriptions_and/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NCBI explanation of Field Descriptions and Tags&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Early Mobility Resources</title>
+      <link>https://carrieprice78.github.io/guides/early-mobility/early-mobility-resources/</link>
+      <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://carrieprice78.github.io/guides/early-mobility/early-mobility-resources/</guid>
+      <description>&lt;h2 id=&#34;resources-for-early-mobility&#34;&gt;Resources for Early Mobility&lt;/h2&gt;
+&lt;h3 id=&#34;ahrq-early-mobility-bundleshttpswwwahrqgovprofessionalsquality-patient-safetyhaistoolsmvptechnical-bundles-earlymobilityhtml&#34;&gt;
+&lt;a href=&#34;https://www.ahrq.gov/professionals/quality-patient-safety/hais/tools/mvp/technical-bundles-earlymobility.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AHRQ Early Mobility Bundles&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;This guide provides an overview of the importance of early mobility to the mechanically ventilated patient, explains how early mobility improves patient outcomes, and assists in developing a structure to implement early mobility. It also explains how to use the tools and slide sets to implement the concepts presented.&lt;/p&gt;
+&lt;h3 id=&#34;early-mobilization-networkhttpwwwmobilization-networkorgnetworkwelcomehtml&#34;&gt;
+&lt;a href=&#34;http://www.mobilization-network.org/Network/Welcome.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Early Mobilization Network&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Early Mobilization Network offers an open forum for all professionals who are interested in the early mobilization and rehabilitation of mechanically ventilated intensive care patients throughout the whole critical care pathway, from passive to active rehabilitation within the ICU and post critical care rehabilitation.&lt;/p&gt;
+&lt;h3 id=&#34;icu-deliriumhttpswwwicudeliriumorg&#34;&gt;
+&lt;a href=&#34;https://www.icudelirium.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICU Delirium&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Wes Ely, MD, MPH, Grant W. Liddle Professor of Medicine, and his colleagues at Vanderbilt and the VA have identified delirium as one of the most critical problems facing ICU patients — linked with increased deaths, prolonged ICU and hospital lengths of stay and significantly higher medical costs.&lt;/p&gt;
+&lt;h3 id=&#34;icu-liberation-from-the-society-of-critical-care-medicinehttpwwwiculiberationorgpagesdefaultaspx&#34;&gt;
+&lt;a href=&#34;http://www.iculiberation.org/Pages/default.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICU Liberation, from the Society of Critical Care Medicine&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;In January 2013, The Society of Critical Care Medicine (SCCM) published the Clinical Practice Guidelines for the Management of Pain, Agitation, and Delirium in Adult Patients in the Intensive Care Unit. This website is one of the tools offered to clinicians worldwide to achieve an aim of enhanced knowledge transfer of interventions to the bedside with special focus on the guidelines as well as assessment tools.&lt;/p&gt;
+&lt;h3 id=&#34;icustepshttpswwwicustepsorg&#34;&gt;
+&lt;a href=&#34;https://www.icusteps.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICUsteps&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;ICUsteps was established in 2005 and became a registered charity in 2006. Run by former intensive care patients and relatives, the aim is to improve the care and support available to patients recovering from critical illness during their long recovery.&lt;/p&gt;
+&lt;h3 id=&#34;moves-canadahttpwwwmovescanadaca&#34;&gt;
+&lt;a href=&#34;http://www.movescanada.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MOVES Canada&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Mobilization of Vulnerable Elders (MOVE) is an implementation and evaluation initiative to promote early mobilization practices in seniors admitted to hospitals.&lt;/p&gt;
+&lt;h2 id=&#34;johns-hopkins-resources-for-early-mobility&#34;&gt;Johns Hopkins Resources for Early Mobility&lt;/h2&gt;
+&lt;p&gt;Most of the databases listed here are free to search, while the content may be behind a paywall. You may be able to locate the PDF through your institution or organization, or using on of the tools below.&lt;/p&gt;
+&lt;h3 id=&#34;hopkins-healthcare-solutions-activity-and-mobility-promotionhttpswwwjohnshopkinssolutionscomsolutionamp&#34;&gt;
+&lt;a href=&#34;https://www.johnshopkinssolutions.com/solution/amp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hopkins Healthcare Solutions Activity and Mobility Promotion&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;The Activity &amp;amp; Mobility Promotion program firmly establishes the concept that a systematic approach is beneficial in combating the harms of immobility in our hospitals. Throughout JHH, we have adopted structured quality improvement processes to promote a culture of activity and mobility. This site houses tools and training for the hospital-wide, adult ICU, and pediatric ICU activity and mobility promotion.&lt;/p&gt;
+&lt;h3 id=&#34;improving-care-for-mechanically-ventilated-patients-from-jh-armstrong-institutehttpwwwhopkinsmedicineorgarmstrong_instituteimprovement_projectsmvpindexhtml&#34;&gt;
+&lt;a href=&#34;http://www.hopkinsmedicine.org/armstrong_institute/improvement_projects/mvp/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Improving Care for Mechanically Ventilated Patients from JH Armstrong Institute&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;The Armstrong Institute for Patient Safety and Quality is leading a three-year national collaborative project that aims to prevent these short- and long-term harms, while reducing length of stay and readmissions. By improving care of patients on mechanical ventilation, we can save patients’ lives, prevent suffering and reduce health care costs.&lt;/p&gt;
+&lt;h3 id=&#34;improving-long-term-outcomes-research-for-acute-respiratory-failurehttpwwwimproveltocom&#34;&gt;
+&lt;a href=&#34;http://www.improvelto.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Improving Long-Term Outcomes Research for Acute Respiratory Failure&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Dale Needham, FCPA, MD, PhD, Director of the Outcomes After Critical Illness and Surgery (OACIS) Group at Johns Hopkins University School of Medicine, received an R-24 grant from the National Heart, Lung and Blood Institute (NHLBI). This R-24 project, entitled “Improving Long-Term Outcomes Research for Acute Respiratory Failure,” is aimed at creating resources for researchers conducting long-term follow-up of patients surviving acute respiratory failure and acute respiratory distress syndrome (ARF/ARDS).&lt;/p&gt;
+&lt;h3 id=&#34;outcomes-after-critical-illness-and-surgery-oacis-at-jhhttpwwwhopkinsmedicineorgpulmonaryresearchoutcomes_after_critical_illness_surgery&#34;&gt;
+&lt;a href=&#34;http://www.hopkinsmedicine.org/pulmonary/research/outcomes_after_critical_illness_surgery/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Outcomes After Critical Illness and Surgery (OACIS) at JH&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Outcomes After Critical Illness and Surgery (OACIS) is a multidisciplinary clinical and research group focused on understanding and improving patient outcomes after critical illness and surgery. OACIS activities include clinical quality improvement projects and research focused on longitudinal, long-term patient outcomes assessments, both locally and nationally, with evaluation of physical, cognitive, and mental health outcomes.&lt;/p&gt;
+&lt;h3 id=&#34;prevalence-of-acute-rehab-for-kids-in-the-picu-park-picuhttpsparkwebjhuedu&#34;&gt;
+&lt;a href=&#34;https://park.web.jhu.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prevalence of Acute Rehab for Kids in the PICU (PARK-PICU)&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;PARK-PICU (Prevalence of Acute Rehab for Kids in the PICU) is a national point prevalence study to characterize the prevalence and characteristics of mobility as part of routine clinical care for critically ill children in United States PICUs.&lt;/p&gt;
+&lt;h2 id=&#34;apps-for-augmentative-and-alternative-communication-aac&#34;&gt;Apps for Augmentative and Alternative Communication (AAC)&lt;/h2&gt;
+&lt;p&gt;See also my 
+&lt;a href=&#34;https://www.smore.com/hqna3-apps-for-communication&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Smore Digital Flyer&lt;/a&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://itunes.apple.com/us/app/assistive-express/id379891874?mt=8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Assistive Express&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://itunes.apple.com/us/app/gotalk-now/id454176457?mt=8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GoTalk Now&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://itunes.apple.com/us/app/grid-player/id456278671?mt=8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Grid Player&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://itunes.apple.com/us/app/patient-communicator-by-sccm/id732242570?mt=8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Patient Communicator&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://itunes.apple.com/us/app/predictable/id404445007?mt=8&amp;amp;ign-mpt=uo%3D4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Predictable&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://itunes.apple.com/us/app/proloquo2go/id308368164?mt=8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Proloquo2Go&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://itunes.apple.com/us/app/quick-talk-aac/id487824507?mt=8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Quick Talk AAC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://itunes.apple.com/us/app/smalltalk-intensive-care/id403057381?mt=8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SmallTalk Intensive Care&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://itunes.apple.com/us/app/sono-flex/id463697022?mt=8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sono Flex&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://itunes.apple.com/us/app/sorenson-buzzcards/id380582593?mt=8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sorenson BuzzCards&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://itunes.apple.com/us/app/soundingboard/id390532167?mt=8&amp;amp;ign-mpt=uo%3D40&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SoundingBoard&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://itunes.apple.com/us/app/touchchat-hd-aac/id398860728?mt=8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TouchChat HD - AAC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://itunes.apple.com/us/app/verbally/id418671377?mt=8#&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Verbally&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://itunes.apple.com/us/app/verbally-premium/id470081134?mt=8&amp;amp;ign-mpt=uo%3D4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Verbally Premium&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;apps-for-coordination&#34;&gt;Apps for Coordination&lt;/h2&gt;
+&lt;p&gt;See also my 
+&lt;a href=&#34;https://www.smore.com/xq4kw-apps-for-coordination&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Smore digital flyer&lt;/a&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://itunes.apple.com/us/app/bubble-snap/id285646135?mt=8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bubble Snap&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://itunes.apple.com/us/app/dexteria-fine-motor-skill-development/id420464455?mt=8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dexteria&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://itunes.apple.com/us/app/id583678381?ign-mpt=uo%3D4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;iTrace Handwriting&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://itunes.apple.com/app/id435476174?mt=8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LetterSchool&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://itunes.apple.com/us/app/little-finder-the-hidden-object-game-for-kids/id491990709?mt=8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Little Finder&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://itunes.apple.com/us/app/letter-quiz-lite-alphabet-tracing-game-for-kids/id331573236?mt=8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Letter Quiz&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -3296,7 +3300,7 @@ CiteScore Rank and Rank Out Of&lt;/p&gt;
     <item>
       <title>Embase</title>
       <link>https://carrieprice78.github.io/guides/expert-searching/embase-tips/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
       <guid>https://carrieprice78.github.io/guides/expert-searching/embase-tips/</guid>
       <description>&lt;h2 id=&#34;when-to-use-embase&#34;&gt;When to Use Embase&lt;/h2&gt;
 &lt;p&gt;Embase has over 32 million records, including articles from 7,600 peer-reviewed journal titles. Sixty topic areas are covered, including thirty core clinical and pharmacology topics that represent over 70% of Embase content. The database has more of an international focus than PubMed, and also has greater coverage for pharmaceuticals and medical devices.&lt;/p&gt;
@@ -3387,7 +3391,7 @@ Other commands include:&lt;/p&gt;
     <item>
       <title>The Cochrane Library</title>
       <link>https://carrieprice78.github.io/guides/expert-searching/cochrane-tips/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
       <guid>https://carrieprice78.github.io/guides/expert-searching/cochrane-tips/</guid>
       <description>&lt;h2 id=&#34;when-to-use-the-cochrane-library&#34;&gt;When to Use the Cochrane Library&lt;/h2&gt;
 &lt;p&gt;The Cochrane Library is a collection of databases in medicine and other healthcare specialties provided by the Cochrane Collaboration and other organizations. At its core is the collection of Cochrane Reviews, a database of systematic reviews and meta-analyses which summarizes and interprets the results of medical research, which are often considered high-quality in terms of quality and reporting. The Cochrane Library also contains CENTRAL, the Cochrane Central Register of Controlled Trials.&lt;/p&gt;
@@ -3492,7 +3496,7 @@ TI=(&amp;ldquo;activities of daily living&amp;rdquo; OR &amp;ldquo;accelerated a
     <item>
       <title>Generate and Combine Search Terms</title>
       <link>https://carrieprice78.github.io/guides/expert-searching/generate-terms/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
       <guid>https://carrieprice78.github.io/guides/expert-searching/generate-terms/</guid>
       <description>&lt;h2 id=&#34;controlled-vocabulary&#34;&gt;Controlled Vocabulary&lt;/h2&gt;
 &lt;p&gt;Controlled vocabularies are a set of predetermined terms that describe specific concepts. You will find that many databases use their own controlled vocabularies (sometimes called index terms, subject headings, or a thesaurus) to enhance the findability of citations. If you have heard of MeSH, this stands for Medical Subject Headings, and is the controlled vocabulary used in PubMed.&lt;/p&gt;

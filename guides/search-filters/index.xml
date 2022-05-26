@@ -5,7 +5,7 @@
     <link>https://carrieprice78.github.io/guides/search-filters/</link>
       <atom:link href="https://carrieprice78.github.io/guides/search-filters/index.xml" rel="self" type="application/rss+xml" />
     <description>Search Filters</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 12 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 26 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://carrieprice78.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Search Filters</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Aged</title>
       <link>https://carrieprice78.github.io/guides/search-filters/aged/</link>
-      <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
       <guid>https://carrieprice78.github.io/guides/search-filters/aged/</guid>
       <description>&lt;h2 id=&#34;existing-filters&#34;&gt;Existing Filters&lt;/h2&gt;
 &lt;ul&gt;
@@ -69,7 +69,7 @@
       <description>&lt;h2 id=&#34;existing-filters&#34;&gt;Existing Filters&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://covid.cadth.ca/literature-searching-tools/cadth-covid-19-search-strings/#covid-19-medline&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CADTH&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://searchfilters.cadth.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CADTH&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://www.mlanet.org/page/covid-19-literature-searching&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Medical Library Association&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -241,7 +241,7 @@
     <item>
       <title>Methodological Filters</title>
       <link>https://carrieprice78.github.io/guides/search-filters/methodological-filters/</link>
-      <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
       <guid>https://carrieprice78.github.io/guides/search-filters/methodological-filters/</guid>
       <description>&lt;h2 id=&#34;existing-filters&#34;&gt;Existing Filters&lt;/h2&gt;
 &lt;h3 id=&#34;guidelines&#34;&gt;Guidelines&lt;/h3&gt;
@@ -254,7 +254,7 @@
 &lt;li&gt;
 &lt;a href=&#34;https://bestpractice.bmj.com/info/us/toolkit/learn-ebm/study-design-search-filters/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BMJ Study Design Search Filters&lt;/a&gt;: includes SR, RCT, cohort, case-control, case series, case study, adverse effects&lt;/li&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://www.cadth.ca/resources/finding-evidence/strings-attached-cadths-database-search-filters&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CADTH Database Search Filters&lt;/a&gt;: includes SR, RCT, guidelines, economics, quality of life&lt;/li&gt;
+&lt;a href=&#34;https://searchfilters.cadth.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CADTH Database Search Filters&lt;/a&gt;: includes SR, RCT, guidelines, economics&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;randomized-controlled-trials&#34;&gt;Randomized Controlled Trials&lt;/h3&gt;
 &lt;ul&gt;
@@ -318,19 +318,23 @@
       <link>https://carrieprice78.github.io/guides/search-filters/race-ethnicity/</link>
       <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
       <guid>https://carrieprice78.github.io/guides/search-filters/race-ethnicity/</guid>
-      <description>&lt;h2 id=&#34;existing-filters&#34;&gt;Existing Filters&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;bibliography&#34;&gt;Bibliography&lt;/h2&gt;
 &lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://digitalscholarship.unlv.edu/cgi/viewcontent.cgi?article=1735&amp;amp;context=lib_articles&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hispanic/Latinx Inclusive Terminologies Technical Report&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://docs.google.com/document/d/1DBXX157lnlhLcDTWMSQv0mwA6ZkdWL_0Awt6Qa5_Yfc/edit&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Letter to the MeSH Committee&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bass, M. B., Molina, R. L., Reardon, E. E., Porcello, L., Goldberg, J., Nickum, A., Lipke, L., Zeigen, L., Eldredge, J. D., &amp;amp; Wallerstein, N. B. (2022). Trends in…controlled vocabulary and health equity. &lt;em&gt;Medical Reference Services Quarterly, 41&lt;/em&gt;(2), 185–201. &lt;a href=&#34;https://doi.org/10.1080/02763869.2022.2060638&#34;&gt;https://doi.org/10.1080/02763869.2022.2060638&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;existing-filters&#34;&gt;Existing Filters&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://searchfilters.cadth.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CADTH Search Filters Database includes Indigenous Peoples in Canada&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://sites.google.com/a/york.ac.uk/issg-search-filters-resource/home/population-specific?authuser=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISSG Filters to find population specific studies&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://sites.google.com/a/york.ac.uk/issg-search-filters-resource/home/health-equity?authuser=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISSG Filters for Health Equity&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;search-builder-for-race-and-ethnicity-terms&#34;&gt;Search Builder for Race and Ethnicity Terms&lt;/h2&gt;
-&lt;h3 id=&#34;controlled-vocabulary&#34;&gt;Controlled Vocabulary&lt;/h3&gt;
-&lt;h4 id=&#34;pubmed&#34;&gt;PubMed&lt;/h4&gt;
-&lt;p&gt;&amp;ldquo;african americans&amp;rdquo;[mesh] OR &amp;ldquo;african continental ancestry group&amp;rdquo;[mesh] OR &amp;ldquo;alaska natives&amp;rdquo;[mesh] OR &amp;ldquo;american native continental ancestry group&amp;rdquo;[mesh] OR &amp;ldquo;apartheid&amp;rdquo;[mesh] OR &amp;ldquo;asian americans&amp;rdquo;[mesh] OR &amp;ldquo;asian continental ancestry group&amp;rdquo;[mesh] OR &amp;ldquo;civil rights&amp;rdquo;[mesh] OR &amp;ldquo;continental population groups&amp;rdquo;[mesh] OR &amp;ldquo;cultural diversity&amp;rdquo;[mesh] OR &amp;ldquo;desegregation&amp;rdquo;[mesh] OR &amp;ldquo;ethnology&amp;rdquo;[mesh] OR &amp;ldquo;ethnic groups&amp;rdquo;[mesh] OR &amp;ldquo;hispanic americans&amp;rdquo;[mesh] OR &amp;ldquo;indians, central american&amp;rdquo;[mesh] OR &amp;ldquo;indians, south american&amp;rdquo;[mesh] OR &amp;ldquo;indians, north american&amp;rdquo;[mesh] OR &amp;ldquo;indigenous peoples&amp;rdquo;[mesh] OR &amp;ldquo;inuits&amp;rdquo;[mesh] OR &amp;ldquo;minority groups&amp;rdquo;[mesh] OR &amp;ldquo;minority health&amp;rdquo;[mesh] OR &amp;ldquo;prejudice&amp;rdquo;[mesh] OR &amp;ldquo;race factors&amp;rdquo;[mesh] OR &amp;ldquo;race relations&amp;rdquo;[mesh] OR &amp;ldquo;racism&amp;rdquo;[mesh] OR &amp;ldquo;transients and migrants&amp;rdquo;[mesh] OR &amp;ldquo;undocumented immigrants&amp;rdquo;[mesh]&lt;/p&gt;
-&lt;h3 id=&#34;keywords&#34;&gt;Keywords&lt;/h3&gt;
-&lt;p&gt;aboriginal* OR african american OR african americans OR american indian* OR antiracism OR antiracist OR antiracists OR apartheid OR asian OR asians OR asian american OR asian americans OR BIPOC OR BIYOC OR black OR blackness OR blacks OR caste OR castes OR civil right* OR cuban american* OR desegregat* OR discriminat* OR diversity OR ethnic* OR emigrant* OR ethnolog* OR first nation OR first nations OR hispanic* OR illegal alien* OR immigrant* OR indigenous OR injustice* OR inuit* OR jim crow OR justice OR latina OR latino OR latinx OR man of color OR men of color OR mexican* OR migrant worker* OR minority OR minorities OR multirac* OR native american* OR native population* OR native people* OR person of color OR persons of color OR POC OR prejudic* OR puerto rican* OR race OR racial OR racially OR racism OR racist OR racists OR spanish american* OR segregat* OR SES OR transient worker* OR urp OR underrepresent* OR undocument* OR urban communit* OR urban population* OR vulnerable population* OR WOC OR women of color OR woman of color OR youth of color&lt;/p&gt;
 </description>
     </item>
     
@@ -351,14 +355,14 @@
     <item>
       <title>Tests and Measures</title>
       <link>https://carrieprice78.github.io/guides/search-filters/tests-measures/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
       <guid>https://carrieprice78.github.io/guides/search-filters/tests-measures/</guid>
       <description>&lt;h2 id=&#34;search-builder-for-slp&#34;&gt;Search Builder for SLP&lt;/h2&gt;
 &lt;h3 id=&#34;controlled-vocabulary&#34;&gt;Controlled Vocabulary&lt;/h3&gt;
 &lt;h4 id=&#34;pubmed&#34;&gt;PubMed&lt;/h4&gt;
-&lt;p&gt;&amp;ldquo;data collection&amp;rdquo;[mesh] OR &amp;ldquo;surveys and questionnaires&amp;rdquo;[mesh]&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;data collection&amp;rdquo;[mesh:noexp] OR &amp;ldquo;surveys and questionnaires&amp;rdquo;[mesh:noexp] OR &amp;ldquo;reference values&amp;rdquo;[mesh:noexp]&lt;/p&gt;
 &lt;h3 id=&#34;keywords&#34;&gt;Keywords&lt;/h3&gt;
-&lt;p&gt;index OR measure* OR questionnaire* OR scale* OR score* OR survey* OR test OR tests OR tool OR tools&lt;/p&gt;
+&lt;p&gt;index OR indexes OR indice OR interview* OR instrument* OR measure* OR questionnaire* OR rubric* OR scale* OR score* OR survey* OR test OR tests OR tool OR tools&lt;/p&gt;
 </description>
     </item>
     
