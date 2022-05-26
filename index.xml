@@ -543,7 +543,7 @@ Publibee is a platform developed by Stanford University individuals that uses Pu
       <description>&lt;h2 id=&#34;existing-filters&#34;&gt;Existing Filters&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://searchfilters.cadth.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CADTH&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://covid.cadth.ca/literature-searching-tools/cadth-covid-19-search-strings/#covid-19-medline&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CADTH&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://www.mlanet.org/page/covid-19-literature-searching&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Medical Library Association&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -1108,6 +1108,20 @@ Publibee is a platform developed by Stanford University individuals that uses Pu
     </item>
     
     <item>
+      <title>LGBTQIA&#43;</title>
+      <link>https://carrieprice78.github.io/guides/search-filters/lgbtqia/</link>
+      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://carrieprice78.github.io/guides/search-filters/lgbtqia/</guid>
+      <description>&lt;h2 id=&#34;search-builder-for-lgbtqia&#34;&gt;Search Builder for LGBTQIA&lt;/h2&gt;
+&lt;h3 id=&#34;controlled-vocabulary&#34;&gt;Controlled Vocabulary&lt;/h3&gt;
+&lt;h3 id=&#34;pubmed&#34;&gt;PubMed&lt;/h3&gt;
+&lt;p&gt;&amp;ldquo;bisexuality&amp;rdquo;[mesh] OR &amp;ldquo;health services for transgender persons&amp;rdquo;[mesh] OR &amp;ldquo;homosexuality&amp;rdquo;[mesh] OR &amp;ldquo;homosexuality, male&amp;rdquo;[mesh] OR &amp;ldquo;homosexuality, female&amp;rdquo;[mesh] OR &amp;ldquo;intersex persons&amp;rdquo;[mesh] OR &amp;ldquo;sexual and gender minorities&amp;rdquo;[mesh] OR &amp;ldquo;transgender persons&amp;rdquo;[mesh] OR &amp;ldquo;transsexualism&amp;rdquo;[mesh]&lt;/p&gt;
+&lt;h3 id=&#34;keywords&#34;&gt;Keywords&lt;/h3&gt;
+&lt;p&gt;agender* OR allosexual* OR androgyn* OR androsexual* OR asexual* OR bigender* OR bisexual* OR cis OR cisgender* OR cismale OR cisfemale OR demisexual* OR f2m OR FTM OR f to m OR female to male OR gay OR gender minorit* OR gender nonconforming OR gender minority OR gynosexual* OR hermaphrod* OR homosexual* OR intergender* OR inter gender* OR intersex* OR LBG OR LBGT OR LBGTQ OR LBGTQIA OR LGB OR LGBT OR LBGTQ OR LBGTQIA OR lesbian* OR m2f OR MTF OR M to F OR male to female OR monoamorous OR monosexual* OR nonbinary OR non binary OR pangender* OR pansexual* OR polyamorous OR polysexual* OR queer* OR sexual minorit* OR trans OR transgender* OR transsexual* OR trans gender OR transmasculin* OR transfeminin* OR trans sexual* OR trans masculin* OR trans feminin*&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Which Databases to Search?</title>
       <link>https://carrieprice78.github.io/guides/expert-searching/which-database/</link>
       <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
@@ -1125,20 +1139,6 @@ Publibee is a platform developed by Stanford University individuals that uses Pu
 &lt;a href=&#34;https://en.wikipedia.org/wiki/List_of_academic_databases_and_search_engines&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wikipedia: List of academic databases and search engines&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;It will be useful, if your goal is a thorough survey of the literature, to search more than one database. While there may be some overlap, each database indexes different sources and publishers.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>LGBTQIA&#43;</title>
-      <link>https://carrieprice78.github.io/guides/search-filters/lgbtqia/</link>
-      <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://carrieprice78.github.io/guides/search-filters/lgbtqia/</guid>
-      <description>&lt;h2 id=&#34;search-builder-for-lgbtqia&#34;&gt;Search Builder for LGBTQIA&lt;/h2&gt;
-&lt;h3 id=&#34;controlled-vocabulary&#34;&gt;Controlled Vocabulary&lt;/h3&gt;
-&lt;h3 id=&#34;pubmed&#34;&gt;PubMed&lt;/h3&gt;
-&lt;p&gt;&amp;ldquo;bisexuality&amp;rdquo;[mesh] OR &amp;ldquo;health services for transgender persons&amp;rdquo;[mesh] OR &amp;ldquo;homosexuality&amp;rdquo;[mesh] OR &amp;ldquo;homosexuality, male&amp;rdquo;[mesh] OR &amp;ldquo;homosexuality, female&amp;rdquo;[mesh] OR &amp;ldquo;intersex persons&amp;rdquo;[mesh] OR &amp;ldquo;sexual and gender minorities&amp;rdquo;[mesh] OR &amp;ldquo;transgender persons&amp;rdquo;[mesh] OR &amp;ldquo;transsexualism&amp;rdquo;[mesh]&lt;/p&gt;
-&lt;h3 id=&#34;keywords&#34;&gt;Keywords&lt;/h3&gt;
-&lt;p&gt;agender* OR allosexual* OR androgyn* OR androsexual* OR asexual* OR bigender* OR bisexual* OR cis OR cisgender* OR cismale OR cisfemale OR demisexual* OR f2m OR FTM OR f to m OR female to male OR gay OR gender minorit* OR gender nonconforming OR gender minority OR gynosexual* OR hermaphrod* OR homosexual* OR intergender* OR inter gender* OR intersex* OR LBG OR LBGT OR LBGTQ OR LBGTQIA OR LGB OR LGBT OR LBGTQ OR LBGTQIA OR lesbian* OR m2f OR MTF OR M to F OR male to female OR monoamorous OR monosexual* OR nonbinary OR non binary OR pangender* OR pansexual* OR polyamorous OR polysexual* OR queer* OR sexual minorit* OR trans OR transgender* OR transsexual* OR trans gender OR transmasculin* OR transfeminin* OR trans sexual* OR trans masculin* OR trans feminin*&lt;/p&gt;
 </description>
     </item>
     
@@ -1666,7 +1666,7 @@ Publibee is a platform developed by Stanford University individuals that uses Pu
     <item>
       <title>Race and Ethnicity</title>
       <link>https://carrieprice78.github.io/guides/search-filters/race-ethnicity/</link>
-      <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
       <guid>https://carrieprice78.github.io/guides/search-filters/race-ethnicity/</guid>
       <description>&lt;h2 id=&#34;bibliography&#34;&gt;Bibliography&lt;/h2&gt;
 &lt;ul&gt;
@@ -1691,7 +1691,7 @@ Publibee is a platform developed by Stanford University individuals that uses Pu
     <item>
       <title>Speech-Language Pathology</title>
       <link>https://carrieprice78.github.io/guides/search-filters/speech-language-pathology/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
       <guid>https://carrieprice78.github.io/guides/search-filters/speech-language-pathology/</guid>
       <description>&lt;h2 id=&#34;search-builder-for-slp&#34;&gt;Search Builder for SLP&lt;/h2&gt;
 &lt;h3 id=&#34;controlled-vocabulary&#34;&gt;Controlled Vocabulary&lt;/h3&gt;
