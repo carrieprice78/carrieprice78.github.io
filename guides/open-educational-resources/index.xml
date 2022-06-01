@@ -5,7 +5,7 @@
     <link>https://carrieprice78.github.io/guides/open-educational-resources/</link>
       <atom:link href="https://carrieprice78.github.io/guides/open-educational-resources/index.xml" rel="self" type="application/rss+xml" />
     <description>Open Educational Resources</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 12 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://carrieprice78.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Open Educational Resources</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Accessible Education</title>
       <link>https://carrieprice78.github.io/guides/open-educational-resources/accessible-education/</link>
-      <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://carrieprice78.github.io/guides/open-educational-resources/accessible-education/</guid>
       <description>&lt;h2 id=&#34;characteristics-of-accessible-education&#34;&gt;Characteristics of Accessible Education&lt;/h2&gt;
 &lt;ul&gt;
@@ -90,7 +90,7 @@
 &lt;a href=&#34;https://webaim.org/techniques/alttext/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WebAIM&amp;rsquo;s section on alternative text&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;See more from the 
-&lt;a href=&#34;https://www.washington.edu/accessibility/documents/overview/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Washington&amp;rsquo;s Overview of Accessible Documents&lt;/a&gt; page.&lt;/p&gt;
+&lt;a href=&#34;https://www.washington.edu/accessibility/documents/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Washington&amp;rsquo;s Overview of Accessible Documents&lt;/a&gt; page.&lt;/p&gt;
 &lt;h3 id=&#34;word-documents&#34;&gt;Word Documents&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -107,9 +107,7 @@
 &lt;li&gt;
 &lt;a href=&#34;https://www.section508.gov/create/pdfs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Create Accessible PDFs from Section508.gov&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://www.washington.edu/accessibility/documents/pdf-forms/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Creating Accessible PDF Forms Using Adobe Acrobat Pro from University of Washington&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://www.washington.edu/accessibility/documents/pdf-word/0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Creating Accessible PDF from MS Word from University of Washington&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://www.washington.edu/accessibility/documents/check-pdfs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check PDFs for Accessibility from University of Washington&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;presentations&#34;&gt;Presentations&lt;/h3&gt;
 &lt;ul&gt;
@@ -118,7 +116,7 @@
 &lt;li&gt;
 &lt;a href=&#34;https://www.section508.gov/create/presentations&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Create Accessible Presentations from Section508.gov&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://www.washington.edu/accessibility/documents/creating-accessible-presentations-in-microsoft-powerpoint/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Creating Accessible Presentations in MS PowerPoint from University of Washington&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://www.washington.edu/accessibility/documents/powerpoint/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Creating Accessible Presentations in MS PowerPoint from University of Washington&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;apps-for-assistive-education&#34;&gt;Apps for Assistive Education&lt;/h2&gt;
 &lt;h3 id=&#34;apps-for-reading&#34;&gt;Apps for Reading&lt;/h3&gt;
@@ -145,8 +143,6 @@
 &lt;li&gt;
 &lt;a href=&#34;http://www.bemyeyes.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Be My Eyes&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
-&lt;a href=&#34;http://www.knfbreader.com/products-mobile.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;KNFB Reader&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
 &lt;a href=&#34;https://itunes.apple.com/us/app/supervision&amp;#43;-magnifier/id691435681?mt=8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SuperVision + Magnifier&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://itunes.apple.com/us/app/vo-starter/id586844936?mt=8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;VO Starter&lt;/a&gt;&lt;/li&gt;
@@ -155,8 +151,6 @@
 &lt;ul&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://play.google.com/store/apps/details?id=com.itechsa.ear.agent.tool.aid.hearing.amplifier&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ear Agent&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://itunes.apple.com/us/app/id569522474&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HearYouNow&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://play.google.com/store/apps/details?id=us.porrassoft.volumebooster&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ultimate Volume Booster&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -206,8 +200,8 @@
 &lt;h3 id=&#34;aahsl-health-information-literacy-competency-maphttpswwwaahslorgassetsdocshealth20information20literacy20competencies20map2028excel29pdf&#34;&gt;
 &lt;a href=&#34;https://www.aahsl.org/assets/docs/Health%20Information%20Literacy%20Competencies%20Map%20%28excel%29.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AAHSL Health Information Literacy Competency Map&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;This resource is developed by the Association of Academic Health Sciences Libraries (AAHSL) Competency-Based Medical Education Task Force (2018). It maps the ACRL Information Literacy Frames to the AAMC Core Entrustable Professional Activities for Entering Residency and the ACGME Core Competency requirements.&lt;/p&gt;
-&lt;h3 id=&#34;acrl-framework-for-information-literacy-for-higher-education-sandboxhttpsandboxacrlorg&#34;&gt;
-&lt;a href=&#34;http://sandbox.acrl.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACRL Framework for Information Literacy for Higher Education Sandbox&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;acrl-framework-for-information-literacy-for-higher-education-sandboxhttpssandboxacrlorg&#34;&gt;
+&lt;a href=&#34;https://sandbox.acrl.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACRL Framework for Information Literacy for Higher Education Sandbox&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;Find open lesson plans to incorporate information literacy into your curriculum. From the Association of College and Research Libraries, a division of the American Library Association.&lt;/p&gt;
 &lt;h3 id=&#34;acrl-information-literacy-competency-standards-for-nursinghttpwwwalaorgacrlstandardsnursing&#34;&gt;
 &lt;a href=&#34;http://www.ala.org/acrl/standards/nursing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACRL Information Literacy Competency Standards for Nursing&lt;/a&gt;&lt;/h3&gt;
