@@ -531,7 +531,7 @@ Other commands include:&lt;/p&gt;
     <item>
       <title>Generate and Combine Search Terms</title>
       <link>https://carrieprice78.github.io/guides/expert-searching/generate-terms/</link>
-      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 20 Feb 2023 00:00:00 +0000</pubDate>
       <guid>https://carrieprice78.github.io/guides/expert-searching/generate-terms/</guid>
       <description>&lt;h2 id=&#34;controlled-vocabulary&#34;&gt;Controlled Vocabulary&lt;/h2&gt;
 &lt;p&gt;Controlled vocabularies are a set of predetermined terms that describe specific concepts. You will find that many databases use their own controlled vocabularies (sometimes called index terms, subject headings, or a thesaurus) to enhance the findability of citations. If you have heard of MeSH, this stands for Medical Subject Headings, and is the controlled vocabulary used in PubMed.&lt;/p&gt;
@@ -578,7 +578,7 @@ Other commands include:&lt;/p&gt;
 &lt;/ul&gt;
 &lt;p&gt;If you want to be as comprehensive as possible, search with both controlled vocabulary and keywords.&lt;/p&gt;
 &lt;h3 id=&#34;use-caution&#34;&gt;Use Caution&lt;/h3&gt;
-&lt;p&gt;In bibliographic databases, stop words are words that the database has been programmed to ignore in a search string or query. Stop words include of, the, is, at, which,and on. Avoid using stopwords in your searches.&lt;/p&gt;
+&lt;p&gt;In bibliographic databases, stop words are words that the database has been programmed to ignore in a search string or query. Stop words include &lt;em&gt;of, the, is, at, which, and on&lt;/em&gt;. Avoid using stopwords in your searches.&lt;/p&gt;
 </description>
     </item>
     
