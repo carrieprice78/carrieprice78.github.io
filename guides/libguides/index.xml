@@ -17,13 +17,13 @@
       <link>https://carrieprice78.github.io/guides/libguides/using-embedded/</link>
       <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
       <guid>https://carrieprice78.github.io/guides/libguides/using-embedded/</guid>
-      <description>&lt;p&gt;Both Bootstrap 3.3.0 and Font Awesome 4.7.0 are built-in to LibGuides. These are the versions as of March, 2021.&lt;/p&gt;
+      <description>&lt;p&gt;Both Bootstrap 3.3.7 and Font Awesome 4.7.0 are built-in to LibGuides. These are the versions as of March, 2021.&lt;/p&gt;
 &lt;h2 id=&#34;bootstrap&#34;&gt;Bootstrap&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://blog.getbootstrap.com/2014/10/29/bootstrap-3-3-0-released/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bootstrap 3.3.0&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Bootstrap is an open-source CSS framework that helps users create responsive, device-friendly websites. As of March, 2021, version 3.3.0 is built in to the LibGuides and LibGuides CMS platforms. LibGuides content creators can use components or a Bootstrap grid or table by using the appropriate HTML in their source code.&lt;/p&gt;
+&lt;p&gt;Bootstrap is an open-source CSS framework that helps users create responsive, device-friendly websites. As of September, 2023, version 3.3.7 is built in to the LibGuides and LibGuides CMS platforms. LibGuides content creators can use components or a Bootstrap grid or table by using the appropriate HTML in their source code.&lt;/p&gt;
 &lt;p&gt;Of particular interest are the 
 &lt;a href=&#34;https://getbootstrap.com/docs/3.3/components/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Components&lt;/a&gt;, which are template-based snippets of code that can be inserted into the HTML of LibGuides. To use, view the source code of any rich text/HTML element and paste the component you wish to use.&lt;/p&gt;
 &lt;p&gt;The 
