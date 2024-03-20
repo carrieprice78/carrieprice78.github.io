@@ -2044,8 +2044,7 @@ CiteScore Rank and Rank Out Of&lt;/p&gt;
 &lt;a href=&#34;http://proboards.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ProBoards&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://slack.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slack&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;http://twitter.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; (&lt;a href=&#34;http://twitter.com/&#34;&gt;http://twitter.com/&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;multimodal-production&#34;&gt;Multimodal Production&lt;/h2&gt;
 &lt;h3 id=&#34;digital-pinboards-and-whiteboards&#34;&gt;Digital Pinboards and Whiteboards&lt;/h3&gt;
@@ -2071,8 +2070,6 @@ CiteScore Rank and Rank Out Of&lt;/p&gt;
 &lt;a href=&#34;http://nearpod.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nearpod&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;http://softchalk.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SoftChalk&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;http://udutu.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Udutu&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
