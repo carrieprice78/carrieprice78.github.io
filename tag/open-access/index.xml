@@ -1,16 +1,102 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>open access | Carrie Price, MLS</title>
+    <title>Open Access | Carrie Price, MLS</title>
     <link>https://carrieprice78.github.io/tag/open-access/</link>
       <atom:link href="https://carrieprice78.github.io/tag/open-access/index.xml" rel="self" type="application/rss+xml" />
-    <description>open access</description>
+    <description>Open Access</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://carrieprice78.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>open access</title>
+      <url>https://carrieprice78.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Open Access</title>
       <link>https://carrieprice78.github.io/tag/open-access/</link>
     </image>
+    
+    <item>
+      <title>Open Educational Resources</title>
+      <link>https://carrieprice78.github.io/guides/open-educational-resources/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://carrieprice78.github.io/guides/open-educational-resources/</guid>
+      <description>&lt;h2 id=&#34;open-courses&#34;&gt;Open Courses&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.coursera.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Coursera&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.edx.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;edX&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.freecodecamp.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FreeCodeCamp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://online-learning.harvard.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Harvard Online Learning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.icde.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;International Council for Open and Distance Education&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.khanacademy.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kahn Academy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://ocw.mit.edu/index.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT OpenCourseWare&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://oeru.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OERu&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://iite.unesco.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UNESCO Institute for Information Technologies in Education&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;open-educational-resources-repositories&#34;&gt;Open Educational Resources Repositories&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://ablconnect.harvard.edu/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ABL Connect&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.merlot.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Merlot&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://odyssey.lib.vt.edu/s/home/item-set&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Odyssey at Virginia Tech&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.oercommons.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OER Commons&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://opencourselibrary.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Course Library&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.loc.gov/education/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Education Resources from the Library of Congress&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://open.umich.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Michigan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.oercommons.org/hubs/OSKB&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Scholarship Knowledge Base from OER Commons&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://cnx.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OpenStax CNX&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.projectcora.org/resources&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Project CORA&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;open-textbooks&#34;&gt;Open Textbooks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.intechopen.com/books&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;InTech&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://milneopentextbooks.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Milne Open Textbooks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://ocw.mit.edu/courses/online-textbooks/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT OpenCourseWare Online Textbooks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://cnx.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OpenStax&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://open.umn.edu/opentextbooks/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Textbook Library&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;foamed-free-online-open-access-medical-education&#34;&gt;FOAMed (Free Online Open Access Medical Education)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.aliem.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic Life in Emergency Medicine&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.thebottomline.org.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Bottom Line Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://emcrit.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EMCrit Project&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://emergencymedicinecases.com/about/foamed/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Emergency Medicine Cases&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.reddit.com/r/Foamed/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FOAMed on Reddit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://twitter.com/hashtag/foamed&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FOAMed on Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.fluidacademy.org/member-resources.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;International Fluid Academy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://litfl.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Life in the Fast Lane (LIFL)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://rebelem.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RebelEM&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

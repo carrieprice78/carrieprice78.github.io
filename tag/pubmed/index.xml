@@ -1,16 +1,74 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>pubmed | Carrie Price, MLS</title>
+    <title>Pubmed | Carrie Price, MLS</title>
     <link>https://carrieprice78.github.io/tag/pubmed/</link>
       <atom:link href="https://carrieprice78.github.io/tag/pubmed/index.xml" rel="self" type="application/rss+xml" />
-    <description>pubmed</description>
+    <description>Pubmed</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 13 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://carrieprice78.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>pubmed</title>
+      <url>https://carrieprice78.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Pubmed</title>
       <link>https://carrieprice78.github.io/tag/pubmed/</link>
     </image>
+    
+    <item>
+      <title>PubMed</title>
+      <link>https://carrieprice78.github.io/guides/pubmed/</link>
+      <pubDate>Wed, 13 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://carrieprice78.github.io/guides/pubmed/</guid>
+      <description>&lt;h2 id=&#34;accessing-pubmed&#34;&gt;Accessing PubMed&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PubMed&lt;/a&gt; is freely available on the web to anyone with internet access. If you access PubMed through your institution or library, you may have access to more of its subscription content.&lt;/p&gt;
+&lt;h2 id=&#34;creating-an-account&#34;&gt;Creating an Account&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;In the upper right-hand corner of PubMed, click on Log in.&lt;/li&gt;
+&lt;li&gt;Choose &lt;strong&gt;Other login options&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Scroll to the bottom and click &lt;strong&gt;New here? Sign up&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Choose &lt;strong&gt;More sign up options&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Search for your institution.&lt;/li&gt;
+&lt;li&gt;You should be able to use your institution credentials. You will need to verify your email.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;You may choose another option if you do not want to use your institution.&lt;/p&gt;
+&lt;h2 id=&#34;identifying-subject-headings&#34;&gt;Identifying Subject Headings&lt;/h2&gt;
+&lt;p&gt;Identifying subject headings can help you generate additional search terms or simply understand a concept better.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;On the PubMed home page, navigate to Explore.&lt;/li&gt;
+&lt;li&gt;Choose 
+&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/mesh/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MeSH Database&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Search for subject headings that are relevant to your topic.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;creating-robust-searches&#34;&gt;Creating Robust Searches&lt;/h2&gt;
+&lt;p&gt;Searching is a combination of trial and error and practice. You can learn to strategize your approach to searching by experimenting. Effective searches contain concepts that define your topic. They may also contain both subject headings and additional keywords.&lt;/p&gt;
+&lt;h2 id=&#34;using-field-tags&#34;&gt;Using Field Tags&lt;/h2&gt;
+&lt;p&gt;Using field tags can help you make a more effective search. Field tags can be used to limit to title only, title abstract, author, first author, last author, MeSH term, affiliation, and more. Field tags are used within square brackets at the end of your search term. See more information on 
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/help/#search-tags&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;field tags&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;saving-searches-and-setting-up-alerts&#34;&gt;Saving Searches and Setting Up Alerts&lt;/h2&gt;
+&lt;p&gt;Once you have created an account in PubMed/NCBI, you will be able to save searches and create alerts.&lt;/p&gt;
+&lt;h3 id=&#34;saving-search-results&#34;&gt;Saving Search Results&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Run the search.&lt;/li&gt;
+&lt;li&gt;Select the results you&amp;rsquo;d like to save.&lt;/li&gt;
+&lt;li&gt;Select &lt;strong&gt;Send to&lt;/strong&gt; and select &lt;strong&gt;Collection&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Name the collection.
+The collection will be in the Dashboard of your account. You can access it whenever you log in. If you choose not to log in, you can simply email your results to yourself.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;setting-up-alerts&#34;&gt;Setting Up Alerts&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Run the search you would like to set up alerts for.&lt;/li&gt;
+&lt;li&gt;Click on &lt;strong&gt;Create alert&lt;/strong&gt; under the search box and choose your preferred settings.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;You can log in again to edit the search alert.&lt;/p&gt;
+&lt;h2 id=&#34;identifying-journals-indexed-in-medline&#34;&gt;Identifying Journals Indexed in MEDLINE&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;On the PubMed home page, navigate to Explore.&lt;/li&gt;
+&lt;li&gt;Choose 
+&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/nlmcatalog/journals/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journals&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Search for the journal you are interested in.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;From here, you can investigate more about the journal to determine if it is indexed in MEDLINE. You can also &lt;strong&gt;Add to Search Builder&lt;/strong&gt; to complete a search on the journal you have selected.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
